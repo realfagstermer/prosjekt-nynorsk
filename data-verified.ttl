@@ -1,57 +1,61 @@
-@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://data.ub.uio.no/realfagstermer/c000516> ns1:altLabel "Måltrost"@nn .
+<http://data.ub.uio.no/realfagstermer/c000516> skos:altLabel "Måltrost"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c001824> ns1:prefLabel "Kvantekosmologi"@nn .
+<http://data.ub.uio.no/realfagstermer/c001824> skos:prefLabel "Kvantekosmologi"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c003238> ns1:prefLabel "Kosmologiske modellar"@nn .
+<http://data.ub.uio.no/realfagstermer/c003238> skos:prefLabel "Kosmologiske modellar"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c003478> ns1:altLabel "Faste elektrolyttar"@nn,
+<http://data.ub.uio.no/realfagstermer/c003478> skos:altLabel "Faste elektrolyttar"@nn,
         "Raske ioneleiarar"@nn,
         "Superioniske leiarar"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c004265> ns1:prefLabel "Relativistisk kosmologi"@nn .
+<http://data.ub.uio.no/realfagstermer/c004265> skos:prefLabel "Relativistisk kosmologi"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c008029> ns1:prefLabel "Kopernikansk kosmologi"@nn .
+<http://data.ub.uio.no/realfagstermer/c008029> skos:prefLabel "Kopernikansk kosmologi"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c008366> ns1:altLabel "Stellar utvikling"@nn,
+<http://data.ub.uio.no/realfagstermer/c008366> skos:altLabel "Stellar utvikling"@nn,
         "Stellarisk utvikling"@nn,
         "Stjerneevolusjon"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c011287> ns1:altLabel "Intramolekylære krefter"@nn,
+<http://data.ub.uio.no/realfagstermer/c011287> skos:altLabel "Intramolekylære krefter"@nn,
         "Molekylkrefter"@nn,
         "Molekylære krefter"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c012416> ns1:altLabel "Actinoid"@nn,
+<http://data.ub.uio.no/realfagstermer/c012416> skos:altLabel "Actinoid"@nn,
         "Aktinid"@nn,
         "Aktinoid"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c012970> ns1:altLabel "Clusteranalyse"@nn,
+<http://data.ub.uio.no/realfagstermer/c012548> skos:prefLabel "Åbor"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012549> skos:prefLabel "Åborfiskar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012970> skos:altLabel "Clusteranalyse"@nn,
         "Klaseanalyse"@nn,
         "Klusteranalyse"@nn,
         "Klustring"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c013007> ns1:prefLabel "Observasjonskosmologi"@nn .
+<http://data.ub.uio.no/realfagstermer/c013007> skos:prefLabel "Observasjonskosmologi"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c013436> ns1:prefLabel "Kosmologi"@nn .
+<http://data.ub.uio.no/realfagstermer/c013436> skos:prefLabel "Kosmologi"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c013527> ns1:prefLabel "Bosnisk språk"@nn .
+<http://data.ub.uio.no/realfagstermer/c013527> skos:prefLabel "Bosnisk språk"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c013667> ns1:altLabel "Europeisk gauk"@nn .
+<http://data.ub.uio.no/realfagstermer/c013667> skos:altLabel "Europeisk gauk"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c031231> ns1:altLabel "Löwnerlikninga"@nn .
+<http://data.ub.uio.no/realfagstermer/c031231> skos:altLabel "Löwnerlikninga"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c031232> ns1:altLabel "Schramm-Löwner-likninga"@nn,
+<http://data.ub.uio.no/realfagstermer/c031232> skos:altLabel "Schramm-Löwner-likninga"@nn,
         "Schramm-Löwners likning"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c031233> ns1:altLabel "Kvarksuppe"@nn .
+<http://data.ub.uio.no/realfagstermer/c031233> skos:altLabel "Kvarksuppe"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c031235> ns1:altLabel "Diettar"@nn .
+<http://data.ub.uio.no/realfagstermer/c031235> skos:altLabel "Diettar"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c031255> ns1:altLabel "Laplace-operator"@nn,
+<http://data.ub.uio.no/realfagstermer/c031255> skos:altLabel "Laplace-operator"@nn,
         "Laplaceoperatoren"@nn .
 
