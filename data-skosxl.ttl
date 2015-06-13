@@ -91,6 +91,9 @@
 <http://data.ub.uio.no/realfagstermer/c000252> dct:modified "2015-06-13T13:46:43.390000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/ta03b06da-11d2-11e5-8d2f-f23c91890d47> .
 
+<http://data.ub.uio.no/realfagstermer/c000266> dct:modified "2015-06-13T18:07:54.047000+00:00"^^xsd:dateTime ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t1ca916de-11f7-11e5-b77c-f23c91890d47> .
+
 <http://data.ub.uio.no/realfagstermer/c000288> dct:modified "2015-05-31T11:46:29.341000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tacf30622-078a-11e5-9b9e-f23c91890d47> .
 
@@ -663,6 +666,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c002015> dct:modified "2015-06-04T20:31:21.251000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/ta93d606a-0af8-11e5-95a6-f23c91890d47> .
+
+<http://data.ub.uio.no/realfagstermer/c002023> dct:modified "2015-06-13T17:59:26.012000+00:00"^^xsd:dateTime ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/teddb787a-11f5-11e5-8201-f23c91890d47> .
 
 <http://data.ub.uio.no/realfagstermer/c002027> dct:modified "2015-06-13T13:18:06.241000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/ta0ba4f3e-11ce-11e5-ac7e-f23c91890d47> .
@@ -2503,6 +2509,10 @@ Er det mogleg å gjera dette meir elegant?""" ;
 
 <http://data.ub.uio.no/realfagstermer/c007534> dct:modified "2015-06-04T20:39:35.094000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tcf957256-0af9-11e5-9abe-f23c91890d47> .
+
+<http://data.ub.uio.no/realfagstermer/c007555> dct:modified "2015-06-13T18:07:50.508000+00:00"^^xsd:dateTime ;
+    xl:altLabel <http://data.ub.uio.no/realfagstermer/t1a907266-11f7-11e5-81eb-f23c91890d47> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t1a8e80d2-11f7-11e5-9eb9-f23c91890d47> .
 
 <http://data.ub.uio.no/realfagstermer/c007556> dct:modified "2015-05-31T10:27:53.319000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tb1fac23c-077f-11e5-a813-f23c91890d47> .
@@ -5941,6 +5951,18 @@ Er det mogleg å gjera dette meir elegant?""" ;
     dct:modified "2015-05-31T14:46:49+02:00"^^xsd:dateTime ;
     xl:literalForm "Alpine økosystem"@nn .
 
+<http://data.ub.uio.no/realfagstermer/t1a8e80d2-11f7-11e5-9eb9-f23c91890d47> a xl:Label ;
+    dct:created "2015-06-13T20:07:50+02:00"^^xsd:dateTime ;
+    dct:creator <http://trans.biblionaut.net/data/users/ac11dfd8-c844-11e4-bb44-f23c91890d47> ;
+    dct:modified "2015-06-13T20:07:50+02:00"^^xsd:dateTime ;
+    xl:literalForm "Bionanoteknologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/t1a907266-11f7-11e5-81eb-f23c91890d47> a xl:Label ;
+    dct:created "2015-06-13T20:07:50+02:00"^^xsd:dateTime ;
+    dct:creator <http://trans.biblionaut.net/data/users/ac11dfd8-c844-11e4-bb44-f23c91890d47> ;
+    dct:modified "2015-06-13T20:07:50+02:00"^^xsd:dateTime ;
+    xl:literalForm "Nanobioteknologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/t1af7d242-0790-11e5-8adc-f23c91890d47> a xl:Label ;
     dct:created "2015-05-31T14:25:21+02:00"^^xsd:dateTime ;
     dct:creator <http://trans.biblionaut.net/data/users/ac11dfd8-c844-11e4-bb44-f23c91890d47> ;
@@ -6018,6 +6040,12 @@ Er det mogleg å gjera dette meir elegant?""" ;
     dct:creator <http://trans.biblionaut.net/data/users/ac11dfd8-c844-11e4-bb44-f23c91890d47> ;
     dct:modified "2015-06-13T15:43:01+02:00"^^xsd:dateTime ;
     xl:literalForm "Biokol"@nn .
+
+<http://data.ub.uio.no/realfagstermer/t1ca916de-11f7-11e5-b77c-f23c91890d47> a xl:Label ;
+    dct:created "2015-06-13T20:07:54+02:00"^^xsd:dateTime ;
+    dct:creator <http://trans.biblionaut.net/data/users/ac11dfd8-c844-11e4-bb44-f23c91890d47> ;
+    dct:modified "2015-06-13T20:07:54+02:00"^^xsd:dateTime ;
+    xl:literalForm "Bioorganisk kjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/t1ceeb7d2-078b-11e5-87f6-f23c91890d47> a xl:Label ;
     dct:created "2015-05-31T13:49:37+02:00"^^xsd:dateTime ;
@@ -15312,6 +15340,12 @@ Er det mogleg å gjera dette meir elegant?""" ;
     dct:creator <http://trans.biblionaut.net/data/users/ac11dfd8-c844-11e4-bb44-f23c91890d47> ;
     dct:modified "2015-06-04T21:28:50+02:00"^^xsd:dateTime ;
     xl:literalForm "Antarktisk vegetasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/teddb787a-11f5-11e5-8201-f23c91890d47> a xl:Label ;
+    dct:created "2015-06-13T19:59:25+02:00"^^xsd:dateTime ;
+    dct:creator <http://trans.biblionaut.net/data/users/ac11dfd8-c844-11e4-bb44-f23c91890d47> ;
+    dct:modified "2015-06-13T19:59:25+02:00"^^xsd:dateTime ;
+    xl:literalForm "Biomineralisering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/tede72064-0afa-11e5-9bf2-f23c91890d47> a xl:Label ;
     dct:created "2015-06-04T22:47:35+02:00"^^xsd:dateTime ;
