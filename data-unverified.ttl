@@ -404,8 +404,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c000637> skos:prefLabel "Områdeplanlegging"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c000641> skos:altLabel "Busetjingsmønster"@nn ;
-    skos:prefLabel "Busettingsmønster"@nn .
+<http://data.ub.uio.no/realfagstermer/c000641> skos:altLabel "Busetjingsmønster"@nn,
+        "Busettingsmønster"@nn ;
+    skos:prefLabel "Busetnadsmønster"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000644> skos:prefLabel "Aktive område"@nn .
 
@@ -1493,8 +1494,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c002197> skos:prefLabel "Maskinvareevaluering"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c002198> skos:altLabel "Busetjingar"@nn ;
-    skos:prefLabel "Busettingar"@nn .
+<http://data.ub.uio.no/realfagstermer/c002198> skos:altLabel "Busetjingar"@nn,
+        "Busetnadar"@nn,
+        "Busettingar"@nn ;
+    skos:prefLabel "Busetnader"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002203> skos:prefLabel "Duer"@nn .
 
@@ -1703,10 +1706,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c002519> skos:prefLabel "Ccd"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c002521> skos:altLabel "Utryggeberekningar"@nn,
-        "Utryggjeberekningar"@nn,
+<http://data.ub.uio.no/realfagstermer/c002521> skos:altLabel "Usikkerheitsberekningar"@nn,
         "Utryggleiksberekningar"@nn ;
-    skos:prefLabel "Usikkerheitsberekningar"@nn .
+    skos:prefLabel "Uvisseberekningar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002523> skos:altLabel "Tunellar"@nn ;
     skos:prefLabel "Tunnelar"@nn .
@@ -1740,12 +1742,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c002565> skos:prefLabel "D-modular"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002566> skos:prefLabel "Dyrehald"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002568> skos:prefLabel "Strålekjelder"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002569> skos:altLabel "Usikkerheit"@nn,
-        "Utrygge"@nn,
-        "Utryggje"@nn ;
-    skos:prefLabel "Utryggleik"@nn .
+        "Utrygge"@nn ;
+    skos:prefLabel "Uvisse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002578> skos:altLabel "Infraraudt lys"@nn ;
     skos:prefLabel "Infraraudt ljos"@nn .
@@ -1910,10 +1913,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c002820> skos:prefLabel "Kollisjonsbestemming"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c002822> skos:altLabel "Konkurranseutsetjing"@nn,
+<http://data.ub.uio.no/realfagstermer/c002822> skos:altLabel "Konkurranseutsetting"@nn,
         "Outsourcing"@nn,
         "Privatisering"@nn ;
-    skos:prefLabel "Konkurranseutsetting"@nn .
+    skos:prefLabel "Konkurranseutsetjing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002827> skos:altLabel "Cam-plantar"@nn ;
     skos:prefLabel "Cam-planter"@nn .
@@ -2027,7 +2030,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003015> skos:prefLabel "Astronomiske system"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c003016> skos:prefLabel "Namnsetting"@nn .
+<http://data.ub.uio.no/realfagstermer/c003016> skos:altLabel "Namnsetting"@nn ;
+    skos:prefLabel "Namnsetjing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003018> skos:prefLabel "Kapitalavkastning"@nn .
 
@@ -3930,7 +3934,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c005996> skos:prefLabel "Agroøkologi"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c006008> skos:prefLabel "Målsettingar"@nn .
+<http://data.ub.uio.no/realfagstermer/c006005> skos:prefLabel "Djupnekonvertering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006008> skos:altLabel "Målsettingar"@nn ;
+    skos:prefLabel "Målsetjingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006010> skos:prefLabel "Forsking"@nn .
 
@@ -4111,8 +4118,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006299> skos:altLabel "Frisetjing"@nn,
         "Frisetting"@nn,
-        "Kontrollert frisetjing"@nn ;
-    skos:prefLabel "Kontrollert frisetting"@nn .
+        "Kontrollert frisetting"@nn ;
+    skos:prefLabel "Kontrollert frisetjing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006304> skos:prefLabel "Maskindelar"@nn .
 
@@ -4916,8 +4923,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c007477> skos:prefLabel "Alkymistar"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c007484> skos:altLabel "Busetjingshistorie"@nn ;
-    skos:prefLabel "Busettingshistorie"@nn .
+<http://data.ub.uio.no/realfagstermer/c007484> skos:altLabel "Busetjingshistorie"@nn,
+        "Busettingshistorie"@nn ;
+    skos:prefLabel "Busetnadshistorie"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007488> skos:prefLabel "Sannsynskalkylar"@nn .
 
@@ -5363,7 +5371,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008125> skos:prefLabel "Asymmetrisk celledeling"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c008128> skos:prefLabel "Sysselsetting"@nn .
+<http://data.ub.uio.no/realfagstermer/c008128> skos:altLabel "Sysselsetting"@nn ;
+    skos:prefLabel "Sysselsetjing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008132> skos:prefLabel "Knuth-bendix-algoritmen"@nn .
 
@@ -5927,8 +5936,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008982> skos:prefLabel "Deskriptiv analyse"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c008984> skos:altLabel "Utsetjing"@nn ;
-    skos:prefLabel "Utsetting"@nn .
+<http://data.ub.uio.no/realfagstermer/c008984> skos:altLabel "Utsetting"@nn ;
+    skos:prefLabel "Utsetjing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008985> skos:altLabel "Lydkassettar"@nn ;
     skos:prefLabel "Ljodkassettar"@nn .
@@ -7998,8 +8007,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c012016> skos:prefLabel "Collembola"@nn .
 
-<http://data.ub.uio.no/realfagstermer/c012020> skos:altLabel "Månebusetjing"@nn ;
-    skos:prefLabel "Månebusetting"@nn .
+<http://data.ub.uio.no/realfagstermer/c012020> skos:altLabel "Månebusetjing"@nn,
+        "Månebusetting"@nn ;
+    skos:prefLabel "Månebusetnad"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012021> skos:prefLabel "RNA polymerase"@nn .
 
