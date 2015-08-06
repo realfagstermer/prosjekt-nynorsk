@@ -438,6 +438,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000365> skos:prefLabel "Modellorganismar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000366> skos:prefLabel "Observasjonsteknikkar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000367> skos:prefLabel "Dagblomfamilien"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000368> skos:prefLabel "Springpadder"@nn .
@@ -1859,6 +1861,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001522> skos:prefLabel "Molekylære markørar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001523> skos:prefLabel "Omskrivingsteknikkar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001524> skos:prefLabel "Algebraisk manipulering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001525> skos:prefLabel "Fjellområde"@nn .
@@ -2013,6 +2017,8 @@
 <http://data.ub.uio.no/realfagstermer/c001653> skos:prefLabel "Forgjellesniglar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001655> skos:prefLabel "Tidevasstabellar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001657> skos:prefLabel "Prosessteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001659> skos:prefLabel "Bioetikk"@nn .
 
@@ -7081,6 +7087,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005822> skos:prefLabel "Forskarrekruttering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005825> skos:prefLabel "Marin teknikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005827> skos:prefLabel "Differensialoperatorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005828> skos:altLabel "Genomanalyse"@nn,
@@ -11205,6 +11213,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009162> skos:prefLabel "Enigma"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009163> skos:prefLabel "Mikrobiell teknikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009165> skos:prefLabel "Anaerobe organismar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009166> skos:prefLabel "Kontinuerlege funksjonar"@nn .
@@ -14448,6 +14458,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011755> skos:prefLabel "Ae-type"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011756> skos:prefLabel "Plastteknikkar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011759> skos:altLabel "Ionselektive elektrodar"@nn ;
     skos:prefLabel "Ioneselektive elektrodar"@nn .
 
@@ -15671,6 +15683,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c012658> skos:altLabel "Møssbauereffekt"@nn ;
     skos:prefLabel "Mössbauer-effekten"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012660> skos:altLabel "Møte"@nn,
+        "Møteleiing"@nn ;
+    skos:prefLabel "Møteteknikkar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012662> skos:altLabel "Naturfagsundervising"@nn,
         "Naturfagundervising"@nn,
@@ -17416,6 +17432,21 @@
 
 <http://data.ub.uio.no/realfagstermer/c013694> skos:altLabel "Detoksikering"@nn ;
     skos:prefLabel "Detoksifisering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013695> skos:altLabel "Foredragsteknikk"@nn,
+        "Forelesingar"@nn,
+        "Forelesingsteknikk"@nn,
+        "Forelesningar"@nn,
+        "Forelesningsteknikk"@nn,
+        "Føredragsteknikk"@nn,
+        "Førelesingar"@nn,
+        "Førelesingsteknikk"@nn,
+        "Førelesningar"@nn,
+        "Førelesningsteknikk"@nn,
+        "Munnleg formidling"@nn,
+        "Munnleg kommunikasjon"@nn,
+        "Munnlege presentasjonar"@nn ;
+    skos:prefLabel "Presentasjonsteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013696> skos:altLabel "Grøbnerbasar"@nn ;
     skos:prefLabel "Gröbner-basisar"@nn .
