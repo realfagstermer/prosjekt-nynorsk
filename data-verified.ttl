@@ -6,7 +6,19 @@
 
 <http://data.ub.uio.no/realfagstermer/c000516> skos:altLabel "Måltrost"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001536> skos:altLabel "15-lipoksygenasehemjarar"@nn ;
+    skos:prefLabel "15-lipoksygenasehemmarar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001824> skos:prefLabel "Kvantekosmologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002416> skos:prefLabel "APL"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002643> skos:prefLabel "ADHD"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003122> skos:prefLabel "ASCII"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003217> skos:altLabel "Asymmetric Digital Subscriber Line"@nn ;
+    skos:prefLabel "ADSL"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003238> skos:prefLabel "Kosmologiske modellar"@nn .
 
@@ -16,11 +28,28 @@
 
 <http://data.ub.uio.no/realfagstermer/c004265> skos:prefLabel "Relativistisk kosmologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004520> skos:prefLabel "AVL-tre"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005610> skos:prefLabel "19-norandrosteron"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005722> skos:altLabel "Asynchronous Transfer Mode"@nn ;
+    skos:prefLabel "ATM"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006187> skos:prefLabel "15-lipoksygenase"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006308> skos:altLabel "ANSI C"@nn,
+        "ANSI X12"@nn,
+        "ANSI X3.131"@nn,
+        "ANSI X3T9.5"@nn ;
+    skos:prefLabel "ANSI-standardar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008029> skos:prefLabel "Kopernikansk kosmologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008366> skos:altLabel "Stellar utvikling"@nn,
         "Stellarisk utvikling"@nn,
         "Stjerneevolusjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010132> skos:prefLabel "AIX"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011287> skos:altLabel "Intermolekylære krafter"@nn,
         "Intramolekylære krefter"@nn,
@@ -36,6 +65,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c012549> skos:prefLabel "Åborfiskar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012675> skos:altLabel "A mathematical programming language"@nn,
+        "A modeling language for mathematical programming"@nn ;
+    skos:prefLabel "AMPL"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012970> skos:altLabel "Clusteranalyse"@nn,
         "Klaseanalyse"@nn,
         "Klusteranalyse"@nn,
@@ -50,6 +83,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c013667> skos:altLabel "Europeisk gauk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c031218> skos:altLabel "Additiv framstilling"@nn,
+        "Tredimensjonal utskrift"@nn ;
+    skos:prefLabel "3D-utskrift"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c031231> skos:altLabel "Löwnerlikninga"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c031232> skos:altLabel "Schramm-Löwner-likninga"@nn,
@@ -61,4 +98,7 @@
 
 <http://data.ub.uio.no/realfagstermer/c031255> skos:altLabel "Laplace-operator"@nn,
         "Laplaceoperatoren"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c031485> skos:altLabel "Tredimensjonal grafikk"@nn ;
+    skos:prefLabel "3D-grafikk"@nn .
 
