@@ -13,6 +13,7 @@ REAL000014	prefLabel	Jordskjelvtryggleik
 REAL000015	prefLabel	Cellesyklus
 REAL000018	prefLabel	Elektrokjemiske eigenskapar
 REAL000022	prefLabel	Flaterepresentasjon
+REAL000023	prefLabel	Marxisme
 REAL000026	prefLabel	Fluorsambindingar
 REAL000027	prefLabel	Document style semantics and spesification language
 REAL000028	altLabel	Industrialisering
@@ -41,6 +42,8 @@ REAL000047	prefLabel	Landdyr
 REAL000048	prefLabel	Komponentar
 REAL000049	altLabel	Lydopptak
 REAL000049	prefLabel	Ljodopptak
+REAL000051	altLabel	ELISA
+REAL000051	prefLabel	Enzyme-linked immunosorbent assay
 REAL000053	altLabel	Kroneeterar
 REAL000053	prefLabel	Eterar
 REAL000054	prefLabel	Komparative undersøkingar
@@ -50,6 +53,7 @@ REAL000057	prefLabel	Basic
 REAL000059	altLabel	Bygningsrett
 REAL000059	prefLabel	Bygnadsrett
 REAL000063	prefLabel	Cytogenetikk
+REAL000064	prefLabel	Løver
 REAL000067	prefLabel	Historiske naturformer
 REAL000069	prefLabel	Foreining
 REAL000071	prefLabel	Graftransformasjonar
@@ -57,6 +61,7 @@ REAL000075	prefLabel	Hamner
 REAL000077	prefLabel	Asymptotiske ekspansjonar
 REAL000080	prefLabel	Kantar
 REAL000082	prefLabel	Antarktisk vegetasjon
+REAL000083	prefLabel	Magnetisk kapillærprøving
 REAL000090	prefLabel	Estimat
 REAL000091	prefLabel	Forvitringsjord
 REAL000092	prefLabel	Kromosomtal
@@ -66,6 +71,8 @@ REAL000101	prefLabel	Fotobiologi
 REAL000103	prefLabel	Gjenvinning
 REAL000104	prefLabel	Byplanlegging
 REAL000105	prefLabel	Alliansar
+REAL000106	altLabel	MHC
+REAL000106	prefLabel	Vevsameiningsgenkomplekset klasse 2
 REAL000110	prefLabel	It-kompetanse
 REAL000111	altLabel	Alpeplantar
 REAL000111	prefLabel	Alpeplanter
@@ -112,6 +119,7 @@ REAL000164	prefLabel	Biometeorologi
 REAL000165	prefLabel	Integralteori
 REAL000166	prefLabel	Dinosaurar
 REAL000168	prefLabel	Evodevo
+REAL000171	prefLabel	Magnetorientering
 REAL000174	altLabel	Fjellturisme
 REAL000174	prefLabel	Fjellvandring
 REAL000175	altLabel	Førebyggande helsearbeid
@@ -155,6 +163,7 @@ REAL000238	prefLabel	Kriminalitet
 REAL000242	prefLabel	Dverghjortar
 REAL000243	prefLabel	Byssustrådar
 REAL000246	prefLabel	Gammaglimt
+REAL000247	prefLabel	Marine verneområde
 REAL000249	altLabel	Abyssisk fauna
 REAL000249	prefLabel	Abyssal fauna
 REAL000251	prefLabel	Estuar
@@ -180,6 +189,8 @@ REAL000275	prefLabel	EØS
 REAL000276	prefLabel	Flydesign
 REAL000277	prefLabel	Kjemiske produkt
 REAL000279	prefLabel	Graf-grammatikkar
+REAL000280	altLabel	Mandelbrot
+REAL000280	prefLabel	Mandelbrotmengda
 REAL000283	prefLabel	Kontekstfrie grupper
 REAL000284	prefLabel	Glykosid
 REAL000285	altLabel	Algebraiske jacobi-funksjonar
@@ -311,6 +322,7 @@ REAL000481	prefLabel	Grensetilfelle
 REAL000482	altLabel	Einfrøblada plantar
 REAL000482	prefLabel	Einfrøblada planter
 REAL000485	prefLabel	Barskog
+REAL000487	prefLabel	M33
 REAL000488	prefLabel	Gopher
 REAL000489	prefLabel	Kosmografi
 REAL000492	prefLabel	Biologiske data
@@ -321,6 +333,7 @@ REAL000496	prefLabel	Beinkreft
 REAL000498	prefLabel	Cellegenetikk
 REAL000502	prefLabel	Fjelløver
 REAL000504	prefLabel	Kometar
+REAL000507	prefLabel	Marine protozoar
 REAL000509	prefLabel	Fosfolipid
 REAL000510	prefLabel	Idrettsanlegg
 REAL000511	prefLabel	Filmhistorie
@@ -332,6 +345,7 @@ REAL000517	altLabel	Koronahol
 REAL000517	prefLabel	Koronahòl
 REAL000518	prefLabel	Etnozoologi
 REAL000519	prefLabel	Diagnostiske system
+REAL000520	prefLabel	Magnetiske instrument
 REAL000522	prefLabel	Abstraksjon
 REAL000525	altLabel	Forhistoriske dyr
 REAL000525	prefLabel	Førhistoriske dyr
@@ -372,8 +386,10 @@ REAL000571	prefLabel	Inverse problem
 REAL000572	altLabel	Hud
 REAL000572	prefLabel	Huda
 REAL000573	prefLabel	Analytisk perturbasjonsteori
+REAL000576	prefLabel	Markovalgoritmar
 REAL000577	prefLabel	Beiteskadar
 REAL000580	prefLabel	Farmasøytisk glykobiologi
+REAL000582	prefLabel	Måling
 REAL000588	prefLabel	Immunitet
 REAL000589	prefLabel	Filmkritikk
 REAL000590	prefLabel	Kjernemetodar
@@ -386,6 +402,9 @@ REAL000596	prefLabel	Journalføring
 REAL000598	prefLabel	Ferskvassundersøkingar
 REAL000599	prefLabel	Kronostratigrafi
 REAL000600	prefLabel	Komethalar
+REAL000603	altLabel	Organisk ljosdiode
+REAL000603	altLabel	Organisk lysdiode
+REAL000603	prefLabel	OLED
 REAL000604	prefLabel	Kontekstfrie grammatikkar
 REAL000606	prefLabel	Avblading
 REAL000608	prefLabel	Datastøtta arkitektur
@@ -410,6 +429,7 @@ REAL000641	prefLabel	Busetnadsmønster
 REAL000642	prefLabel	Grønlandskval
 REAL000644	prefLabel	Aktive område
 REAL000646	prefLabel	Kunstige organ
+REAL000648	prefLabel	Marine strender
 REAL000650	prefLabel	Fjellsprengingsteknikk
 REAL000651	prefLabel	G-funksjonar
 REAL000652	prefLabel	Coulomb-felt
@@ -458,6 +478,7 @@ REAL000706	prefLabel	Brukarinteresser
 REAL000710	prefLabel	Datastøtta systemutvikling
 REAL000711	prefLabel	Gradientar
 REAL000712	prefLabel	Logaritmiske integral
+REAL000714	prefLabel	Mallar
 REAL000716	prefLabel	Botanisk historie
 REAL000718	prefLabel	Betinging
 REAL000719	prefLabel	Coxeter
@@ -515,6 +536,7 @@ REAL000781	prefLabel	Kritisk punkt
 REAL000784	prefLabel	Leverceller
 REAL000786	prefLabel	Akklimatisering
 REAL000788	prefLabel	Elastomerar
+REAL000790	prefLabel	Makrofossil
 REAL000792	prefLabel	Elektrolytiske løysingar
 REAL000794	prefLabel	Hepatocyttar
 REAL000798	prefLabel	Bilindustri
@@ -539,6 +561,7 @@ REAL000816	prefLabel	Fermat
 REAL000817	prefLabel	Klassisk feltteori
 REAL000819	prefLabel	Komplekse system
 REAL000820	prefLabel	Flyttal
+REAL000821	prefLabel	Marine økosystem
 REAL000823	prefLabel	Dijkstra-Scholten-algoritmen
 REAL000824	prefLabel	Gresk matematikk
 REAL000825	prefLabel	Luktstoff
@@ -591,6 +614,7 @@ REAL000896	prefLabel	Elektrosvake vekselverknader
 REAL000898	prefLabel	Interface definition language
 REAL000899	prefLabel	Isostasi
 REAL000904	prefLabel	Kodeteori
+REAL000905	prefLabel	Marine kystområde
 REAL000906	prefLabel	Alkan
 REAL000907	prefLabel	LBV
 REAL000910	prefLabel	Intelligent liv
@@ -618,6 +642,7 @@ REAL000937	altLabel	Taxus baccata
 REAL000937	prefLabel	Barlind
 REAL000938	prefLabel	Boninitt
 REAL000942	prefLabel	Energikostnad
+REAL000943	prefLabel	Magnetohydrodynamisk generator
 REAL000944	prefLabel	Grafdeling
 REAL000945	prefLabel	Fugleteljingar
 REAL000946	prefLabel	Fusjonsreaktorar
@@ -648,6 +673,7 @@ REAL000987	altLabel	Skadelege plantar
 REAL000987	altLabel	Toksiske plantar
 REAL000987	altLabel	Toksiske planter
 REAL000987	prefLabel	Skadelege planter
+REAL000988	prefLabel	Marin forsking
 REAL000991	prefLabel	Asfaltstein
 REAL000992	prefLabel	Kjemisk tyning
 REAL000995	prefLabel	Hjelpestoff
@@ -658,10 +684,13 @@ REAL001000	prefLabel	Handelskorrespondanse
 REAL001001	altLabel	Insektlarver
 REAL001001	prefLabel	Insektlarvar
 REAL001002	prefLabel	Emisjonsspektroskopi
+REAL001007	prefLabel	Makrofyttar
 REAL001009	prefLabel	Anaerobe eukaryotar
 REAL001012	prefLabel	Dunkjevlefamilien
 REAL001013	altLabel	Algebraisk databehandling
 REAL001013	prefLabel	Algebraisk datahandsaming
+REAL001014	altLabel	Magmatiske bergarter
+REAL001014	prefLabel	Magmatiske bergartar
 REAL001016	prefLabel	Læringssenter
 REAL001017	altLabel	Acetylen
 REAL001017	altLabel	Sveisegass
@@ -673,6 +702,8 @@ REAL001021	prefLabel	Iskemisk hjartesjukdom
 REAL001022	prefLabel	Elektrotermisk atomisering
 REAL001024	prefLabel	Jordsmonn
 REAL001025	prefLabel	Digital teori
+REAL001027	altLabel	Marine plantar
+REAL001027	prefLabel	Marine planter
 REAL001030	prefLabel	Glasialmorfologi
 REAL001032	altLabel	Eittårige plantar
 REAL001032	prefLabel	Eittårige planter
@@ -741,6 +772,8 @@ REAL001108	altLabel	Laboratorieøvingar
 REAL001108	prefLabel	Laboratorieforsøk
 REAL001112	prefLabel	Amatørradio
 REAL001115	prefLabel	Dolomittisering
+REAL001116	altLabel	Malmavsettingar
+REAL001116	prefLabel	Malmavsetjingar
 REAL001117	altLabel	Krafter
 REAL001117	prefLabel	Krefter
 REAL001118	prefLabel	Geologisk prospektering
@@ -777,6 +810,7 @@ REAL001160	prefLabel	Dotnet
 REAL001162	prefLabel	Cerenkovstråling
 REAL001163	prefLabel	Gullegeringar
 REAL001165	prefLabel	Generell meteorologi
+REAL001168	prefLabel	Måleteknikkar
 REAL001170	altLabel	Analog VLSI
 REAL001170	prefLabel	Analoge krinsar
 REAL001171	altLabel	Lythrum
@@ -843,6 +877,7 @@ REAL001261	altLabel	Mikrobølgebakgrunn
 REAL001261	altLabel	Mikrobølgjebakgrunn
 REAL001261	prefLabel	Kosmisk bakgrunnsstråling
 REAL001263	prefLabel	Kongar
+REAL001264	prefLabel	Magnetband
 REAL001265	prefLabel	Is
 REAL001268	prefLabel	Korrelasjonsfunksjonar
 REAL001269	prefLabel	Autopoiesis
@@ -881,6 +916,7 @@ REAL001308	prefLabel	Filologi
 REAL001313	prefLabel	Dosimetri
 REAL001317	altLabel	Bygningsakustikk
 REAL001317	prefLabel	Bygnadsakustikk
+REAL001318	prefLabel	Markblomar
 REAL001320	prefLabel	Infraraud video
 REAL001323	prefLabel	Kapillærteori
 REAL001324	prefLabel	Kjønnsorgan
@@ -924,6 +960,7 @@ REAL001375	prefLabel	Kaninar
 REAL001377	prefLabel	Hifiteknikk
 REAL001378	prefLabel	Flymedisin
 REAL001379	prefLabel	Arbeidsrett
+REAL001383	prefLabel	Martingalar
 REAL001384	prefLabel	Forskingsplanlegging
 REAL001385	prefLabel	Arktisk økologi
 REAL001387	prefLabel	Humane myotubar
@@ -932,9 +969,11 @@ REAL001396	prefLabel	Clifford-analyse
 REAL001397	prefLabel	Delta
 REAL001399	prefLabel	Ikkje-lineær programmering
 REAL001400	prefLabel	Destillasjon
+REAL001401	prefLabel	Marihuana
 REAL001402	prefLabel	Karsystem
 REAL001403	prefLabel	Erlang
 REAL001405	prefLabel	Cytoplasma
+REAL001406	prefLabel	Marine bakteriar
 REAL001408	prefLabel	Berggrunnsgeologi
 REAL001409	prefLabel	Antikvitetar
 REAL001411	prefLabel	Augereffekt
@@ -973,6 +1012,7 @@ REAL001455	prefLabel	Automatisk klassifikasjon
 REAL001456	altLabel	Død
 REAL001456	prefLabel	Daude
 REAL001458	prefLabel	Krossblomar
+REAL001459	prefLabel	Marinbotanikk
 REAL001461	prefLabel	Clips
 REAL001462	prefLabel	Luktesans
 REAL001463	prefLabel	Koparmalm
@@ -991,11 +1031,14 @@ REAL001478	prefLabel	Dna-basert datahandsaming
 REAL001479	prefLabel	Dimensjonsteori
 REAL001482	altLabel	Algoritmedesign
 REAL001482	prefLabel	Algoritmeanalyse
+REAL001483	altLabel	Sollys
+REAL001483	prefLabel	Solljos
 REAL001485	prefLabel	Glia
 REAL001487	prefLabel	Differensialtopologi
 REAL001488	prefLabel	Kvartærstratigrafi
 REAL001490	prefLabel	Ammonittar
 REAL001491	prefLabel	Korn
+REAL001493	prefLabel	Marin produksjon
 REAL001497	prefLabel	Energigjenvinning
 REAL001498	prefLabel	Jordrøykfamilien
 REAL001499	prefLabel	Glim
@@ -1022,6 +1065,7 @@ REAL001536	altLabel	15-lipoksygenasehemjarar
 REAL001536	prefLabel	15-lipoksygenasehemmarar
 REAL001537	prefLabel	Em-algoritmen
 REAL001538	prefLabel	Katadrom gyting
+REAL001540	prefLabel	Marin fauna
 REAL001541	prefLabel	Jordstjerner
 REAL001542	prefLabel	Kombinatorikkringar
 REAL001545	prefLabel	Bergartsundersøkingar
@@ -1034,6 +1078,7 @@ REAL001555	prefLabel	Cytotaksonomi
 REAL001557	prefLabel	Armert betong
 REAL001566	prefLabel	Biologiske databasar
 REAL001567	prefLabel	Integraloperatorar
+REAL001569	prefLabel	Markvatn
 REAL001570	prefLabel	Fysisk oseanografi
 REAL001572	prefLabel	Hekkefuglar
 REAL001573	prefLabel	Djuphavsmarulkar
@@ -1067,6 +1112,7 @@ REAL001636	prefLabel	Ingeniørmekanikk
 REAL001637	prefLabel	Foldebelte
 REAL001640	prefLabel	Autøkologi
 REAL001642	prefLabel	Chandra
+REAL001645	prefLabel	Maringeologi
 REAL001647	prefLabel	Hypotese
 REAL001648	prefLabel	Eta
 REAL001649	prefLabel	Aritmetikk
@@ -1110,6 +1156,7 @@ REAL001695	altLabel	Basiske bergarter
 REAL001695	prefLabel	Basiske bergartar
 REAL001696	prefLabel	Kvardagsliv
 REAL001697	prefLabel	Fleirbrukarsystem
+REAL001700	prefLabel	Markfirfisler
 REAL001701	prefLabel	Isfiske
 REAL001702	prefLabel	Datagrunnlag
 REAL001704	prefLabel	Faststoffelektrodar
@@ -1134,6 +1181,10 @@ REAL001733	altLabel	Feces
 REAL001733	prefLabel	Avføring
 REAL001734	altLabel	Binyra
 REAL001734	prefLabel	Binyrene
+REAL001737	altLabel	Hydrofile polymerar
+REAL001737	altLabel	Polymere løysningar
+REAL001737	altLabel	Vassløyselege polymerar
+REAL001737	prefLabel	Løyselege polymerar
 REAL001738	prefLabel	Kolesterol
 REAL001742	prefLabel	Antropologar
 REAL001743	prefLabel	Global system for mobile communication
@@ -1180,6 +1231,7 @@ REAL001801	altLabel	Byggjemateriale
 REAL001801	prefLabel	Byggjematerialar
 REAL001802	prefLabel	Graptolittar
 REAL001803	prefLabel	Hausting
+REAL001804	prefLabel	Marin paleontologi
 REAL001805	prefLabel	Granittar
 REAL001806	prefLabel	Geotektonikk
 REAL001807	prefLabel	Luftballongar
@@ -1193,6 +1245,7 @@ REAL001820	prefLabel	Boblesortering
 REAL001821	prefLabel	Kinesisk språk
 REAL001822	prefLabel	Balsam
 REAL001824	prefLabel	Kvantekosmologi
+REAL001825	prefLabel	Marine konstruksjonar
 REAL001826	prefLabel	Diffpack
 REAL001828	prefLabel	Abel
 REAL001829	altLabel	Lommar
@@ -1216,6 +1269,8 @@ REAL001852	prefLabel	Gammahydroksybutyrat
 REAL001853	prefLabel	Granskog
 REAL001855	prefLabel	Ikkje-lineære metodar
 REAL001859	prefLabel	Dynamisk analyse
+REAL001860	altLabel	Marulker
+REAL001860	prefLabel	Marulkar
 REAL001861	prefLabel	Genetisk drift
 REAL001864	prefLabel	Hydrogen
 REAL001865	prefLabel	Boreal barskog
@@ -1231,6 +1286,7 @@ REAL001886	prefLabel	Kompaksjon
 REAL001887	prefLabel	High Altitude Observatory
 REAL001888	prefLabel	Interstellare partiklar
 REAL001889	prefLabel	Analytisk geokjemi
+REAL001890	prefLabel	Mangangruppa
 REAL001892	prefLabel	Drammensgranitten
 REAL001894	prefLabel	Fyllingsdemningar
 REAL001895	prefLabel	Djupvassfiske
@@ -1308,6 +1364,7 @@ REAL002001	altLabel	Hugs
 REAL002001	altLabel	Hått
 REAL002001	prefLabel	Minne
 REAL002002	prefLabel	Kolloid
+REAL002003	prefLabel	Marskland
 REAL002004	prefLabel	Hadron
 REAL002005	prefLabel	Kreftbehandling
 REAL002006	prefLabel	LEED
@@ -1359,8 +1416,11 @@ REAL002069	prefLabel	Elghundar
 REAL002070	prefLabel	Kategorisering
 REAL002071	prefLabel	Forsikringsselskap
 REAL002074	prefLabel	Kvantekromodynamikk
+REAL002076	prefLabel	Marklære
 REAL002080	prefLabel	Geoteknikk
 REAL002082	prefLabel	Databasekonsistens
+REAL002085	altLabel	Løysningar
+REAL002085	prefLabel	Løysingar
 REAL002088	prefLabel	Kristendom
 REAL002089	prefLabel	Dyreøkologi
 REAL002092	prefLabel	Argumentasjon
@@ -1432,6 +1492,7 @@ REAL002191	prefLabel	Fonetikk
 REAL002192	prefLabel	Bål
 REAL002194	prefLabel	Fokalmekanismar
 REAL002195	prefLabel	Bokføring
+REAL002196	prefLabel	Makrolav
 REAL002198	altLabel	Busetjingar
 REAL002198	altLabel	Busetnadar
 REAL002198	altLabel	Busettingar
@@ -1440,12 +1501,15 @@ REAL002199	prefLabel	Eksplosjonsfare
 REAL002202	prefLabel	Lukt
 REAL002203	prefLabel	Duer
 REAL002204	prefLabel	Dioksin
+REAL002207	prefLabel	Marmor
 REAL002209	prefLabel	Arbeidsteknikk
 REAL002210	prefLabel	Frostherdigheit
 REAL002211	prefLabel	Cellepatologi
 REAL002212	prefLabel	Bær
 REAL002213	prefLabel	Familiar
 REAL002214	prefLabel	Desisjonsteori
+REAL002216	altLabel	M-rna
+REAL002216	prefLabel	MRNA
 REAL002218	prefLabel	Adaptiv radiasjon
 REAL002219	prefLabel	Bredemte sjøar
 REAL002223	prefLabel	Horn
@@ -1470,6 +1534,7 @@ REAL002257	prefLabel	Enzymatisk katalyse
 REAL002258	prefLabel	Implementasjonar
 REAL002259	prefLabel	Kaprifolfamilien
 REAL002261	prefLabel	Flytkontroll
+REAL002266	prefLabel	Makromolekylære sambindingar
 REAL002268	altLabel	Botaniske muse
 REAL002268	altLabel	Botaniske musé
 REAL002268	prefLabel	Botaniske museum
@@ -1497,6 +1562,7 @@ REAL002311	prefLabel	Astronomiske lekamar
 REAL002314	prefLabel	Algekultur
 REAL002317	prefLabel	Brensel
 REAL002318	prefLabel	Kjemiske sambindingar
+REAL002319	prefLabel	Magnetokjemi
 REAL002323	prefLabel	Ekspedisjonar
 REAL002324	prefLabel	Globale klimasystem
 REAL002326	altLabel	Bylgjemekanikk
@@ -1536,7 +1602,9 @@ REAL002379	prefLabel	Flysimulering
 REAL002384	prefLabel	Bassengutvikling
 REAL002389	prefLabel	Fjelloer
 REAL002390	altLabel	Einkrystall
+REAL002392	prefLabel	Marihøner
 REAL002394	prefLabel	Eksplosiv
+REAL002395	prefLabel	Marinfysikk
 REAL002398	altLabel	Hjartesjukdommar
 REAL002398	prefLabel	Hjartesjukdomar
 REAL002399	altLabel	Kosmiske strengar
@@ -1586,6 +1654,7 @@ REAL002450	prefLabel	Dyreljodar
 REAL002451	prefLabel	Bindingsenergiar
 REAL002453	prefLabel	Kontinentale marginar
 REAL002454	prefLabel	Huddanningar
+REAL002455	prefLabel	Marine toksin
 REAL002457	altLabel	Befolkningspolitikk
 REAL002457	prefLabel	Folkesetnadspolitikk
 REAL002458	prefLabel	Digital fotogrammetri
@@ -1656,6 +1725,7 @@ REAL002566	altLabel	Røkt
 REAL002566	prefLabel	Dyrehald
 REAL002571	prefLabel	High Resolution Telescope and Spectrograph
 REAL002573	prefLabel	Knippe
+REAL002574	prefLabel	Lausmassar
 REAL002575	altLabel	Glasialgeologi
 REAL002575	prefLabel	Glasiologi
 REAL002580	prefLabel	Antropogeni
@@ -1690,8 +1760,12 @@ REAL002612	prefLabel	Konfigurasjon
 REAL002613	prefLabel	Havovervaking
 REAL002615	prefLabel	Elvefauna
 REAL002616	prefLabel	Digitalkamera
+REAL002618	altLabel	Mangelekamteori
+REAL002618	altLabel	Mangepartikkelteori
+REAL002618	prefLabel	Mangepartikkelfysikk
 REAL002619	prefLabel	Havfysikk
 REAL002620	prefLabel	Fjellmiljø
+REAL002621	prefLabel	Makroevolusjon
 REAL002622	prefLabel	Kvantitativ planteøkologi
 REAL002623	altLabel	Bakterielle sjukdommar
 REAL002623	prefLabel	Bakterielle sjukdomar
@@ -1748,6 +1822,7 @@ REAL002683	altLabel	Jernmalm
 REAL002683	prefLabel	Jarnmalm
 REAL002685	prefLabel	Analystisk ekstraksjon
 REAL002688	prefLabel	Fyringsbrikettar
+REAL002691	prefLabel	Marin bioteknologi
 REAL002692	prefLabel	Atmosfæremodellar
 REAL002693	prefLabel	Gemmologi
 REAL002696	prefLabel	Døgnaktivitet
@@ -1867,12 +1942,14 @@ REAL002838	prefLabel	Jpeg
 REAL002839	prefLabel	Kosmetikk
 REAL002841	altLabel	DTN
 REAL002841	prefLabel	Forseinkingstolerant nettverk
+REAL002842	prefLabel	Marinfysiologi
 REAL002843	altLabel	Kjemiske industriar
 REAL002843	prefLabel	Kjemisk industri
 REAL002844	prefLabel	Elektriske utladingar
 REAL002845	prefLabel	Farmakologi
 REAL002847	prefLabel	Ekstremalverdiar
 REAL002853	prefLabel	Lågdimensjonale halvleiarar
+REAL002854	prefLabel	Maneter
 REAL002855	prefLabel	Landformer
 REAL002857	prefLabel	Berekningsteori
 REAL002860	altLabel	Landbruksplantar
@@ -1884,12 +1961,30 @@ REAL002867	prefLabel	Atomklyngjer
 REAL002868	prefLabel	Lotiske samfunn
 REAL002870	prefLabel	Konnerudverket
 REAL002872	prefLabel	Antigen
+REAL002880	altLabel	Havdynamikk
+REAL002880	altLabel	Havfrontar
+REAL002880	altLabel	Havmodellar
+REAL002880	altLabel	Havmodellering
+REAL002880	altLabel	Havsirkulasjon
+REAL002880	altLabel	Havstraumar
+REAL002880	altLabel	Hydrodynamikken i havet
+REAL002880	prefLabel	Marin hydrodynamikk
 REAL002882	prefLabel	Endelege geometriar
+REAL002883	altLabel	Mangelekamproblemet
+REAL002883	prefLabel	Mangelekamproblem
 REAL002885	prefLabel	Digitale arkiv
+REAL002887	altLabel	Mappevurdering
+REAL002887	prefLabel	Mappeevaluering
 REAL002890	prefLabel	Generalized horn clause language
 REAL002891	prefLabel	Grasrotrørsler
+REAL002892	prefLabel	Makrokosmos
+REAL002895	prefLabel	Markov
 REAL002897	prefLabel	Demokrati
+REAL002898	prefLabel	Magnetisk resonans
+REAL002900	prefLabel	Marin strandvegetasjon
 REAL002907	prefLabel	LLR
+REAL002911	altLabel	Polarlys
+REAL002911	prefLabel	Polarljos
 REAL002912	altLabel	Drøvtyggjarar
 REAL002912	prefLabel	Drøvtyggarar
 REAL002913	prefLabel	Fenotypar
@@ -1928,6 +2023,8 @@ REAL002955	prefLabel	Galaksar
 REAL002958	prefLabel	Datahistorie
 REAL002961	altLabel	Pankreas
 REAL002961	prefLabel	Bukspyttkjertelen
+REAL002962	altLabel	Markar
+REAL002962	prefLabel	Makkar
 REAL002963	altLabel	Digital light processing
 REAL002963	prefLabel	DLP
 REAL002964	prefLabel	Autonome agentar
@@ -1969,10 +2066,13 @@ REAL003021	prefLabel	Fermiflater
 REAL003024	prefLabel	Arbeidskraft
 REAL003025	prefLabel	Datasystem
 REAL003028	prefLabel	Gartneri
+REAL003029	prefLabel	Manet
 REAL003033	prefLabel	Fluvial geomorfologi
 REAL003034	prefLabel	Distribuerte system
 REAL003036	altLabel	Be-type spekter
 REAL003036	prefLabel	Be-type spektrum
+REAL003038	altLabel	Magnetiske bergarter
+REAL003038	prefLabel	Magnetiske bergartar
 REAL003042	prefLabel	Væskekromatografi elektrospray-ionisering massespektrometri
 REAL003043	altLabel	Beskrivande statistikk
 REAL003043	prefLabel	Skildrande statistikk
@@ -1995,6 +2095,11 @@ REAL003067	prefLabel	Fysikk
 REAL003068	prefLabel	Borat
 REAL003071	prefLabel	Gipsførekomstar
 REAL003074	prefLabel	Abstrakt geometri
+REAL003077	prefLabel	Marin primærproduksjon
+REAL003078	altLabel	Havdyr
+REAL003078	altLabel	Havfauna
+REAL003078	altLabel	Sjødyr
+REAL003078	prefLabel	Marine dyr
 REAL003079	prefLabel	Digital fotografering
 REAL003080	prefLabel	Biologisk kjemi
 REAL003082	prefLabel	Generell kjemi
@@ -2045,9 +2150,11 @@ REAL003152	prefLabel	Logikksimulering
 REAL003153	prefLabel	Korallar
 REAL003154	prefLabel	Corba
 REAL003156	prefLabel	Frekvensar
+REAL003160	prefLabel	Marin mikrobiologi
 REAL003163	altLabel	Grenseflatebylgjer
 REAL003163	altLabel	Grenseflatebølger
 REAL003163	prefLabel	Grenseflatebølgjer
+REAL003167	prefLabel	Mantelen
 REAL003169	prefLabel	Dammar
 REAL003170	prefLabel	Diffeomorphisms
 REAL003171	altLabel	EUV
@@ -2074,6 +2181,8 @@ REAL003193	altLabel	Bylgjefenomen
 REAL003193	altLabel	Bølgefenomen
 REAL003193	prefLabel	Bølgjefenomen
 REAL003196	prefLabel	Fotokjemiske oksydantar
+REAL003199	altLabel	Marine larver
+REAL003199	prefLabel	Marine larvar
 REAL003200	prefLabel	Benzodiazepin
 REAL003201	prefLabel	Cp-stjerner
 REAL003202	prefLabel	Divisjonsalgoritmar
@@ -2090,6 +2199,7 @@ REAL003219	prefLabel	Blodplasma
 REAL003220	prefLabel	Atrieflimmer
 REAL003221	prefLabel	Innverknad
 REAL003222	prefLabel	Hamiltonmekanikk
+REAL003223	prefLabel	Magnetisme
 REAL003224	prefLabel	Karbon-13
 REAL003225	prefLabel	Folkegrupper
 REAL003227	prefLabel	Karbonisotopar
@@ -2117,7 +2227,10 @@ REAL003259	altLabel	Instrumentelle analysar
 REAL003259	altLabel	Instrumentelle metodar
 REAL003259	prefLabel	Instrumentell analyse
 REAL003260	prefLabel	Fysisk lag
+REAL003261	prefLabel	Marine sniglar
+REAL003263	prefLabel	Marin geofysikk
 REAL003264	prefLabel	Gruppearbeid
+REAL003265	prefLabel	Marine reservat
 REAL003268	prefLabel	Bruksretta elektrokjemi
 REAL003269	prefLabel	Koronitt
 REAL003272	prefLabel	Likskap
@@ -2155,16 +2268,19 @@ REAL003319	prefLabel	Kunnskapssamfunnet
 REAL003320	prefLabel	Klimakteriet
 REAL003321	prefLabel	Fyrverkeri
 REAL003323	prefLabel	Gauper
+REAL003324	prefLabel	Malmgeologi
 REAL003327	prefLabel	Amfetamin
 REAL003328	prefLabel	Integral
 REAL003334	altLabel	Avløpsvatn
 REAL003334	prefLabel	Avlaupsvatn
+REAL003335	prefLabel	Makrovegetasjon
 REAL003338	prefLabel	Djupvassøkologi
 REAL003339	prefLabel	Kvanteelektrodynamikk
 REAL003341	altLabel	AMR
 REAL003341	prefLabel	Adaptive mesh refinement
 REAL003344	prefLabel	Genetisk programmering
 REAL003345	prefLabel	Ferskvasspåverknad
+REAL003346	prefLabel	Magnetiske materiale
 REAL003347	altLabel	Fjelltoppar
 REAL003347	prefLabel	Fjell
 REAL003348	prefLabel	Informasjonsformidling
@@ -2392,6 +2508,7 @@ REAL003684	prefLabel	Geometrisk algebra
 REAL003687	prefLabel	Elektroteknikk
 REAL003690	prefLabel	Jorderosjon
 REAL003692	prefLabel	Fleirspråklegheit
+REAL003693	prefLabel	Marginar
 REAL003694	prefLabel	Livssyn
 REAL003695	prefLabel	Leiarutvikling
 REAL003696	prefLabel	Eksekvering
@@ -2496,6 +2613,7 @@ REAL003835	prefLabel	Ikkje-planetarisk dynamikk
 REAL003836	prefLabel	Bioakustikk
 REAL003837	prefLabel	Dragarar
 REAL003839	prefLabel	Bioenergetikk
+REAL003840	prefLabel	Maple
 REAL003841	altLabel	F-type
 REAL003841	prefLabel	F-stjerner
 REAL003844	altLabel	Centre National d'Études Spatiales
@@ -2507,6 +2625,7 @@ REAL003847	prefLabel	Diagenese
 REAL003849	prefLabel	Analytisk syntese
 REAL003851	prefLabel	Lipopolysakkarid
 REAL003852	prefLabel	Datateknikk
+REAL003853	prefLabel	Magellanske skyer
 REAL003855	prefLabel	Hydrering
 REAL003858	prefLabel	Adaptiv variasjon
 REAL003859	altLabel	Fiskelarver
@@ -2551,6 +2670,7 @@ REAL003919	prefLabel	Geriatri
 REAL003922	prefLabel	Elgar
 REAL003925	prefLabel	Like-til-like nettverk
 REAL003927	prefLabel	Kjernefysikk
+REAL003928	prefLabel	Marine mikroorganismar
 REAL003929	altLabel	14C
 REAL003929	altLabel	14C-datering
 REAL003929	altLabel	C-14
@@ -2613,6 +2733,7 @@ REAL004012	prefLabel	Handelspolitikk
 REAL004013	prefLabel	Farmasiutdanning
 REAL004015	prefLabel	Elektroanalyse
 REAL004017	prefLabel	Kunstige baneberekningar
+REAL004020	prefLabel	Løysingsevne
 REAL004021	prefLabel	Heroin
 REAL004023	prefLabel	Geokjemisk prospektering
 REAL004027	prefLabel	Adenovirus
@@ -2645,12 +2766,16 @@ REAL004070	prefLabel	Cecidium
 REAL004072	prefLabel	Euclid
 REAL004073	altLabel	Alfastråling
 REAL004073	prefLabel	Alfapartiklar
+REAL004074	prefLabel	Marine brunalgar
+REAL004075	prefLabel	Marine fuglar
 REAL004080	altLabel	Fargemetodar
 REAL004080	altLabel	Histologiske teknikkar
 REAL004080	prefLabel	Fargeteknikkar
 REAL004081	prefLabel	Galoisrepresentasjonar
 REAL004082	prefLabel	Klassisk fysikk
 REAL004083	prefLabel	Geometrisk programmering
+REAL004084	altLabel	Løk
+REAL004084	prefLabel	Lauk
 REAL004086	prefLabel	Falkar
 REAL004087	altLabel	Bestandsberekningar
 REAL004087	altLabel	Bestandsmodellering
@@ -2667,6 +2792,8 @@ REAL004095	prefLabel	Hjernesjukdomar
 REAL004097	prefLabel	Forsuring
 REAL004102	prefLabel	Kalksvampar
 REAL004103	prefLabel	Diklorbenzen
+REAL004104	altLabel	Polarisert lys
+REAL004104	prefLabel	Polarisert ljos
 REAL004106	prefLabel	Datran
 REAL004107	prefLabel	Landbruksforsking
 REAL004108	prefLabel	Datasenter
@@ -2776,6 +2903,7 @@ REAL004255	prefLabel	Kvartærgeologi
 REAL004256	prefLabel	Bergartsdanning
 REAL004257	prefLabel	Binære katalogar
 REAL004259	prefLabel	Hundedressur
+REAL004263	prefLabel	Marinarkeologi
 REAL004264	prefLabel	Konsulentverksemd
 REAL004265	prefLabel	Relativistisk kosmologi
 REAL004266	altLabel	Fiskerimedisin
@@ -2804,6 +2932,7 @@ REAL004303	prefLabel	Lokalisering
 REAL004307	prefLabel	Falkefuglar
 REAL004310	prefLabel	Algoritmeteori
 REAL004311	prefLabel	Challenger-ekspedisjonen
+REAL004312	prefLabel	Malmleiting
 REAL004314	prefLabel	Fysiske einingar
 REAL004315	prefLabel	Harr
 REAL004319	prefLabel	Lineære grupper
@@ -2822,9 +2951,11 @@ REAL004342	prefLabel	Abstract syntax notation one
 REAL004344	prefLabel	Analytisk geometri
 REAL004346	prefLabel	Elnesformasjonen
 REAL004347	prefLabel	Kontinent
+REAL004348	prefLabel	Malaria
 REAL004349	prefLabel	Fenolar
 REAL004351	prefLabel	Aktive galaksekjernar
 REAL004352	prefLabel	Grunnomgrep
+REAL004357	prefLabel	Marine krepsdyr
 REAL004358	prefLabel	Katalyse
 REAL004360	prefLabel	Kringkasting
 REAL004361	prefLabel	Driftsmiljø
@@ -2841,6 +2972,7 @@ REAL004379	prefLabel	Autoradiografi
 REAL004380	prefLabel	Limnologi
 REAL004381	prefLabel	Kryoelektronmikroskopi
 REAL004382	prefLabel	Biokybernetikk
+REAL004383	prefLabel	Magmatisk differensiasjon
 REAL004384	prefLabel	Hydrokortison
 REAL004385	prefLabel	Eigedom
 REAL004386	prefLabel	Dielektrika
@@ -2914,6 +3046,8 @@ REAL004494	prefLabel	Jackson system design
 REAL004496	prefLabel	Bruksområde
 REAL004497	prefLabel	Fluorid
 REAL004498	prefLabel	Glykogensyntese
+REAL004504	altLabel	MHC
+REAL004504	prefLabel	Vevsameiningsgenkomplekset
 REAL004505	prefLabel	Kompleks geometri
 REAL004511	prefLabel	Enzymkinetikk
 REAL004512	prefLabel	Havfuglar
@@ -2991,6 +3125,7 @@ REAL004614	prefLabel	Lokalflora
 REAL004615	prefLabel	Amøbar
 REAL004619	prefLabel	Databasetryggleik
 REAL004620	prefLabel	Advanced Solar Observatory
+REAL004622	prefLabel	Magnetisk malmleiting
 REAL004623	prefLabel	Kolloidkjemi
 REAL004625	altLabel	Cellevegger
 REAL004625	prefLabel	Celleveggar
@@ -3040,6 +3175,7 @@ REAL004688	prefLabel	Katalogtenester
 REAL004690	prefLabel	Dehydrering
 REAL004691	prefLabel	Farmasi
 REAL004692	prefLabel	Kristtorn
+REAL004694	prefLabel	Marine samfunn
 REAL004695	prefLabel	Aerodynamikk
 REAL004696	altLabel	Genetiske sjukdommar
 REAL004696	prefLabel	Genetiske sjukdomar
@@ -3050,6 +3186,7 @@ REAL004702	prefLabel	Deltaavsetjingar
 REAL004705	prefLabel	Elektromagnetisk stråling
 REAL004706	prefLabel	Automorfiar
 REAL004708	prefLabel	Leddgikt
+REAL004710	prefLabel	Magnetiske målingar
 REAL004711	prefLabel	Fotorefraktive materiale
 REAL004713	prefLabel	Biomateriale
 REAL004719	altLabel	Kompaktering
@@ -3077,6 +3214,7 @@ REAL004747	prefLabel	Ljosdetektorar
 REAL004749	prefLabel	Enantiomere
 REAL004750	altLabel	Stjernehimmelen
 REAL004750	prefLabel	Himmellekamar
+REAL004751	prefLabel	Marine flatormar
 REAL004752	prefLabel	Gruppekohomologi
 REAL004753	prefLabel	Biologiske artsomgrep
 REAL004754	prefLabel	Bioastronomi
@@ -3150,6 +3288,7 @@ REAL004844	prefLabel	Datastøtta administrasjon
 REAL004845	altLabel	Kolinesterasehemjarar
 REAL004845	prefLabel	Kolinesterasehemmarar
 REAL004847	prefLabel	Kål
+REAL004848	prefLabel	Mallefiskar
 REAL004849	prefLabel	Jungel
 REAL004852	altLabel	Hubble
 REAL004852	altLabel	Hubble Space Telescope
@@ -3179,6 +3318,7 @@ REAL004879	altLabel	Eklipsar
 REAL004879	prefLabel	Formørkingar
 REAL004880	prefLabel	Laboratoriepraksis
 REAL004881	prefLabel	Grafisk industri
+REAL004882	prefLabel	Magmatiske malmførekomstar
 REAL004883	prefLabel	Fuglebur
 REAL004884	altLabel	Dialekter
 REAL004884	altLabel	Målføre
@@ -3187,6 +3327,8 @@ REAL004886	prefLabel	Blomedekorasjonar
 REAL004887	altLabel	Geologiske dateringsmetodar
 REAL004887	prefLabel	Geologisk datering
 REAL004889	prefLabel	Gynekologi
+REAL004891	altLabel	Mnas
+REAL004891	prefLabel	Manganarsenid
 REAL004892	prefLabel	Duftstoff
 REAL004894	altLabel	Integrerbarheit
 REAL004894	prefLabel	Integrabilitet
@@ -3215,6 +3357,7 @@ REAL004934	prefLabel	Autoksidasjon
 REAL004935	prefLabel	Berekningsmodellar
 REAL004940	prefLabel	Fluktuasjonar
 REAL004941	prefLabel	Buddhisme
+REAL004944	prefLabel	Sjølvlysande organismar
 REAL004946	prefLabel	Lie-grupper
 REAL004947	prefLabel	Immunokjemi
 REAL004948	prefLabel	Bremsestråling
@@ -3265,6 +3408,8 @@ REAL005024	altLabel	Flaggermyser
 REAL005024	prefLabel	Flaggermus
 REAL005025	prefLabel	Hydrofobe interaksjonar
 REAL005026	prefLabel	Generisk kjeldekode
+REAL005027	altLabel	Nordlysobservatorium
+REAL005027	prefLabel	Nordljosobservatorium
 REAL005028	altLabel	Legemiddelopptak
 REAL005028	prefLabel	Lækjemiddelopptak
 REAL005029	prefLabel	Kromosfæren
@@ -3282,6 +3427,7 @@ REAL005043	prefLabel	Emisjonsliner
 REAL005046	altLabel	Endoparasittar
 REAL005046	altLabel	Endozoa
 REAL005046	prefLabel	Endoparasittisme
+REAL005047	prefLabel	Magnetostratigrafi
 REAL005049	prefLabel	Eksotoksisitet
 REAL005050	prefLabel	Bønder
 REAL005051	prefLabel	L-funksjonar
@@ -3331,9 +3477,11 @@ REAL005113	prefLabel	Ingeniørvitskap
 REAL005114	prefLabel	Evershed-effekten
 REAL005119	altLabel	Lydsignal
 REAL005119	prefLabel	Ljodsignal
+REAL005121	prefLabel	Marine cyanobakteriar
 REAL005122	prefLabel	Isfuglar
 REAL005123	prefLabel	Kritisk teori
 REAL005124	prefLabel	Immunsuppresjon
+REAL005125	prefLabel	Marin prosjektering
 REAL005126	prefLabel	Geologiske prosessar
 REAL005127	prefLabel	Kapillærprøving
 REAL005128	prefLabel	Læringsprosessar
@@ -3363,6 +3511,7 @@ REAL005160	prefLabel	Akvatiske dyr
 REAL005161	prefLabel	Fordelingskromatografi
 REAL005162	prefLabel	Biomineral
 REAL005164	prefLabel	Kjernefysisk vinter
+REAL005165	prefLabel	Malmar
 REAL005166	prefLabel	Duftkjertlar
 REAL005169	prefLabel	Geomytologi
 REAL005170	prefLabel	Karbonsyntese
@@ -3389,6 +3538,7 @@ REAL005193	prefLabel	Aleutar
 REAL005195	prefLabel	Asymptotisk kombinatorikk
 REAL005196	prefLabel	Bibliografisk verifisering
 REAL005197	prefLabel	Glykobiologi
+REAL005201	prefLabel	Markovfelt
 REAL005202	prefLabel	Krysning
 REAL005203	altLabel	Gummiplantar
 REAL005203	prefLabel	Gummiplanter
@@ -3421,6 +3571,7 @@ REAL005250	prefLabel	Datastøtta omsetjing
 REAL005251	prefLabel	Diltiazem
 REAL005253	prefLabel	Kunstmotiv
 REAL005255	prefLabel	Ionekanalar
+REAL005257	prefLabel	Marine fiskar
 REAL005258	prefLabel	Avgjerdsprosessar
 REAL005259	altLabel	Surleiksgrad
 REAL005259	prefLabel	Hydrogenionkonsentrasjon
@@ -3455,12 +3606,14 @@ REAL005295	altLabel	Geografisk lengde
 REAL005295	prefLabel	Geografisk lengd
 REAL005296	altLabel	Cd-spektroskopi
 REAL005296	prefLabel	Circular dichroism-spektroskopi
+REAL005297	prefLabel	M83
 REAL005300	prefLabel	Dantzig-Wolfe-algoritmen
 REAL005301	altLabel	Analoge maskinar
 REAL005301	altLabel	Analoge maskiner
 REAL005301	prefLabel	Analog maskinvare
 REAL005302	prefLabel	Eggekvite
 REAL005305	prefLabel	Logisk analyse
+REAL005308	prefLabel	Magnetar
 REAL005309	prefLabel	Aktiv læring
 REAL005311	prefLabel	Funksjonskroppar
 REAL005312	altLabel	Sport
@@ -3507,6 +3660,8 @@ REAL005358	prefLabel	Bilforsikring
 REAL005359	prefLabel	Ferrocen
 REAL005360	prefLabel	Aktivitetssyklusar
 REAL005361	prefLabel	Invariant-teori
+REAL005362	altLabel	Metall-oksid-halvleiar-felteffekttransistorar
+REAL005362	prefLabel	MOSFET
 REAL005363	prefLabel	Kjønnshormon
 REAL005365	prefLabel	Farmakokinetikk
 REAL005366	prefLabel	Kjemodynamikk
@@ -3602,6 +3757,7 @@ REAL005471	altLabel	Gyteområde
 REAL005471	prefLabel	Gyting
 REAL005472	altLabel	Gruppeavgjersler
 REAL005472	prefLabel	Gruppeavgjerder
+REAL005474	prefLabel	Marin geoteknikk
 REAL005475	prefLabel	Asteroidar
 REAL005478	altLabel	Finkjemikaliar
 REAL005478	altLabel	Finkjemikalium
@@ -3644,6 +3800,7 @@ REAL005538	prefLabel	Graphical kernel system
 REAL005540	prefLabel	Lin
 REAL005541	prefLabel	Lim
 REAL005544	prefLabel	Frielektronlaserar
+REAL005546	prefLabel	Marin geokjemi
 REAL005547	prefLabel	Calanid
 REAL005548	prefLabel	Bavianar
 REAL005549	prefLabel	Lie
@@ -3654,12 +3811,14 @@ REAL005552	prefLabel	Fjellsprekkar
 REAL005555	prefLabel	Boring
 REAL005556	altLabel	Kroppslydar
 REAL005556	prefLabel	Kroppsljodar
+REAL005557	prefLabel	Marinbiologar
 REAL005558	prefLabel	Feittvev
 REAL005559	prefLabel	Flugeskvettfamilien
 REAL005563	prefLabel	Cyclops
 REAL005564	prefLabel	Indremedisin
 REAL005565	prefLabel	Dopplereffekten
 REAL005568	prefLabel	Irrigasjon
+REAL005569	prefLabel	Mad (programmeringsspråk)
 REAL005574	prefLabel	Dissosiasjon
 REAL005575	altLabel	Koboltklyngjer
 REAL005575	prefLabel	Koboltklynger
@@ -3668,6 +3827,7 @@ REAL005577	prefLabel	Formateringsspråk
 REAL005586	prefLabel	Batymetri
 REAL005587	prefLabel	Analytiske målemetodar
 REAL005589	prefLabel	Flodhestar
+REAL005590	prefLabel	Marin topografi
 REAL005595	altLabel	Bylgjeanalyse
 REAL005595	altLabel	Bølgeanalyse
 REAL005595	prefLabel	Bølgjeanalyse
@@ -3690,6 +3850,7 @@ REAL005617	prefLabel	Eldfaste materiale
 REAL005618	prefLabel	Bergartsdeformasjon
 REAL005620	prefLabel	Biologar
 REAL005621	prefLabel	Ibenholtfamilien
+REAL005622	prefLabel	Malmmikroskopi
 REAL005625	altLabel	Fundamenteringslære
 REAL005625	prefLabel	Fundamentering
 REAL005626	prefLabel	Diastereoselektiv
@@ -3698,6 +3859,7 @@ REAL005628	prefLabel	Forsvarspolitikk
 REAL005630	prefLabel	Hummarar
 REAL005631	altLabel	Høgnivåbeskriving
 REAL005631	prefLabel	Høgnivåskildring
+REAL005632	prefLabel	Makeval
 REAL005634	prefLabel	Desentralisering
 REAL005636	prefLabel	Bjørkeskog
 REAL005637	altLabel	Bildeoverføring
@@ -3712,6 +3874,7 @@ REAL005647	prefLabel	Katalytisk hydrogenering
 REAL005651	prefLabel	Homologi
 REAL005653	prefLabel	Foreldre
 REAL005654	prefLabel	Eigenvektorar
+REAL005656	prefLabel	Magnesiummangel
 REAL005657	altLabel	Dyrebustadar
 REAL005657	prefLabel	Dyrebustader
 REAL005658	prefLabel	Hobbymatematikk
@@ -3748,6 +3911,7 @@ REAL005707	prefLabel	Gammastrålespektrometri
 REAL005708	prefLabel	Kometkjernar
 REAL005710	prefLabel	Generaliserte rom
 REAL005712	prefLabel	Kinesisk restteorem
+REAL005713	prefLabel	Lauvmosar
 REAL005719	prefLabel	Cauchy-Kovalevskaya-teoremet
 REAL005720	prefLabel	Kult-prosjektet
 REAL005721	prefLabel	Fjørlus
@@ -3763,6 +3927,7 @@ REAL005733	prefLabel	Bevis
 REAL005737	altLabel	Basic Input-Output System
 REAL005737	prefLabel	BIOS
 REAL005740	prefLabel	Halvleiarar
+REAL005741	prefLabel	Lauvtre
 REAL005744	prefLabel	Gassteori
 REAL005745	prefLabel	Bergman-rom
 REAL005747	prefLabel	Fast fase
@@ -3793,6 +3958,7 @@ REAL005782	prefLabel	Biocid
 REAL005783	prefLabel	Utplantingar
 REAL005784	prefLabel	Brannvern
 REAL005785	prefLabel	Grafittomnar
+REAL005789	prefLabel	Marin bentos
 REAL005790	prefLabel	Loggdata
 REAL005791	altLabel	Kunnskapsfangst
 REAL005791	prefLabel	Kunnskapsinnsamling
@@ -3815,6 +3981,7 @@ REAL005819	altLabel	Kontinentale bergarter
 REAL005819	prefLabel	Kontinentale bergartar
 REAL005822	prefLabel	Forskarrekruttering
 REAL005823	prefLabel	Ioniserte gassar
+REAL005825	prefLabel	Marin teknikk
 REAL005827	prefLabel	Differensialoperatorar
 REAL005828	altLabel	Genomanalyse
 REAL005828	altLabel	Genomisk analyse
@@ -3870,9 +4037,14 @@ REAL005914	prefLabel	Kavitasjon
 REAL005915	prefLabel	Kenozoikum
 REAL005916	prefLabel	Landskap
 REAL005918	prefLabel	Kovarians
+REAL005919	altLabel	Zodiakallys
+REAL005919	prefLabel	Zodiakalljos
 REAL005922	prefLabel	Kremler
 REAL005923	prefLabel	Furunkulose
+REAL005925	prefLabel	Magnetiske anomalifelt
+REAL005926	prefLabel	Markeringsspråk
 REAL005928	prefLabel	Geologiske undersøkingar
+REAL005932	prefLabel	Malmdanning
 REAL005935	prefLabel	Innlandsis
 REAL005936	altLabel	Databehandlingsteknikk
 REAL005936	prefLabel	Datahandsamingsteknikk
@@ -3973,10 +4145,13 @@ REAL006074	prefLabel	Fluks
 REAL006076	prefLabel	Kvantitative målingar
 REAL006077	prefLabel	Høgoppløyseleg væskekromatografi
 REAL006080	prefLabel	Flukt
+REAL006081	prefLabel	Magnetlager
 REAL006084	altLabel	COSPAR
 REAL006084	prefLabel	Committee on Space Research
 REAL006087	prefLabel	Katalogisering
 REAL006088	prefLabel	Biosfæren
+REAL006089	altLabel	Strølys
+REAL006089	prefLabel	Strøljos
 REAL006090	prefLabel	Konversasjonsanalyse
 REAL006091	altLabel	Pinus
 REAL006091	prefLabel	Furu
@@ -4011,6 +4186,7 @@ REAL006143	prefLabel	Arvelære
 REAL006145	prefLabel	Grenseflater
 REAL006146	prefLabel	Fibonaccital
 REAL006147	prefLabel	Elektro-kjemisk analyse
+REAL006148	prefLabel	Marknadsorientering
 REAL006152	prefLabel	Elektronspinnresonans
 REAL006153	prefLabel	Interglasial
 REAL006161	altLabel	Digitaliserte bylgjespekter
@@ -4027,6 +4203,7 @@ REAL006173	prefLabel	Aminosyrer
 REAL006175	prefLabel	Adaptive system
 REAL006178	prefLabel	Insektsvermar
 REAL006179	prefLabel	Facies
+REAL006181	prefLabel	Marin plankton
 REAL006182	prefLabel	Indolizin
 REAL006183	prefLabel	Floraregionar
 REAL006184	altLabel	Brukarmedverking
@@ -4041,6 +4218,9 @@ REAL006192	prefLabel	Informasjonshandsaming
 REAL006193	prefLabel	Geografisk tradisjon
 REAL006194	prefLabel	Biomasse
 REAL006197	prefLabel	Feminisering
+REAL006200	altLabel	Tang
+REAL006200	altLabel	Tare
+REAL006200	prefLabel	Makroalgar
 REAL006201	prefLabel	Billettsystem
 REAL006202	prefLabel	Analysedata
 REAL006203	prefLabel	Kategoriar
@@ -4141,6 +4321,7 @@ REAL006360	prefLabel	Embryogenese
 REAL006361	prefLabel	Datamodellering
 REAL006363	prefLabel	Antimaterie
 REAL006364	prefLabel	Framandlekamar
+REAL006365	prefLabel	Mammutar
 REAL006366	prefLabel	Konspirasjonar
 REAL006367	prefLabel	Fonon
 REAL006369	prefLabel	Dyrking
@@ -4195,6 +4376,7 @@ REAL006456	prefLabel	Ioniserande bakgrunnsstråling
 REAL006457	prefLabel	Elektrospray
 REAL006458	prefLabel	Eksplosjonsvern
 REAL006459	prefLabel	Andalusitt
+REAL006460	prefLabel	Magmatiske prosessar
 REAL006461	prefLabel	Formell spesifikasjon
 REAL006462	prefLabel	Induktiv logikk
 REAL006463	prefLabel	Alpine økosystem
@@ -4235,6 +4417,7 @@ REAL006525	altLabel	Lysspreiing
 REAL006525	prefLabel	Ljosspreiing
 REAL006527	altLabel	Kjønnssjukdommar
 REAL006527	prefLabel	Kjønnssjukdomar
+REAL006528	prefLabel	Magnetiske ertsar
 REAL006530	prefLabel	Abalonar
 REAL006531	prefLabel	Kopernikanske system
 REAL006532	prefLabel	Fiskeprodukt
@@ -4264,6 +4447,7 @@ REAL006569	prefLabel	B-metoden
 REAL006571	prefLabel	Dregging
 REAL006576	prefLabel	Klimatologi
 REAL006578	prefLabel	Fedme
+REAL006579	prefLabel	Magnetosfærefysikk
 REAL006580	prefLabel	Linefiske
 REAL006583	prefLabel	Diatomiske molekyl
 REAL006591	prefLabel	Kontainermolekyl
@@ -4307,6 +4491,7 @@ REAL006640	prefLabel	Dbase
 REAL006643	prefLabel	Biomanipulasjon
 REAL006645	altLabel	Mating
 REAL006645	prefLabel	Foring
+REAL006646	prefLabel	Manganlegeringar
 REAL006648	prefLabel	Cyclodextrin
 REAL006651	prefLabel	Datakortet
 REAL006652	prefLabel	Biotopar
@@ -4321,6 +4506,7 @@ REAL006666	prefLabel	Denitrifikasjon
 REAL006668	prefLabel	Kvasistellare objekt
 REAL006670	prefLabel	Koagulering
 REAL006671	prefLabel	Dendrimerar
+REAL006672	prefLabel	Marknadsundersøkingar
 REAL006673	altLabel	Attfinningssystem
 REAL006673	prefLabel	Gjenfinningssystem
 REAL006677	prefLabel	Biogeografi
@@ -4334,6 +4520,7 @@ REAL006690	prefLabel	Elektronspinnresonans
 REAL006691	prefLabel	Diskrete sannsynsfordelingar
 REAL006692	altLabel	Havplantar
 REAL006692	prefLabel	Havplanter
+REAL006693	prefLabel	Marine makroalgar
 REAL006695	prefLabel	Lemen
 REAL006696	prefLabel	Decnet
 REAL006697	prefLabel	Forskingshistorie
@@ -4368,7 +4555,9 @@ REAL006732	prefLabel	Lakseforsking
 REAL006733	prefLabel	Karbid
 REAL006735	prefLabel	Differensialalgebra
 REAL006736	prefLabel	Integrerbare funksjonar
+REAL006737	prefLabel	Makrellfiske
 REAL006738	prefLabel	Konvekse funksjonar
+REAL006739	prefLabel	Makrofauna
 REAL006740	prefLabel	Kjemotaksonomi
 REAL006742	prefLabel	Fotogrammetriske metodar
 REAL006743	prefLabel	Beverrotter
@@ -4416,6 +4605,7 @@ REAL006797	altLabel	Verknadar
 REAL006797	altLabel	Verknader
 REAL006797	prefLabel	Effektar
 REAL006798	prefLabel	Kombinatoriske krinsar
+REAL006799	prefLabel	Mangrovar
 REAL006801	prefLabel	Hjerneskadar
 REAL006802	prefLabel	Jordforureining
 REAL006803	altLabel	Breiddegrader
@@ -4477,6 +4667,7 @@ REAL006870	altLabel	Marin akustikk
 REAL006870	altLabel	Undervassakustikk
 REAL006870	prefLabel	Hydroakustikk
 REAL006872	prefLabel	Kapitalinvesteringar
+REAL006878	prefLabel	Marin sedimentologi
 REAL006880	prefLabel	Einebær
 REAL006882	prefLabel	Geometriske eigenskapar
 REAL006884	prefLabel	Fluid
@@ -4536,6 +4727,7 @@ REAL006952	prefLabel	Kalsiummanganoksid
 REAL006955	altLabel	Jordfestingsskikkar
 REAL006955	prefLabel	Gravferdsskikkar
 REAL006957	prefLabel	Endosom
+REAL006959	prefLabel	Marint dyreliv
 REAL006962	altLabel	Andletsgjenkjenning
 REAL006962	altLabel	Ansiktattkjenning
 REAL006962	altLabel	Ansiktgjenkjenning
@@ -4543,6 +4735,8 @@ REAL006962	altLabel	Ansiktsattkjenning
 REAL006962	altLabel	Ansiktsgjenkjenning
 REAL006962	prefLabel	Andletsattkjenning
 REAL006965	prefLabel	Kryptand
+REAL006966	altLabel	Lauvsporeplantar
+REAL006966	prefLabel	Lauvsporeplanter
 REAL006967	prefLabel	Komparativ biokjemi
 REAL006969	prefLabel	Lorentzgrupper
 REAL006971	prefLabel	Feittsyrer
@@ -4602,6 +4796,7 @@ REAL007053	prefLabel	Kunstige rev
 REAL007055	altLabel	Jernurt
 REAL007055	prefLabel	Jarnurt
 REAL007059	prefLabel	Alunskifer
+REAL007062	prefLabel	Marsvin
 REAL007063	prefLabel	Optikken i hava
 REAL007064	prefLabel	Katedralar
 REAL007067	prefLabel	Lagrangepunktet
@@ -4631,6 +4826,8 @@ REAL007105	prefLabel	Borehòlsteknologi
 REAL007107	altLabel	Geologisk tid
 REAL007107	altLabel	Geologisk tidstabell
 REAL007107	prefLabel	Geologisk tidsmåling
+REAL007108	altLabel	Magesekken
+REAL007108	prefLabel	Magen
 REAL007114	prefLabel	Handelsvarer
 REAL007116	prefLabel	Kjemisk laserspektroskopi
 REAL007117	prefLabel	Brelære
@@ -4644,6 +4841,7 @@ REAL007129	altLabel	Lakseførekomstar
 REAL007129	altLabel	Laksepopulasjonar
 REAL007129	prefLabel	Laksebestandar
 REAL007130	prefLabel	Elektrokjemiske reaksjonar
+REAL007133	prefLabel	Marine skadedyr
 REAL007135	altLabel	Aper
 REAL007135	prefLabel	Apar
 REAL007137	prefLabel	Acetylering
@@ -4694,11 +4892,13 @@ REAL007185	prefLabel	Analytiske mengder
 REAL007186	altLabel	Galaktiske system
 REAL007186	prefLabel	Galaksesystem
 REAL007187	prefLabel	Intervjuteknikk
+REAL007188	prefLabel	Magnoliafamilien
 REAL007189	prefLabel	Laksefiske
 REAL007191	prefLabel	Invariante mål
 REAL007192	altLabel	Belastningar
 REAL007192	prefLabel	Belastingar
 REAL007193	prefLabel	Funksjonelle grupper
+REAL007195	prefLabel	Buling
 REAL007198	altLabel	Gjentatte målingar
 REAL007198	prefLabel	Gjentekne målingar
 REAL007199	prefLabel	Elektriske koplingar
@@ -4708,6 +4908,7 @@ REAL007208	prefLabel	Genekspresjon
 REAL007209	prefLabel	Grupper
 REAL007210	prefLabel	Konstantar
 REAL007213	prefLabel	Gasstransport
+REAL007214	prefLabel	Marine naturressursar
 REAL007215	prefLabel	Drift (datasystem)
 REAL007216	prefLabel	Doping
 REAL007217	prefLabel	Desorpsjon
@@ -4758,6 +4959,7 @@ REAL007283	prefLabel	Flymagnetiske data
 REAL007284	prefLabel	Alderdom
 REAL007286	altLabel	Brebevegelsar
 REAL007286	prefLabel	Brerørsler
+REAL007288	prefLabel	Marknadsføring
 REAL007291	prefLabel	Hunderasar
 REAL007294	prefLabel	Danning
 REAL007295	altLabel	Lydkoding
@@ -4766,6 +4968,7 @@ REAL007297	prefLabel	Elektrisk leidning
 REAL007298	prefLabel	Bioakkumulering
 REAL007300	prefLabel	Abiotiske faktorar
 REAL007303	prefLabel	Fuglehundar
+REAL007304	prefLabel	Maritim teknologi
 REAL007305	prefLabel	Alginsyre
 REAL007307	prefLabel	Dataprofesjonen
 REAL007308	altLabel	Isomeri
@@ -4794,17 +4997,22 @@ REAL007345	prefLabel	Brokkfuglar
 REAL007346	altLabel	Light Detection And Ranging
 REAL007346	prefLabel	LIDAR
 REAL007348	prefLabel	Dikroisme
+REAL007349	prefLabel	Magnetometri
 REAL007351	prefLabel	Leseteknikk
 REAL007352	prefLabel	Feltemisjon
 REAL007353	prefLabel	Automatiske målestasjonar
 REAL007354	prefLabel	Glukokjemi
 REAL007355	prefLabel	Biologisk determinisme
 REAL007356	prefLabel	Kyanitt
+REAL007357	prefLabel	Malmmineral
 REAL007358	prefLabel	Arktisk geologi
 REAL007360	prefLabel	Astroseismologi
 REAL007361	altLabel	Giftslangar
 REAL007361	prefLabel	Giftige slangar
+REAL007362	altLabel	Mangelsjukdommar
+REAL007362	prefLabel	Mangelsjukdomar
 REAL007363	prefLabel	Addisjonsport
+REAL007364	prefLabel	Magma
 REAL007367	prefLabel	Hjartesvikt
 REAL007369	prefLabel	Sjiraffar
 REAL007372	prefLabel	Genressursar
@@ -4821,6 +5029,7 @@ REAL007391	prefLabel	Benzenoid
 REAL007392	prefLabel	Landskapsutforming
 REAL007393	prefLabel	Libellar
 REAL007394	prefLabel	Kulturformidling
+REAL007395	prefLabel	Makronæringsstoff
 REAL007398	prefLabel	Kontekstfrie språk
 REAL007399	altLabel	Administrativ databehandling
 REAL007399	prefLabel	Administrativ datahandsaming
@@ -4834,14 +5043,17 @@ REAL007411	altLabel	Veideristingar
 REAL007411	altLabel	Veideristningar
 REAL007411	prefLabel	Helleristingar
 REAL007412	prefLabel	Fruktdyrking
+REAL007414	prefLabel	Magi
 REAL007415	prefLabel	Alpin forsking
 REAL007419	prefLabel	Friluftsområde
+REAL007420	prefLabel	Marin vegetasjon
 REAL007423	prefLabel	Autentisitet
 REAL007425	prefLabel	Biologisk krigføring
 REAL007427	prefLabel	Elveleie
 REAL007428	prefLabel	Ledd
 REAL007431	prefLabel	Foldingar
 REAL007435	prefLabel	Enterotoxin
+REAL007436	prefLabel	Magnetiske observasjonar
 REAL007437	prefLabel	Franske revolusjon
 REAL007439	prefLabel	Ikkje-monoton resonnering
 REAL007442	prefLabel	Asbest
@@ -4859,8 +5071,10 @@ REAL007454	altLabel	Ville dyr
 REAL007454	prefLabel	Dyreliv
 REAL007455	prefLabel	Kromatin
 REAL007456	prefLabel	Hominidar
+REAL007457	prefLabel	Makt
 REAL007459	prefLabel	Dyrehår
 REAL007460	prefLabel	Kjemiske syntesemetodar
+REAL007461	prefLabel	Marine muslingar
 REAL007462	prefLabel	Atomdrivne romskip
 REAL007466	prefLabel	Finansmatematikk
 REAL007468	prefLabel	Fødsel
@@ -4880,6 +5094,8 @@ REAL007493	prefLabel	Digitale medium
 REAL007494	altLabel	Holocene
 REAL007494	prefLabel	Holocen
 REAL007495	prefLabel	Kosmisk materie
+REAL007496	altLabel	Ertsførekomstar
+REAL007496	prefLabel	Malmførekomstar
 REAL007497	prefLabel	Berekningsorientert mekanikk
 REAL007498	prefLabel	Kvalitet
 REAL007500	prefLabel	Detektorar
@@ -4907,6 +5123,7 @@ REAL007523	altLabel	Akustiske bylgjer
 REAL007523	altLabel	Akustiske bølger
 REAL007523	prefLabel	Akustiske bølgjer
 REAL007527	prefLabel	Døgnfluger
+REAL007530	prefLabel	Makrosykliske sambindingar
 REAL007531	altLabel	Halogenerte flammehemjarar
 REAL007531	prefLabel	Halogenerte flammehemmarar
 REAL007532	prefLabel	Gruver
@@ -4922,6 +5139,7 @@ REAL007546	prefLabel	Kulelyn
 REAL007547	prefLabel	Feltarbeid
 REAL007548	prefLabel	Fluorescensanalyse
 REAL007549	prefLabel	Funksjonstilnærming
+REAL007551	prefLabel	Mach
 REAL007553	prefLabel	Faktureringssystem
 REAL007555	altLabel	Nanobioteknologi
 REAL007555	prefLabel	Bionanoteknologi
@@ -4951,6 +5169,7 @@ REAL007592	prefLabel	Dendrittar
 REAL007593	prefLabel	Akademisk integritet
 REAL007595	altLabel	ISS
 REAL007595	prefLabel	International Space Station
+REAL007596	prefLabel	Magmatiske intrusivar
 REAL007598	prefLabel	Kommutative kroppar
 REAL007600	prefLabel	Kvantifisering
 REAL007602	prefLabel	Karotenoid
@@ -5031,6 +5250,7 @@ REAL007711	prefLabel	Frobeniusalgebraer
 REAL007713	prefLabel	Almetre
 REAL007720	prefLabel	Elvekantvegetasjon
 REAL007721	prefLabel	Ekstraksjon
+REAL007723	prefLabel	Løysemiddelskadar
 REAL007725	prefLabel	Kamille
 REAL007728	prefLabel	Biofilm
 REAL007730	altLabel	Legar
@@ -5061,6 +5281,7 @@ REAL007762	prefLabel	Fluorinerte surfaktantar
 REAL007763	prefLabel	Boreslam
 REAL007765	altLabel	Honningplantar
 REAL007765	prefLabel	Honningplanter
+REAL007766	prefLabel	MARC
 REAL007767	altLabel	Bildeskrift
 REAL007767	prefLabel	Biletskrift
 REAL007768	prefLabel	Det antropiske prinsippet
@@ -5077,6 +5298,7 @@ REAL007787	prefLabel	Candida
 REAL007789	altLabel	Halvvengar
 REAL007789	altLabel	Halvvengjer
 REAL007789	prefLabel	Halvvenger
+REAL007795	prefLabel	Marin paleoøkologi
 REAL007796	altLabel	Elgforvaltning
 REAL007796	prefLabel	Elgforvalting
 REAL007799	prefLabel	Frøspreiing
@@ -5105,6 +5327,7 @@ REAL007838	altLabel	Kontormiljø
 REAL007838	prefLabel	Kontorsystem
 REAL007842	prefLabel	Folkemusikk
 REAL007844	prefLabel	Kantarellar
+REAL007845	prefLabel	Marine organismar
 REAL007847	prefLabel	Almebork
 REAL007849	altLabel	Analyseteknikk
 REAL007849	altLabel	Analyseteknikkar
@@ -5131,6 +5354,9 @@ REAL007882	prefLabel	Forgreina elvelaup
 REAL007885	prefLabel	Induksjon
 REAL007886	prefLabel	Gruppeliv
 REAL007887	prefLabel	Avskyting
+REAL007889	prefLabel	Marknadsøkonomi
+REAL007890	altLabel	Marknadar
+REAL007890	prefLabel	Marknader
 REAL007895	altLabel	Datastøtta undervisning
 REAL007895	altLabel	E-læring
 REAL007895	prefLabel	Datastøtta undervising
@@ -5216,8 +5442,10 @@ REAL008043	prefLabel	Dehydrogenasar
 REAL008044	prefLabel	Fanerozoikum
 REAL008046	prefLabel	Kjemisk kommunikasjon
 REAL008047	prefLabel	Glasiomarine prosessar
+REAL008048	prefLabel	Marine biotopar
 REAL008049	prefLabel	Høgenergifysikk
 REAL008050	prefLabel	Kvitkinngås
+REAL008053	prefLabel	Lauvfroskar
 REAL008054	prefLabel	Avgrensa rang
 REAL008055	prefLabel	Eoliske prosessar
 REAL008058	prefLabel	Dendrologi
@@ -5228,6 +5456,7 @@ REAL008065	prefLabel	Amfibium
 REAL008066	prefLabel	Gitterdynamikk
 REAL008069	prefLabel	Hydrogenkjemi
 REAL008073	prefLabel	Landbruk
+REAL008074	prefLabel	Andreordens logikk
 REAL008075	prefLabel	Datastrukturar
 REAL008079	prefLabel	Kjeder
 REAL008081	altLabel	Geologiske krafter
@@ -5244,11 +5473,13 @@ REAL008095	prefLabel	Dingoar
 REAL008097	prefLabel	Apotekkrukker
 REAL008099	prefLabel	Fjernmåling
 REAL008102	prefLabel	Degenerasjon
+REAL008103	prefLabel	Mangfald
 REAL008105	prefLabel	Dryppsteinsgrotter
 REAL008107	prefLabel	Algebraisk kodeteori
 REAL008108	prefLabel	Julia-mengder
 REAL008110	altLabel	Fastsittande algar
 REAL008110	prefLabel	Fastsitjande algar
+REAL008113	prefLabel	Marknadsanalysar
 REAL008115	prefLabel	Haar-mål
 REAL008116	prefLabel	Lineære system
 REAL008117	prefLabel	Fleirbrukargrensesnitt
@@ -5266,6 +5497,7 @@ REAL008133	prefLabel	Eolisk transport
 REAL008134	prefLabel	Fraktalar
 REAL008135	prefLabel	Ionefelle-mobilitetsspektrometri
 REAL008139	prefLabel	Kalendrar
+REAL008140	prefLabel	Magnetiske monopol
 REAL008141	prefLabel	Intelligente informasjonssystem
 REAL008143	prefLabel	Larveformer
 REAL008144	altLabel	Karsporeplantar
@@ -5273,6 +5505,8 @@ REAL008144	prefLabel	Karsporeplanter
 REAL008146	prefLabel	Formallogikk
 REAL008147	prefLabel	Elektronikkindustri
 REAL008148	prefLabel	Databasesystem
+REAL008149	altLabel	Makroplantar
+REAL008149	prefLabel	Makroplanter
 REAL008150	prefLabel	Combretum
 REAL008151	prefLabel	Alpine miljø
 REAL008152	prefLabel	Gåter
@@ -5295,6 +5529,7 @@ REAL008183	prefLabel	Journalistikk
 REAL008184	prefLabel	Ladningsberarar
 REAL008185	prefLabel	Åtferdsbiologi
 REAL008186	prefLabel	Fiolar
+REAL008192	prefLabel	Marin flora
 REAL008193	prefLabel	Bydelar
 REAL008194	prefLabel	Fleirspråklege databasar
 REAL008195	prefLabel	Høgnivåspråk
@@ -5338,6 +5573,7 @@ REAL008250	prefLabel	Boktrykkjarar
 REAL008252	prefLabel	Amineringsreaksjonar
 REAL008256	altLabel	Kosmonautar
 REAL008256	prefLabel	Astronautar
+REAL008263	prefLabel	Markpiplerker
 REAL008264	prefLabel	Homoptera
 REAL008265	prefLabel	Kjæledyr
 REAL008266	prefLabel	Injiserbare emulsjonar
@@ -5425,6 +5661,7 @@ REAL008392	prefLabel	Luftkjenslege sambindingar
 REAL008399	altLabel	Dynamisk lysspreiing
 REAL008399	prefLabel	Dynamisk ljosspreiing
 REAL008400	prefLabel	Fluktuasjonsteori
+REAL008404	prefLabel	Maksimal
 REAL008405	prefLabel	Konserveringsmiddel
 REAL008406	prefLabel	Landskapsvernområde
 REAL008407	prefLabel	Innsøkking
@@ -5511,6 +5748,7 @@ REAL008521	prefLabel	Diabetikarkost
 REAL008522	prefLabel	Gravitasjonskollaps
 REAL008523	prefLabel	Djupvassfauna
 REAL008525	prefLabel	Antibiotika
+REAL008526	prefLabel	Magnetokalorisk effekt
 REAL008528	altLabel	Brannfaremerking
 REAL008528	altLabel	Eksplosjonsfaremerking
 REAL008528	altLabel	Faremerking
@@ -5639,6 +5877,7 @@ REAL008701	altLabel	Krimsykje
 REAL008701	prefLabel	Forkjøling
 REAL008702	prefLabel	Korrelasjonsenergi
 REAL008704	prefLabel	Geoturisme
+REAL008706	prefLabel	Målarkunst
 REAL008707	prefLabel	Energiutvinning
 REAL008708	prefLabel	Flex
 REAL008709	prefLabel	Hovudet
@@ -5651,6 +5890,7 @@ REAL008723	prefLabel	Eksperimentell talteori
 REAL008725	prefLabel	Væskekromatografi ionemobilitet-spektrometri massespektrometri
 REAL008726	prefLabel	Fysiske prosessar
 REAL008727	prefLabel	Ikkje-lineære vibrasjonar
+REAL008728	prefLabel	Magnetresonanstomografi
 REAL008730	prefLabel	Geomikrobiologi
 REAL008731	prefLabel	Logistikk
 REAL008733	prefLabel	Autisme
@@ -5658,6 +5898,7 @@ REAL008734	altLabel	Assosiativt lager
 REAL008734	prefLabel	Assosiasjonslager
 REAL008735	prefLabel	Injeksjon
 REAL008736	prefLabel	Biokonjugering
+REAL008738	prefLabel	Magnetiske eigenskapar
 REAL008740	prefLabel	Folkehelse
 REAL008741	prefLabel	Diplomati
 REAL008742	altLabel	Klatremyser
@@ -5700,6 +5941,8 @@ REAL008791	prefLabel	Flytande metall
 REAL008792	altLabel	Jquery
 REAL008792	prefLabel	Javascript
 REAL008794	prefLabel	Heliosat
+REAL008797	altLabel	Natthimmellys
+REAL008797	prefLabel	Natthimmelljos
 REAL008801	prefLabel	Lava
 REAL008802	prefLabel	Datastøtta leiing
 REAL008803	prefLabel	Elektroniske instrument
@@ -5708,6 +5951,7 @@ REAL008808	altLabel	Bevegelsesorientert interaksjon
 REAL008808	prefLabel	Rørsleorientert interaksjon
 REAL008809	prefLabel	Ekvivalentar
 REAL008810	prefLabel	Lilog
+REAL008811	prefLabel	Magnetiske stormar
 REAL008816	prefLabel	Gödel
 REAL008817	prefLabel	Baseball
 REAL008818	prefLabel	Elektronisk overvaking
@@ -5715,6 +5959,7 @@ REAL008819	altLabel	Fjæreorganismar
 REAL008819	prefLabel	Fjøreorganismar
 REAL008820	prefLabel	Aminosambindingar
 REAL008822	prefLabel	Dekorasjonar
+REAL008823	prefLabel	Magnetisk polarisasjon
 REAL008830	prefLabel	Anoksi
 REAL008831	prefLabel	Konjugerte system
 REAL008832	prefLabel	Data
@@ -5741,6 +5986,7 @@ REAL008863	prefLabel	Jamvekt
 REAL008864	prefLabel	Dare
 REAL008866	prefLabel	Eisenstein
 REAL008868	prefLabel	Elektriske omnar
+REAL008871	prefLabel	Makrosykliske molekyl
 REAL008872	prefLabel	Lakk
 REAL008875	prefLabel	Automorfe former
 REAL008878	prefLabel	Kontaktar
@@ -5770,6 +6016,7 @@ REAL008909	prefLabel	Klegg
 REAL008910	prefLabel	Geometrisk design
 REAL008911	altLabel	Klasseromsundervising
 REAL008911	prefLabel	Klasseromsundervisning
+REAL008913	prefLabel	Marine sjøpattedyr
 REAL008914	prefLabel	Karbokation
 REAL008915	altLabel	General packet radio service
 REAL008915	prefLabel	GPRS
@@ -5791,6 +6038,7 @@ REAL008939	altLabel	FOC
 REAL008939	prefLabel	Faint Object Camera
 REAL008940	altLabel	Husmyser
 REAL008940	prefLabel	Husmus
+REAL008941	prefLabel	Marine fossil
 REAL008944	prefLabel	Korallrev
 REAL008945	prefLabel	Egoisme
 REAL008948	prefLabel	Fysikalsk farmasi
@@ -6000,6 +6248,7 @@ REAL009282	altLabel	Electronic delay storage automatic calculator
 REAL009282	prefLabel	EDSAC
 REAL009283	prefLabel	Illustrering
 REAL009284	prefLabel	Biologiske stasjonar
+REAL009285	prefLabel	Malmopprikingar
 REAL009286	prefLabel	Algebraisk koding
 REAL009288	prefLabel	Flyteeigenskapar
 REAL009289	prefLabel	Havedderkoppar
@@ -6083,6 +6332,7 @@ REAL009424	altLabel	Grensesjikt
 REAL009424	prefLabel	Grenselag
 REAL009425	prefLabel	Bambus
 REAL009429	prefLabel	Etnofarmakologi
+REAL009432	prefLabel	Marine mineral
 REAL009435	prefLabel	Heimesider
 REAL009436	prefLabel	Brannteknisk prøving
 REAL009438	prefLabel	Lagringsmedium
@@ -6189,6 +6439,8 @@ REAL009595	altLabel	Bergarter
 REAL009595	prefLabel	Bergartar
 REAL009597	altLabel	Geomorfologiske prosessar
 REAL009597	prefLabel	Geomorfologi
+REAL009599	altLabel	Marinteknologi
+REAL009599	prefLabel	Marin teknologi
 REAL009602	prefLabel	Farmasøytar
 REAL009604	prefLabel	Dynamisk hydrologi
 REAL009606	prefLabel	Komplekse mangfald
@@ -6196,6 +6448,7 @@ REAL009613	prefLabel	Fiskeområde
 REAL009615	prefLabel	Internasjonalisme
 REAL009616	prefLabel	Fysiografi
 REAL009617	prefLabel	Kjemisk syntese
+REAL009618	prefLabel	Makroprosessar
 REAL009619	prefLabel	Kolatre
 REAL009620	prefLabel	Ikkje-lineære krystallgitter
 REAL009625	prefLabel	Helsevern
@@ -6241,6 +6494,7 @@ REAL009685	prefLabel	Fiskeripolitikk
 REAL009686	prefLabel	Laktose
 REAL009688	altLabel	Elektronisk dokumentbehandling
 REAL009688	prefLabel	Elektronisk dokumenthandsaming
+REAL009689	prefLabel	Marine hoppekreps
 REAL009690	prefLabel	Cellevolum
 REAL009691	prefLabel	Lesepenn
 REAL009693	altLabel	Ganglie
@@ -6261,6 +6515,7 @@ REAL009719	altLabel	Broddvepsar
 REAL009719	prefLabel	Broddkvefsar
 REAL009723	altLabel	Grafiske teknikkar
 REAL009723	prefLabel	Grafiske metodar
+REAL009726	prefLabel	Magnesiumsulfat
 REAL009730	prefLabel	Bifenyl
 REAL009731	prefLabel	Fotoemisjon
 REAL009732	altLabel	Drupal
@@ -6292,6 +6547,7 @@ REAL009766	altLabel	Terrestriske sniglar
 REAL009766	prefLabel	Landsniglar
 REAL009769	prefLabel	Foucaults pendel
 REAL009771	prefLabel	Drivjakt
+REAL009772	prefLabel	Makroorganismar
 REAL009774	prefLabel	Halvleiarkomponentar
 REAL009780	prefLabel	Internasjonal utviklingshjelp
 REAL009781	altLabel	Automatisk bevisføring
@@ -6329,6 +6585,7 @@ REAL009815	prefLabel	Karbondioksid
 REAL009817	prefLabel	Faserom
 REAL009819	prefLabel	Kambrosilur
 REAL009820	prefLabel	Effektivitet
+REAL009821	prefLabel	Makromolekyl
 REAL009822	prefLabel	Etnobotanikk
 REAL009823	prefLabel	Influensa
 REAL009825	prefLabel	Co2-lagring
@@ -6345,7 +6602,9 @@ REAL009843	prefLabel	Bardekvalar
 REAL009845	prefLabel	Bruksretta teknologi
 REAL009846	prefLabel	Inspeksjonsystem
 REAL009847	prefLabel	Katodeluminesens
+REAL009849	prefLabel	Sjølvlysande fiskar
 REAL009850	prefLabel	Krystallografispektrometri
+REAL009852	prefLabel	Malakologi
 REAL009853	prefLabel	Hopar
 REAL009854	altLabel	Langbylgjearray
 REAL009854	altLabel	Langbølgearray
@@ -6370,6 +6629,8 @@ REAL009872	prefLabel	Konservering
 REAL009874	prefLabel	Jødar
 REAL009875	altLabel	Likevekter
 REAL009875	prefLabel	Jamvekter
+REAL009878	altLabel	Havkjemi
+REAL009878	prefLabel	Marinkjemi
 REAL009881	altLabel	Automatisk kontrollteknikk
 REAL009881	prefLabel	Automatisk kontroll
 REAL009882	altLabel	Lyngheier
@@ -6432,6 +6693,7 @@ REAL009935	altLabel	Ibm risc
 REAL009935	altLabel	Ibm stretch
 REAL009935	altLabel	Ibm-maskinar
 REAL009935	prefLabel	Ibm-maskiner
+REAL009937	prefLabel	Marine pattedyr
 REAL009940	altLabel	Fotokjemisk overflatebehandling
 REAL009940	prefLabel	Fotokjemisk overflatehandsaming
 REAL009941	prefLabel	Algebraer
@@ -6476,6 +6738,7 @@ REAL009984	prefLabel	Laserspektroskopi
 REAL009985	prefLabel	Bruksretta kvartærgeologi
 REAL009987	altLabel	Testikkelkreft
 REAL009987	prefLabel	Kreft
+REAL009988	prefLabel	Mammalogi
 REAL009989	altLabel	Helseplager
 REAL009989	altLabel	Helseskader
 REAL009989	altLabel	Helseverknader
@@ -6516,6 +6779,7 @@ REAL010029	prefLabel	Etnofarmasi
 REAL010031	prefLabel	Digitale krinsar
 REAL010032	prefLabel	Dekking
 REAL010033	prefLabel	Kerogen
+REAL010035	prefLabel	Marine blautdyr
 REAL010036	prefLabel	Frøbankar
 REAL010037	prefLabel	Elektroforese
 REAL010038	prefLabel	Lotus
@@ -6560,6 +6824,8 @@ REAL010092	prefLabel	Atmosfærisk konveksjon
 REAL010098	prefLabel	Bibliotekkatalogar
 REAL010099	altLabel	Artsforvaltning
 REAL010099	prefLabel	Artsforvalting
+REAL010100	altLabel	Markmyser
+REAL010100	prefLabel	Markmus
 REAL010101	prefLabel	Afro-amerikansk litteratur
 REAL010102	altLabel	Libellelarver
 REAL010102	prefLabel	Libellelarvar
@@ -6655,6 +6921,7 @@ REAL010238	altLabel	Førhistoriske plantar
 REAL010238	prefLabel	Førhistoriske planter
 REAL010239	prefLabel	Kommunikasjonssatellittar
 REAL010242	prefLabel	Fenomenologi
+REAL010245	prefLabel	Marine parasittar
 REAL010246	prefLabel	Elektroforetisk analyse
 REAL010250	prefLabel	Ligandfeltteori
 REAL010252	prefLabel	Bioanalyse
@@ -6755,9 +7022,11 @@ REAL010385	prefLabel	Kreftceller
 REAL010386	prefLabel	Fulbright-stipend
 REAL010388	prefLabel	EUV imaging spectrometer
 REAL010389	prefLabel	Allergen
+REAL010393	prefLabel	Macrura
 REAL010396	prefLabel	Faseoverføringskatalyse
 REAL010398	altLabel	Hereditet
 REAL010398	prefLabel	Arvelegheit
+REAL010400	prefLabel	Markørar
 REAL010402	prefLabel	Elektrokjemiske potensial
 REAL010412	prefLabel	Firfisler
 REAL010414	prefLabel	Heterogene databasar
@@ -6772,6 +7041,8 @@ REAL010427	prefLabel	Kunstverk
 REAL010428	altLabel	Asymptotiske rekker
 REAL010428	prefLabel	Asymptotiske rekkjer
 REAL010429	prefLabel	Internasjonale informasjonssystem
+REAL010431	altLabel	Loess
+REAL010431	prefLabel	Løss
 REAL010432	altLabel	Statsforvaltninga
 REAL010432	prefLabel	Statsforvaltinga
 REAL010438	prefLabel	Arv
@@ -6780,6 +7051,7 @@ REAL010440	prefLabel	Form
 REAL010441	prefLabel	Infraraud vibrasjon
 REAL010443	prefLabel	Aktinometri
 REAL010444	prefLabel	Asp
+REAL010445	prefLabel	Marine akvarium
 REAL010448	prefLabel	Komplekse medium
 REAL010449	altLabel	Digital-tv
 REAL010449	altLabel	Mhp
@@ -6843,6 +7115,7 @@ REAL010533	prefLabel	Adressering
 REAL010534	prefLabel	Apotekhistorie
 REAL010535	prefLabel	Codes
 REAL010536	prefLabel	Integrerte datasystem
+REAL010537	prefLabel	Magnethalar
 REAL010541	prefLabel	Litteraturgjenfinning
 REAL010543	prefLabel	Lakselus
 REAL010544	prefLabel	Biologisk styrkebestemming
@@ -6883,6 +7156,8 @@ REAL010591	prefLabel	Grenseverdiproblem
 REAL010593	prefLabel	Ganglag
 REAL010594	prefLabel	Arkivkunnskap
 REAL010595	prefLabel	Industridesign
+REAL010597	altLabel	Magnetiske hol
+REAL010597	prefLabel	Magnetiske hòl
 REAL010601	altLabel	Lada partiklar
 REAL010601	prefLabel	Ladde partiklar
 REAL010604	prefLabel	Ikkje-kommutative ringar
@@ -6898,11 +7173,13 @@ REAL010617	altLabel	Klyngjemodellar
 REAL010617	prefLabel	Klyngemodellar
 REAL010619	prefLabel	Abstrakt algebra
 REAL010620	prefLabel	Glykokjemi
+REAL010621	prefLabel	Marin leire
 REAL010622	altLabel	Kjønnssjukdommar
 REAL010622	altLabel	Lakseanemi
 REAL010622	prefLabel	Laksesjukdomar
 REAL010624	prefLabel	Kosmiske strålar
 REAL010627	prefLabel	Koparsambindingar
+REAL010628	prefLabel	Marine algar
 REAL010629	prefLabel	Kompleks approksimasjon
 REAL010631	altLabel	Ljodbylgjer
 REAL010631	altLabel	Ljodbølger
@@ -7086,6 +7363,7 @@ REAL010888	prefLabel	Karplanter
 REAL010890	prefLabel	Elektrofysikk
 REAL010892	prefLabel	Konveksitet
 REAL010893	prefLabel	Fabeldyr
+REAL010894	prefLabel	Magmatisme
 REAL010901	prefLabel	Kvinnesak
 REAL010902	altLabel	Hydrografiske undersøkingar
 REAL010902	prefLabel	Hydrografi
@@ -7130,6 +7408,7 @@ REAL010963	prefLabel	Brunndata
 REAL010964	prefLabel	Kunnskapsadministrasjon
 REAL010965	prefLabel	Laboratorieinnreiingar
 REAL010968	prefLabel	Gneis
+REAL010969	prefLabel	Magmatisk petrologi
 REAL010972	prefLabel	Kringsetjingsteknikk
 REAL010973	prefLabel	Levra
 REAL010975	prefLabel	Kulturpolitikk
@@ -7173,10 +7452,15 @@ REAL011043	prefLabel	Flint
 REAL011045	prefLabel	Geography markup language
 REAL011048	prefLabel	Fløyting
 REAL011049	prefLabel	Kondensert materie
+REAL011050	altLabel	UV-ljos
+REAL011050	altLabel	UV-lys
+REAL011050	altLabel	Ultrafiolett lys
+REAL011050	prefLabel	Ultrafiolett ljos
 REAL011052	prefLabel	Bøhmtre
 REAL011054	prefLabel	Arbeidsmåling
 REAL011055	altLabel	Kjemisk likevekt
 REAL011055	prefLabel	Kjemisk jamvekt
+REAL011056	prefLabel	Lauvskognonne
 REAL011058	prefLabel	Dialog
 REAL011059	prefLabel	Heimesjukepleie
 REAL011061	prefLabel	Koplingsreaksjonar
@@ -7216,6 +7500,7 @@ REAL011125	altLabel	Elveplantar
 REAL011125	prefLabel	Elveplanter
 REAL011126	prefLabel	Diofantiske approksimasjonar
 REAL011131	prefLabel	Artsbevaring
+REAL011136	prefLabel	Marine installasjonar
 REAL011137	prefLabel	Ilmenitt
 REAL011139	prefLabel	Kalenderhistorie
 REAL011141	altLabel	Bildedatabasar
@@ -7304,6 +7589,7 @@ REAL011287	altLabel	Molekylkrefter
 REAL011287	altLabel	Molekylære krafter
 REAL011287	altLabel	Molekylære krefter
 REAL011290	prefLabel	Bruksretta økonomi
+REAL011293	prefLabel	Manteldynamikk
 REAL011294	prefLabel	Kulturgeografi
 REAL011296	prefLabel	Familieplanlegging
 REAL011298	altLabel	Brake
@@ -7402,6 +7688,7 @@ REAL011427	prefLabel	Lineær regresjon
 REAL011428	prefLabel	Karoo
 REAL011429	altLabel	Graveveps
 REAL011429	prefLabel	Gravekvefs
+REAL011430	prefLabel	Marine strukturar
 REAL011433	altLabel	Akkulturasjon
 REAL011433	altLabel	Kulturmøte
 REAL011433	prefLabel	Kulturkontakt
@@ -7429,12 +7716,14 @@ REAL011467	prefLabel	Lignin
 REAL011468	prefLabel	Genoverføring
 REAL011469	prefLabel	Aeronautikk
 REAL011474	prefLabel	Dronning-problemet
+REAL011475	prefLabel	Magikarar
 REAL011478	prefLabel	Genetiske vektorar
 REAL011479	prefLabel	Eigarstrukturar
 REAL011481	prefLabel	Fosfatsyklus
 REAL011485	prefLabel	Cytokjemi
 REAL011486	prefLabel	Ikkje-verbal kommunikasjon
 REAL011489	prefLabel	Leptin
+REAL011490	prefLabel	Marine karbonat
 REAL011492	prefLabel	Biologiske samfunn
 REAL011496	prefLabel	Anaerobe soppar
 REAL011497	altLabel	Kompleks
@@ -7471,6 +7760,7 @@ REAL011540	prefLabel	Konglomerat
 REAL011541	prefLabel	Byttedyr
 REAL011543	prefLabel	Elektrokjemi
 REAL011544	prefLabel	Biouorganisk kjemi
+REAL011545	prefLabel	Makroøkologi
 REAL011546	prefLabel	Kystfauna
 REAL011550	altLabel	Bildesekvensar
 REAL011550	prefLabel	Biletsekvensar
@@ -7558,6 +7848,7 @@ REAL011686	prefLabel	Breerosjon
 REAL011688	prefLabel	Geometrisk optikk
 REAL011689	prefLabel	C-stjerne
 REAL011690	prefLabel	Homeomorfi
+REAL011692	prefLabel	Lauvskog
 REAL011693	prefLabel	Ferskvassalgar
 REAL011694	prefLabel	Bokstavar
 REAL011695	prefLabel	Leopardar
@@ -7581,6 +7872,7 @@ REAL011724	prefLabel	Inversjon
 REAL011727	prefLabel	Helseføretak
 REAL011728	prefLabel	Chemical abstracts
 REAL011730	prefLabel	Humangeografi
+REAL011731	prefLabel	Magnetisk avkjøling
 REAL011732	prefLabel	Kommunal kartlegging
 REAL011733	altLabel	Coccolittar
 REAL011733	prefLabel	Kokkolittar
@@ -7650,8 +7942,10 @@ REAL011828	altLabel	Likevektskonstantar
 REAL011828	prefLabel	Jamvektskonstantar
 REAL011829	prefLabel	Karben
 REAL011830	prefLabel	Ekstreme miljø
+REAL011831	prefLabel	Makroøkonomi
 REAL011833	prefLabel	Livmora
 REAL011834	prefLabel	Fargesyn
+REAL011836	prefLabel	Maserar
 REAL011838	prefLabel	Helioseismologi
 REAL011839	prefLabel	Homogen katalyse
 REAL011840	prefLabel	Jordbaserte solteleskop
@@ -7664,6 +7958,7 @@ REAL011848	prefLabel	Intracellulære signal
 REAL011850	prefLabel	Cordieritt
 REAL011851	prefLabel	Besselfunksjonar
 REAL011856	prefLabel	Kompressorar
+REAL011857	prefLabel	Markovmodellar
 REAL011858	prefLabel	Kamskjel
 REAL011861	prefLabel	Kaotisk dynamikk
 REAL011862	altLabel	Grunt vatn
@@ -7728,6 +8023,7 @@ REAL011930	altLabel	Datakunst
 REAL011930	prefLabel	Elektronisk kunst
 REAL011931	prefLabel	Hydroksylsambindingar
 REAL011936	prefLabel	Grunnvatn
+REAL011937	prefLabel	Marin bevaringsbiologi
 REAL011941	prefLabel	Atmosfærisk forsking
 REAL011942	prefLabel	Arktisk medisin
 REAL011943	prefLabel	Dilettantar
@@ -7779,6 +8075,7 @@ REAL012016	prefLabel	Collembola
 REAL012024	prefLabel	Intelligente system
 REAL012026	prefLabel	Islandshestar
 REAL012027	prefLabel	Forskingsinfrastruktur
+REAL012028	prefLabel	Magnettomografi
 REAL012035	altLabel	Lokalmiljøet
 REAL012035	prefLabel	Lokalmiljø
 REAL012039	prefLabel	Gnuplot
@@ -7862,6 +8159,8 @@ REAL012183	altLabel	Kvikksylv
 REAL012183	prefLabel	Kvikksølv
 REAL012184	prefLabel	Krypton
 REAL012185	prefLabel	Litium
+REAL012186	prefLabel	Magnesium
+REAL012187	prefLabel	Mangan
 REAL012191	prefLabel	Bly
 REAL012198	prefLabel	Antimon
 REAL012205	prefLabel	Geoarkeologi
@@ -7912,12 +8211,18 @@ REAL012234	altLabel	Elektroniske bøker
 REAL012234	prefLabel	E-bøker
 REAL012235	prefLabel	Geosfæren
 REAL012236	prefLabel	Kontaminering
+REAL012237	altLabel	Fe3O4
+REAL012237	altLabel	Magnetjarnstein
+REAL012237	altLabel	Magnetjernstein
+REAL012237	prefLabel	Magnetitt
 REAL012242	prefLabel	Astrolabiar
 REAL012244	prefLabel	Kvardagskjemi
 REAL012245	altLabel	Atomdrivne ubåtar
 REAL012245	prefLabel	Atomubåtar
 REAL012246	altLabel	Bovin spongiform encefalopati
 REAL012246	prefLabel	Kugalskap
+REAL012248	altLabel	Marint plankton
+REAL012248	prefLabel	Marine plankton
 REAL012249	prefLabel	Gresk språk
 REAL012252	prefLabel	Fotokjemisk nedbryting
 REAL012254	prefLabel	Jordas bereevne
@@ -8071,6 +8376,10 @@ REAL012409	altLabel	Glasimarine avsettingar
 REAL012409	prefLabel	Glasimarine sediment
 REAL012414	altLabel	Fjordsediment
 REAL012414	prefLabel	Estuarine sediment
+REAL012415	altLabel	Havbotnsediment
+REAL012415	altLabel	Marine avsetjingar
+REAL012415	altLabel	Marine avsettingar
+REAL012415	prefLabel	Marine sediment
 REAL012416	altLabel	Actinoid
 REAL012416	altLabel	Aktinid
 REAL012416	altLabel	Aktinoid
@@ -8187,6 +8496,7 @@ REAL012549	prefLabel	Åborfiskar
 REAL012550	prefLabel	Krassarar
 REAL012552	prefLabel	Adaptiv optikk
 REAL012553	prefLabel	Aerosolar
+REAL012554	prefLabel	Manat
 REAL012555	prefLabel	Acetylkolin
 REAL012556	prefLabel	Agaricaceae
 REAL012557	altLabel	Aktinobakteriar
@@ -8339,6 +8649,7 @@ REAL012645	altLabel	Meltingssystemet
 REAL012645	prefLabel	Fordøyinga
 REAL012650	altLabel	Karbonfibrar
 REAL012650	prefLabel	Karbonfiber
+REAL012666	prefLabel	Magnetisk navigasjon
 REAL012673	prefLabel	DEB-teori
 REAL012675	altLabel	A mathematical programming language
 REAL012675	altLabel	A modeling language for mathematical programming
@@ -8454,6 +8765,9 @@ REAL012746	altLabel	Blautvengjer
 REAL012746	prefLabel	Blautvenger
 REAL012747	prefLabel	Boklus
 REAL012748	prefLabel	Boltit
+REAL012749	altLabel	Aurora borealis
+REAL012749	altLabel	Nordlys
+REAL012749	prefLabel	Nordljos
 REAL012750	altLabel	Bromerte flammehemjarar
 REAL012750	prefLabel	Bromerte flammehemmarar
 REAL012753	altLabel	Oppførsel
@@ -8548,6 +8862,14 @@ REAL012832	prefLabel	Blæretang
 REAL012833	altLabel	Idehistorie
 REAL012833	prefLabel	Idéhistorie
 REAL012834	prefLabel	Ikkje-euklidsk geometri
+REAL012835	altLabel	Laukplantar
+REAL012835	altLabel	Laukvekstar
+REAL012835	altLabel	Laukvokstrar
+REAL012835	altLabel	Løkplantar
+REAL012835	altLabel	Løkplanter
+REAL012835	altLabel	Løkvekstar
+REAL012835	altLabel	Løkvokstrar
+REAL012835	prefLabel	Laukplanter
 REAL012836	altLabel	Identifikasjon
 REAL012836	prefLabel	Identifisering
 REAL012837	prefLabel	Ikkje-kommutativ analyse
@@ -8614,6 +8936,8 @@ REAL012901	prefLabel	Bibliotekvitskap
 REAL012902	prefLabel	Biller
 REAL012903	prefLabel	Borebiller
 REAL012904	prefLabel	Gjødselbiller
+REAL012905	altLabel	Løpebiller
+REAL012905	prefLabel	Laupebiller
 REAL012907	altLabel	Kortvengar
 REAL012907	altLabel	Kortvengjer
 REAL012907	altLabel	Rovbiller
@@ -8633,6 +8957,8 @@ REAL012920	altLabel	Polarbjørn
 REAL012920	prefLabel	Isbjørn
 REAL012921	altLabel	Bjørnar
 REAL012921	prefLabel	Bjørnefamilien
+REAL012922	altLabel	Blad
+REAL012922	prefLabel	Lauv
 REAL012923	altLabel	Attimaur
 REAL012923	prefLabel	Bladskjerarmaur
 REAL012924	prefLabel	Bladteger
@@ -8789,6 +9115,20 @@ REAL013052	prefLabel	Ljosemisjonar
 REAL013053	prefLabel	Læringsmiljø
 REAL013054	altLabel	Læringsteknologi
 REAL013054	prefLabel	Læringsteknologiar
+REAL013055	prefLabel	Læringsteoriar
+REAL013056	altLabel	Løysingsmiddel
+REAL013056	prefLabel	Løysemiddel
+REAL013058	altLabel	Magnetosfæren
+REAL013058	prefLabel	Magnetosfærar
+REAL013059	prefLabel	Makrellar
+REAL013060	prefLabel	Makroanalysar
+REAL013061	prefLabel	Marikåper
+REAL013062	altLabel	Havbiologi
+REAL013062	altLabel	Havmiljø
+REAL013062	altLabel	Marin biologi
+REAL013062	prefLabel	Marinbiologi
+REAL013063	altLabel	Marin zoologi
+REAL013063	prefLabel	Marinzoologi
 REAL013074	prefLabel	Kompleks fleirvariabelanalyse
 REAL013076	prefLabel	Kombinatorisk sannsynsrekning
 REAL013077	prefLabel	Geometrisk sannsynsrekning
@@ -8796,10 +9136,12 @@ REAL013078	altLabel	Fordelingar
 REAL013078	prefLabel	Distribusjonar
 REAL013079	prefLabel	Karakteristiske funksjonar
 REAL013080	prefLabel	Grenseteorem
+REAL013083	prefLabel	Markovprosessar
 REAL013084	prefLabel	Huntprosessar
 REAL013085	prefLabel	Diffusjonsprosessar
 REAL013086	altLabel	Brownske bevegelsar
 REAL013086	prefLabel	Brownske rørsler
+REAL013088	prefLabel	Markovkjeder
 REAL013090	prefLabel	Forgreiningsprosessar
 REAL013091	prefLabel	Galton-watson
 REAL013092	altLabel	Fødsel-og-død-prosessar
@@ -8919,6 +9261,7 @@ REAL013266	prefLabel	Forskarar
 REAL013268	prefLabel	Klimaforsking
 REAL013271	prefLabel	Aluminiumframstilling
 REAL013272	prefLabel	Elektrolytisk metallframstilling
+REAL013273	prefLabel	Magnesiumframstilling
 REAL013277	altLabel	Arktiske tundraar
 REAL013277	prefLabel	Arktiske tundraer
 REAL013289	altLabel	Colobusaper
@@ -8993,6 +9336,7 @@ REAL013335	prefLabel	Avgjerdsteori
 REAL013337	altLabel	Ikkje-parametrisk statistikk
 REAL013337	prefLabel	Ikkje-parametriske metodar
 REAL013338	prefLabel	Biometri
+REAL013339	prefLabel	Magnetohydrodynamikk
 REAL013340	altLabel	C
 REAL013340	altLabel	C-språk
 REAL013340	altLabel	Turbo c
@@ -9109,6 +9453,7 @@ REAL013441	prefLabel	Kvanteteori
 REAL013443	prefLabel	Kvinner
 REAL013445	prefLabel	Blåskjeloppdrett
 REAL013446	prefLabel	Finsk språk
+REAL013449	prefLabel	Mangeføtingar
 REAL013452	altLabel	Symfylar
 REAL013452	prefLabel	Dvergføtingar
 REAL013453	prefLabel	Litteratur
@@ -9123,6 +9468,8 @@ REAL013464	altLabel	Kolibakteriar
 REAL013464	prefLabel	Escherichia coli
 REAL013465	prefLabel	Bioelektronikk
 REAL013466	prefLabel	Ferskvassforureining
+REAL013468	altLabel	Havforureining
+REAL013468	prefLabel	Marin forureining
 REAL013470	altLabel	Manteldyr
 REAL013470	altLabel	Tunikatar
 REAL013470	altLabel	Urochordata
@@ -9171,6 +9518,9 @@ REAL013552	prefLabel	K-teori
 REAL013556	prefLabel	Django
 REAL013557	altLabel	Hopparar
 REAL013557	prefLabel	Grashopper
+REAL013558	altLabel	Katydidar
+REAL013558	prefLabel	Lauvgrashopper
+REAL013559	prefLabel	Markgrashopper
 REAL013562	altLabel	Karbonbudsjett
 REAL013562	altLabel	Karbonfangst
 REAL013562	altLabel	Karbonomsetjing
@@ -9257,6 +9607,10 @@ REAL013615	altLabel	Elementdanning
 REAL013615	altLabel	Elementopphav
 REAL013615	altLabel	Grunnstoffopphav
 REAL013615	prefLabel	Grunnstoffdanning
+REAL013617	altLabel	Magnetiske felt
+REAL013617	prefLabel	Magnetfelt
+REAL013618	altLabel	Magneto-optikk
+REAL013618	prefLabel	Magnetooptikk
 REAL013620	prefLabel	Fjellskred
 REAL013621	altLabel	Jordras
 REAL013621	prefLabel	Jordskred
@@ -9301,6 +9655,13 @@ REAL013652	prefLabel	Bakteriofagar
 REAL013653	altLabel	Skriftsnitt
 REAL013653	altLabel	Skrifttypar
 REAL013653	prefLabel	Fontar
+REAL013654	altLabel	Leopard
+REAL013654	altLabel	Lion
+REAL013654	altLabel	Mac OS X
+REAL013654	altLabel	Macintosh
+REAL013654	altLabel	Mavericks
+REAL013654	altLabel	Snow leopard
+REAL013654	prefLabel	Mac OS
 REAL013655	altLabel	IPhoto
 REAL013655	prefLabel	Fotoredigering
 REAL013656	altLabel	Adobe Illustrator
@@ -9335,6 +9696,7 @@ REAL013675	altLabel	Fleksible trekk
 REAL013675	prefLabel	Fenotypisk plastisitet
 REAL013679	prefLabel	Diofantisk geometri
 REAL013680	prefLabel	Diffusjonslikningar
+REAL013681	prefLabel	Malliavinkalkulus
 REAL013683	prefLabel	Involusjon
 REAL013690	altLabel	Giftalgar
 REAL013690	altLabel	Toksiske algar
@@ -9366,6 +9728,8 @@ REAL013702	altLabel	Kultiverte plantar
 REAL013702	altLabel	Kultiverte planter
 REAL013702	altLabel	Kulturplantar
 REAL013702	prefLabel	Kulturplanter
+REAL013703	altLabel	Levy-prosessar
+REAL013703	prefLabel	Lévy-prosessar
 REAL013704	prefLabel	Haber-Bosch-prosessen
 REAL013707	altLabel	Jordbotn
 REAL013707	altLabel	Jordbotnlære
@@ -9431,6 +9795,7 @@ REAL013769	prefLabel	Evolusjonsteorien
 REAL013770	prefLabel	Doktoravhandlingar
 REAL013771	prefLabel	Evolusjonær genetikk
 REAL013773	prefLabel	Diffraktive optiske element
+REAL013778	prefLabel	Magnetiske filmar
 REAL013780	prefLabel	Histon
 REAL013783	altLabel	Eksperimentell design
 REAL013783	altLabel	Forsøksdesign
@@ -9504,6 +9869,8 @@ REAL013833	prefLabel	Grafén
 REAL013834	prefLabel	Kakao
 REAL013837	altLabel	Jordas rotasjon
 REAL013837	prefLabel	Jordrotasjon
+REAL013838	altLabel	Marine miljø
+REAL013838	prefLabel	Marint miljø
 REAL013839	altLabel	Dødelegheit
 REAL013839	altLabel	Døying
 REAL013839	altLabel	Mortalitet
@@ -9515,6 +9882,8 @@ REAL013849	prefLabel	Fouriertransformert infraraud spektroskopi
 REAL013851	altLabel	Grasmatte
 REAL013851	altLabel	Grasplen
 REAL013851	prefLabel	Grasmark
+REAL013852	altLabel	Marin mykologi
+REAL013852	prefLabel	Marine soppar
 REAL013853	prefLabel	Bioraffineri
 REAL013854	prefLabel	Fresnellinser
 REAL013855	altLabel	Fyrstasjonar
@@ -9609,6 +9978,11 @@ REAL013926	altLabel	Levande fôr
 REAL013926	prefLabel	Levande føde
 REAL013927	altLabel	Eincella dyr
 REAL013927	prefLabel	Eincella organismar
+REAL013928	altLabel	Havøkologi
+REAL013928	altLabel	Marin økologi
+REAL013928	prefLabel	Marinøkologi
+REAL013929	altLabel	Havressursar
+REAL013929	prefLabel	Marine ressursar
 REAL013933	altLabel	Diatomear
 REAL013933	altLabel	Diatoméar
 REAL013933	prefLabel	Kiselalgar
@@ -9850,6 +10224,9 @@ REAL031365	altLabel	Elastiske nettverksmodellar
 REAL031365	prefLabel	Elastiske nettverk
 REAL031366	altLabel	Brønnkomplettering
 REAL031366	prefLabel	Brunnkomplettering
+REAL031368	altLabel	Ljossporing
+REAL031368	altLabel	Lyssporing
+REAL031368	prefLabel	Strålesporing
 REAL031374	prefLabel	Galliumnitrid
 REAL031375	prefLabel	Felteffekttransistorar
 REAL031405	altLabel	Geotopvern
@@ -9896,3 +10273,8 @@ REAL031497	prefLabel	Fleirbestandsforvalting
 REAL031503	altLabel	Fysikk i kvardagen
 REAL031503	prefLabel	Kvardagsfysikk
 REAL031509	prefLabel	Filetkvalitet
+REAL031513	altLabel	Basisstasjonar
+REAL031513	altLabel	Mobilmaster
+REAL031513	prefLabel	Basestasjonar
+REAL031514	altLabel	Atmosfæriske elver
+REAL031514	prefLabel	Atmosfæriske elvar
