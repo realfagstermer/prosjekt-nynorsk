@@ -46,6 +46,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c000023> skos:prefLabel "Marxisme"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000024> skos:prefLabel "Polsk notasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000025> skos:prefLabel "Produkt"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000026> skos:prefLabel "Fluorsambindingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000027> skos:prefLabel "Document style semantics and spesification language"@nn .
@@ -130,6 +134,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000075> skos:prefLabel "Hamner"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000076> skos:prefLabel "Petrokjemisk industri"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000077> skos:prefLabel "Asymptotiske ekspansjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000080> skos:prefLabel "Kantar"@nn .
@@ -145,6 +151,8 @@
 <http://data.ub.uio.no/realfagstermer/c000086> skos:prefLabel "Mikromonitor"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000087> skos:prefLabel "Musvåkar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000088> skos:prefLabel "Programmerarar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000090> skos:prefLabel "Estimat"@nn .
 
@@ -284,6 +292,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000168> skos:prefLabel "Evodevo"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000170> skos:prefLabel "Polarhistorie"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000171> skos:prefLabel "Magnetorientering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000174> skos:altLabel "Fjellturisme"@nn ;
@@ -299,6 +309,8 @@
 <http://data.ub.uio.no/realfagstermer/c000180> skos:prefLabel "Arbeidslause"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000181> skos:prefLabel "Fuzzy nevron"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000182> skos:prefLabel "Polarfauna"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000183> skos:altLabel "Finansmarknadar"@nn ;
     skos:prefLabel "Finansmarknader"@nn .
@@ -357,11 +369,15 @@
 
 <http://data.ub.uio.no/realfagstermer/c000222> skos:prefLabel "Grevlingar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000223> skos:prefLabel "Puls-metodar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000224> skos:prefLabel "Cosinus-transformasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000225> skos:prefLabel "European Astronomical Meeting"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000229> skos:prefLabel "Adaptive teknikkar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000235> skos:prefLabel "Planteproduksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000236> skos:prefLabel "Elektronisk datautveksling"@nn .
 
@@ -442,6 +458,8 @@
 <http://data.ub.uio.no/realfagstermer/c000285> skos:altLabel "Algebraiske jacobi-funksjonar"@nn ;
     skos:prefLabel "Jacobi-funksjonar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000286> skos:prefLabel "Peyote"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000287> skos:prefLabel "Meteoroidar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000288> skos:altLabel "Vasslevande organismar"@nn ;
@@ -464,6 +482,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000296> skos:prefLabel "Naturetikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000297> skos:prefLabel "Polymere sambindingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000298> skos:prefLabel "Oligosakkarid"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000301> skos:prefLabel "Fastleik"@nn .
@@ -471,9 +491,13 @@
 <http://data.ub.uio.no/realfagstermer/c000303> skos:altLabel "Morsomsorg"@nn ;
     skos:prefLabel "Morsomsut"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000304> skos:prefLabel "Polymorfisme"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000306> skos:prefLabel "Humanøkologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000311> skos:prefLabel "Akvatiske økosystem"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000312> skos:prefLabel "Portabilitet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000315> skos:prefLabel "Kjemiske stoff"@nn .
 
@@ -553,6 +577,8 @@
 <http://data.ub.uio.no/realfagstermer/c000359> skos:altLabel "Imitasjon"@nn ;
     skos:prefLabel "Kamuflasje"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000360> skos:prefLabel "Programdokumentasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000361> skos:prefLabel "Distribuerte objekt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000362> skos:prefLabel "Miljøpolitikk"@nn .
@@ -562,6 +588,8 @@
 <http://data.ub.uio.no/realfagstermer/c000366> skos:prefLabel "Observasjonsteknikkar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000367> skos:prefLabel "Dagblomfamilien"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000369> skos:prefLabel "Plantesamfunn"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000371> skos:prefLabel "Energinivå"@nn .
 
@@ -594,6 +622,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c000389> skos:prefLabel "Levedyktige bestandar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000390> skos:altLabel "Audiofysikk"@nn ;
+    skos:prefLabel "Psykoakustikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000391> skos:prefLabel "Luftalgar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000392> skos:prefLabel "Liposom"@nn .
@@ -617,6 +648,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c000408> skos:altLabel "Feynman-integral"@nn ;
     skos:prefLabel "Feynmanintegral"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000409> skos:altLabel "Pretty Good Privacy"@nn ;
+    skos:prefLabel "PGP"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000413> skos:prefLabel "Atomteori"@nn .
 
@@ -646,6 +680,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c000430> skos:prefLabel "Multivariat statistikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000434> skos:altLabel "Personleg databehandling"@nn ;
+    skos:prefLabel "Personleg datahandsaming"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000436> skos:altLabel "Eigenbevegelse"@nn ;
     skos:prefLabel "Eigenrørsle"@nn .
 
@@ -666,9 +703,13 @@
 <http://data.ub.uio.no/realfagstermer/c000443> skos:altLabel "Internasjonalt naturvern"@nn ;
     skos:prefLabel "Internasjonalt miljø"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000446> skos:prefLabel "Permutasjonar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000448> skos:prefLabel "Aksjonsforsking"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000450> skos:prefLabel "Bergartsbestemming"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000451> skos:prefLabel "Planetarium"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000452> skos:altLabel "Helsearbeidarar"@nn ;
     skos:prefLabel "Helsepersonell"@nn .
@@ -709,6 +750,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000476> skos:prefLabel "Formasjonar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000477> skos:prefLabel "Programvare"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000478> skos:altLabel "Knollvokstrar"@nn ;
     skos:prefLabel "Knollvekstar"@nn .
 
@@ -720,6 +763,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000482> skos:altLabel "Einfrøblada plantar"@nn ;
     skos:prefLabel "Einfrøblada planter"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000484> skos:prefLabel "Petroleumsproduksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000485> skos:prefLabel "Barskog"@nn .
 
@@ -747,6 +792,8 @@
 <http://data.ub.uio.no/realfagstermer/c000501> skos:prefLabel "Myrområde"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000502> skos:prefLabel "Fjelløver"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000503> skos:prefLabel "Plasmamodifisering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000504> skos:prefLabel "Kometar"@nn .
 
@@ -807,6 +854,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000539> skos:prefLabel "Habitat"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000540> skos:prefLabel "Punktprosessar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000543> skos:prefLabel "Hydrokarbonfeller"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000544> skos:altLabel "Flimmermakkar"@nn,
@@ -840,6 +889,10 @@
         "Mpi"@nn ;
     skos:prefLabel "Parallellprogrammering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000558> skos:prefLabel "Personvern"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000560> skos:prefLabel "Probar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000561> skos:prefLabel "Forfattarar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000562> skos:prefLabel "Insekt"@nn .
@@ -867,6 +920,8 @@
 <http://data.ub.uio.no/realfagstermer/c000576> skos:prefLabel "Markovalgoritmar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000577> skos:prefLabel "Beiteskadar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000578> skos:prefLabel "Polytiofen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000580> skos:prefLabel "Farmasøytisk glykobiologi"@nn .
 
@@ -924,6 +979,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c000618> skos:prefLabel "Enzyminhibitorar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000619> skos:altLabel "Programvareleverandørar"@nn ;
+    skos:prefLabel "Programvareindustri"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000621> skos:prefLabel "Antarktisk geofysikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000622> skos:prefLabel "Basar"@nn .
@@ -956,6 +1014,8 @@
 <http://data.ub.uio.no/realfagstermer/c000642> skos:prefLabel "Grønlandskval"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000644> skos:prefLabel "Aktive område"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000645> skos:prefLabel "Produksjonsteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000646> skos:prefLabel "Kunstige organ"@nn .
 
@@ -1072,7 +1132,12 @@
 
 <http://data.ub.uio.no/realfagstermer/c000714> skos:prefLabel "Mallar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000715> skos:altLabel "Prolegemiddel"@nn ;
+    skos:prefLabel "Prolækjemiddel"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000716> skos:prefLabel "Botanisk historie"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000717> skos:prefLabel "Perturbasjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000718> skos:prefLabel "Betinging"@nn .
 
@@ -1093,6 +1158,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000728> skos:altLabel "Hastigheiter"@nn ;
     skos:prefLabel "Snøggleikar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000729> skos:prefLabel "Planlegging"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000730> skos:altLabel "Bayesisk slutningsteori"@nn ;
     skos:prefLabel "Bayesiansk slutningsteori"@nn .
@@ -1148,6 +1215,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000758> skos:prefLabel "Borkbilleferomon"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000759> skos:prefLabel "Programoptimalisering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000760> skos:prefLabel "Omprogrammering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000761> skos:altLabel "Havområde"@nn ;
@@ -1177,6 +1246,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000776> skos:prefLabel "Aritmetiske krinsar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000777> skos:prefLabel "Predikatkalkyle"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000778> skos:prefLabel "Erosjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000779> skos:prefLabel "Destruksjon"@nn .
@@ -1188,6 +1259,9 @@
 <http://data.ub.uio.no/realfagstermer/c000784> skos:prefLabel "Leverceller"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000786> skos:prefLabel "Akklimatisering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000787> skos:altLabel "Piggfinnefisk"@nn ;
+    skos:prefLabel "Piggfinnefiskar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000788> skos:prefLabel "Elastomerar"@nn .
 
@@ -1221,6 +1295,8 @@
 <http://data.ub.uio.no/realfagstermer/c000810> skos:prefLabel "Grenselagsteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000811> skos:prefLabel "Blyisotopar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000812> skos:prefLabel "Proton"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000813> skos:prefLabel "Kveite"@nn .
 
@@ -1297,7 +1373,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c000864> skos:prefLabel "Komplettering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000865> skos:prefLabel "Prosjektleiarar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000868> skos:prefLabel "Alveld"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000869> skos:prefLabel "Pingvinar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000870> skos:prefLabel "Flugesnapparar"@nn .
 
@@ -1361,12 +1441,16 @@
 <http://data.ub.uio.no/realfagstermer/c000915> skos:altLabel "Miljøundervising"@nn ;
     skos:prefLabel "Miljøundervisning"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c000917> skos:prefLabel "Plastteknologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c000918> skos:altLabel "Dekorasjonsplantar"@nn ;
     skos:prefLabel "Dekorasjonsplanter"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000919> skos:prefLabel "Feltornitologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000920> skos:prefLabel "Asteroseismologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000924> skos:prefLabel "Planisfærar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000925> skos:prefLabel "Bruksretta vitskap"@nn .
 
@@ -1433,6 +1517,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c000966> skos:altLabel "Naturforhold"@nn ;
     skos:prefLabel "Naturtilhøve"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c000968> skos:prefLabel "Prekvartære istider"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c000970> skos:prefLabel "Kloster"@nn .
 
@@ -1530,6 +1616,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001025> skos:prefLabel "Digital teori"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001026> skos:prefLabel "Personlege nettverk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001027> skos:altLabel "Marine plantar"@nn ;
     skos:prefLabel "Marine planter"@nn .
 
@@ -1543,6 +1631,8 @@
 <http://data.ub.uio.no/realfagstermer/c001034> skos:prefLabel "Mineraldanning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001035> skos:prefLabel "Databasearkitektur"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001037> skos:prefLabel "Petrografi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001038> skos:prefLabel "Gauge-teoriar"@nn .
 
@@ -1605,9 +1695,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c001069> skos:prefLabel "Fjellmedisin"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001071> skos:prefLabel "Plasmastraumar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001073> skos:prefLabel "Installasjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001075> skos:prefLabel "Djupvassdanning"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001078> skos:prefLabel "Plantehelse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001080> skos:prefLabel "Differensiering"@nn .
 
@@ -1624,6 +1718,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c001087> skos:prefLabel "Kosmoklimatologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001088> skos:altLabel "Plasmabylgjer"@nn,
+        "Plasmabølger"@nn ;
+    skos:prefLabel "Plasmabølgjer"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001089> skos:altLabel "FN"@nn ;
     skos:prefLabel "SN"@nn .
 
@@ -1631,6 +1729,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c001092> skos:altLabel "Omsetning"@nn ;
     skos:prefLabel "Omsetnad"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001094> skos:altLabel "Prionsjukdommar"@nn ;
+    skos:prefLabel "Prionsjukdomar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001095> skos:altLabel "Eldingsforsøk"@nn ;
     skos:prefLabel "Aldringsforsøk"@nn .
@@ -1642,6 +1743,8 @@
     skos:prefLabel "Fjøra"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001098> skos:prefLabel "Hemoglobin"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001099> skos:prefLabel "Periodiske funksjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001101> skos:prefLabel "Fokusering"@nn .
 
@@ -1717,9 +1820,15 @@
 
 <http://data.ub.uio.no/realfagstermer/c001151> skos:prefLabel "Bioaktivitet"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001153> skos:prefLabel "Pigmentceller"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001154> skos:prefLabel "Prosessorar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001156> skos:altLabel "Bylgjevarsling"@nn,
         "Bølgevarsling"@nn ;
     skos:prefLabel "Bølgjevarsling"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001158> skos:prefLabel "Poredannande toksin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001159> skos:prefLabel "Cray"@nn .
 
@@ -1784,6 +1893,8 @@
 <http://data.ub.uio.no/realfagstermer/c001192> skos:altLabel "Kvantefysikk"@nn ;
     skos:prefLabel "Kvantemekanikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001193> skos:prefLabel "Polymere stoff"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001194> skos:prefLabel "Fosfororganiske sambindingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001196> skos:prefLabel "Grunnvassmodellar"@nn .
@@ -1829,6 +1940,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001215> skos:prefLabel "Ml"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001216> skos:prefLabel "Polysakkarid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001217> skos:prefLabel "Kystøkologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001219> skos:prefLabel "Kvann"@nn .
@@ -1847,11 +1960,20 @@
 
 <http://data.ub.uio.no/realfagstermer/c001227> skos:prefLabel "Biogass"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001230> skos:prefLabel "Petrinett"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001231> skos:altLabel "Planteoljer"@nn,
+        "Vegetabilske oljar"@nn,
+        "Vegetabilske oljer"@nn ;
+    skos:prefLabel "Planteoljar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001232> skos:prefLabel "Organolitium"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001233> skos:prefLabel "Celleadhesjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001235> skos:prefLabel "Livskvalitet"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001236> skos:prefLabel "Planteskadar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001237> skos:altLabel "Dronar"@nn ;
     skos:prefLabel "Flygande robotar"@nn .
@@ -1870,6 +1992,8 @@
 <http://data.ub.uio.no/realfagstermer/c001248> skos:prefLabel "Objektorienterte nettverk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001249> skos:prefLabel "Mårdyr"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001250> skos:prefLabel "Pigmentering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001253> skos:prefLabel "Klinisk immunologi"@nn .
 
@@ -1904,6 +2028,8 @@
 <http://data.ub.uio.no/realfagstermer/c001272> skos:prefLabel "Impedans"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001273> skos:prefLabel "Gassionisering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001274> skos:prefLabel "Programvareflytting"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001275> skos:prefLabel "Kolgruver"@nn .
 
@@ -1966,6 +2092,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001311> skos:prefLabel "Museologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001312> skos:prefLabel "Plantekjemi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001313> skos:prefLabel "Dosimetri"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001317> skos:altLabel "Bygningsakustikk"@nn ;
@@ -1994,6 +2122,8 @@
 <http://data.ub.uio.no/realfagstermer/c001334> skos:prefLabel "Carinae"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001335> skos:prefLabel "Nobelstiftinga"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001336> skos:prefLabel "Puls"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001337> skos:prefLabel "Fiskesyn"@nn .
 
@@ -2060,6 +2190,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001372> skos:prefLabel "Broraprosjektet"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001374> skos:prefLabel "Polytopar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001375> skos:prefLabel "Kaninar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001377> skos:prefLabel "Hifiteknikk"@nn .
@@ -2110,6 +2242,8 @@
 <http://data.ub.uio.no/realfagstermer/c001409> skos:prefLabel "Antikvitetar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001411> skos:prefLabel "Augereffekt"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001412> skos:prefLabel "Planetatmosfærar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001413> skos:prefLabel "Optisk partikkelanalyse"@nn .
 
@@ -2164,6 +2298,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001444> skos:altLabel "Orkidear"@nn ;
     skos:prefLabel "Orkidéar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001445> skos:prefLabel "Plastmateriale"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001446> skos:prefLabel "Kreativ skriving"@nn .
 
@@ -2223,6 +2359,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001474> skos:prefLabel "Fiskeri"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001475> skos:prefLabel "Polyfenolar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001476> skos:prefLabel "Flyteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001478> skos:altLabel "Dna-basert databehandling"@nn ;
@@ -2268,10 +2406,14 @@
 
 <http://data.ub.uio.no/realfagstermer/c001505> skos:prefLabel "Control data cyber"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001506> skos:prefLabel "Praktiske hjelpemiddel"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001509> skos:prefLabel "Fiberbuntar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001512> skos:altLabel "Omega-3"@nn ;
     skos:prefLabel "Omega-3-feittsyre"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001514> skos:prefLabel "Postmodernisme"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001517> skos:prefLabel "Forskingsprosjekt"@nn .
 
@@ -2292,6 +2434,8 @@
 <http://data.ub.uio.no/realfagstermer/c001526> skos:prefLabel "Bartre"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001527> skos:prefLabel "Kontaktmetamorfose"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001528> skos:prefLabel "Petroleumsprodukt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001529> skos:prefLabel "Applikasjonssystem"@nn .
 
@@ -2380,6 +2524,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001593> skos:prefLabel "Isocyanat"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001594> skos:prefLabel "Prekursorar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001595> skos:prefLabel "Legeringar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001598> skos:prefLabel "Ikkje-numeriske algoritmar"@nn .
@@ -2403,6 +2549,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001616> skos:prefLabel "Mikrokjemi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001617> skos:prefLabel "Personalpolitikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001618> skos:prefLabel "Gammafunksjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001622> skos:prefLabel "Lågenergielektronikk"@nn .
@@ -2416,6 +2564,9 @@
 <http://data.ub.uio.no/realfagstermer/c001629> skos:prefLabel "Motorikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001631> skos:prefLabel "Bydatanett"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001632> skos:altLabel "Programvareanalyse"@nn ;
+    skos:prefLabel "Programanalyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001634> skos:altLabel "Verknad"@nn ;
     skos:prefLabel "Effekt"@nn .
@@ -2452,6 +2603,8 @@
 <http://data.ub.uio.no/realfagstermer/c001654> skos:prefLabel "Lokalhistorie"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001656> skos:prefLabel "CR-mangfald"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001657> skos:prefLabel "Prosessteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001659> skos:prefLabel "Bioetikk"@nn .
 
@@ -2560,13 +2713,19 @@
 
 <http://data.ub.uio.no/realfagstermer/c001714> skos:prefLabel "Epo"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001715> skos:prefLabel "Polymorfi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001716> skos:prefLabel "Væskekromatografi massespektrometri"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001721> skos:prefLabel "Fysiske mål"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001722> skos:prefLabel "Geosystem"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001723> skos:prefLabel "Plasma"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001725> skos:prefLabel "Metallogenese"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001726> skos:prefLabel "Programvedlikehald"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001727> skos:prefLabel "Ellipsometri"@nn .
 
@@ -2594,6 +2753,8 @@
 <http://data.ub.uio.no/realfagstermer/c001739> skos:altLabel "Kjempefamilien"@nn ;
     skos:prefLabel "Maskeblomfamilien"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001740> skos:prefLabel "Populasjonsøkologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001742> skos:prefLabel "Antropologar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001743> skos:prefLabel "Global system for mobile communication"@nn .
@@ -2601,6 +2762,10 @@
 <http://data.ub.uio.no/realfagstermer/c001746> skos:prefLabel "Konfliktløysing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001747> skos:prefLabel "Firefargeproblemet"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001751> skos:altLabel "Encapsulated postscript"@nn,
+        "Eps"@nn ;
+    skos:prefLabel "Postscript"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001752> skos:prefLabel "Differensmetodar"@nn .
 
@@ -2615,6 +2780,10 @@
 <http://data.ub.uio.no/realfagstermer/c001757> skos:prefLabel "Diffraksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001759> skos:prefLabel "Væskekromatografi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001760> skos:prefLabel "Polymerisasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001761> skos:prefLabel "Predikat"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001762> skos:prefLabel "Oksygenisotopar"@nn .
 
@@ -2686,6 +2855,8 @@
 <http://data.ub.uio.no/realfagstermer/c001797> skos:prefLabel "Kjemiske reaksjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001798> skos:prefLabel "Operasjonsforsterkarar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001799> skos:prefLabel "Plantefamiliar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001800> skos:prefLabel "Eik"@nn .
 
@@ -2779,6 +2950,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c001855> skos:prefLabel "Ikkje-lineære metodar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001858> skos:prefLabel "Plantemorfologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001859> skos:prefLabel "Dynamisk analyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001860> skos:altLabel "Marulker"@nn ;
@@ -2811,6 +2984,8 @@
     skos:prefLabel "Matematikkmaskiner"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001883> skos:prefLabel "Zetapotensial"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001884> skos:prefLabel "Programfeil"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001885> skos:altLabel "Hadamardmatriser"@nn ;
     skos:prefLabel "Hadamardtransformasjonar"@nn .
@@ -2855,10 +3030,14 @@
 
 <http://data.ub.uio.no/realfagstermer/c001909> skos:prefLabel "Oksid"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001910> skos:prefLabel "Presisjonsinstrument"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001911> skos:prefLabel "Menneskelege aspekt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001913> skos:altLabel "Banar"@nn ;
     skos:prefLabel "Baner"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001914> skos:prefLabel "Praktisk fotografering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001915> skos:prefLabel "Dugongar"@nn .
 
@@ -2872,14 +3051,25 @@
 
 <http://data.ub.uio.no/realfagstermer/c001920> skos:prefLabel "HPLC"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001921> skos:altLabel "Programbevis"@nn ;
+    skos:prefLabel "Programprov"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001924> skos:prefLabel "Porøsitet"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001925> skos:altLabel "Nettverkadministrasjon"@nn ;
     skos:prefLabel "Nettverksadministrasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001926> skos:prefLabel "Abyssalsona"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c001927> skos:altLabel "Produktutforming"@nn ;
+    skos:prefLabel "Produktdesign"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c001929> skos:prefLabel "Bentiske foraminiferar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001930> skos:prefLabel "Kløe"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001931> skos:altLabel "Pi-meson"@nn ;
+    skos:prefLabel "Pion"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001933> skos:altLabel "Forretningsdrift"@nn ;
     skos:prefLabel "Handel"@nn .
@@ -2923,6 +3113,8 @@
 <http://data.ub.uio.no/realfagstermer/c001957> skos:prefLabel "Organografi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001959> skos:prefLabel "Geostandardar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c001960> skos:prefLabel "Programforståing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c001961> skos:prefLabel "Koplingar"@nn .
 
@@ -3036,6 +3228,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002023> skos:prefLabel "Biomineralisering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002025> skos:prefLabel "Prøvetaking"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002026> skos:altLabel "Kapitalmarknadar"@nn ;
     skos:prefLabel "Kapitalmarknader"@nn .
 
@@ -3076,6 +3270,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002052> skos:prefLabel "Naturforsking"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002054> skos:prefLabel "Planktoniske foraminiferar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002056> skos:prefLabel "Kortaste veg"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002057> skos:prefLabel "Havflora"@nn .
@@ -3101,6 +3297,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002071> skos:prefLabel "Forsikringsselskap"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002073> skos:prefLabel "Prion"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002074> skos:prefLabel "Kvantekromodynamikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002075> skos:prefLabel "Olefinering"@nn .
@@ -3109,12 +3307,16 @@
 
 <http://data.ub.uio.no/realfagstermer/c002077> skos:prefLabel "Nevrotransmitterar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002079> skos:prefLabel "Perovskittar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002080> skos:prefLabel "Geoteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002082> skos:prefLabel "Databasekonsistens"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002085> skos:altLabel "Løysningar"@nn ;
     skos:prefLabel "Løysingar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002087> skos:prefLabel "Proteinreinsing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002088> skos:prefLabel "Kristendom"@nn .
 
@@ -3166,11 +3368,15 @@
 
 <http://data.ub.uio.no/realfagstermer/c002113> skos:prefLabel "Cellulære effektar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002114> skos:prefLabel "Produktkontroll"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002115> skos:prefLabel "Esoterisme"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002116> skos:prefLabel "Angst"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002117> skos:prefLabel "Akvatiske pattedyr"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002118> skos:prefLabel "Polarografisk analyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002119> skos:altLabel "Mediekunnskap"@nn ;
     skos:prefLabel "Medievitskap"@nn .
@@ -3199,6 +3405,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002132> skos:prefLabel "Fuzzy mengder"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002133> skos:prefLabel "Programmeringsalgoritmar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002135> skos:prefLabel "Elektrokommunikasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002138> skos:prefLabel "Kvantisert halleffekt"@nn .
@@ -3219,6 +3427,8 @@
 <http://data.ub.uio.no/realfagstermer/c002147> skos:prefLabel "Paleobotanikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002148> skos:prefLabel "Husdyravl"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002149> skos:prefLabel "Plantesosiologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002151> skos:prefLabel "Algebra"@nn .
 
@@ -3306,6 +3516,8 @@
 <http://data.ub.uio.no/realfagstermer/c002204> skos:prefLabel "Dioksin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002207> skos:prefLabel "Marmor"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002208> skos:prefLabel "Programmeringsstilar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002209> skos:prefLabel "Arbeidsteknikk"@nn .
 
@@ -3400,6 +3612,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c002275> skos:prefLabel "Ionisering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002276> skos:altLabel "Programutforming"@nn ;
+    skos:prefLabel "Programdesign"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002277> skos:prefLabel "Kjernereaktorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002279> skos:prefLabel "Cisco-rutarar"@nn .
@@ -3409,6 +3624,8 @@
 <http://data.ub.uio.no/realfagstermer/c002283> skos:prefLabel "Eugenikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002284> skos:prefLabel "Mesosfæren"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002285> skos:prefLabel "Permutasjonsgrupper"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002286> skos:prefLabel "Flyktningar"@nn .
 
@@ -3465,6 +3682,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002333> skos:prefLabel "Matematisk simulering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002335> skos:prefLabel "Polarekspedisjonar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002338> skos:altLabel "Zooplankton"@nn ;
     skos:prefLabel "Dyreplankton"@nn .
 
@@ -3477,6 +3696,9 @@
 <http://data.ub.uio.no/realfagstermer/c002345> skos:prefLabel "Cellemorfologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002347> skos:prefLabel "Elektronmikroskopi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002348> skos:altLabel "Personregisterlova"@nn ;
+    skos:prefLabel "Personopplysningslova"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002349> skos:prefLabel "Jehovas vitne"@nn .
 
@@ -3528,9 +3750,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c002379> skos:prefLabel "Flysimulering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002382> skos:prefLabel "Primitive apterygota"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002383> skos:prefLabel "Organosvovel"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002384> skos:prefLabel "Bassengutvikling"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002386> skos:prefLabel "Prokaryotar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002389> skos:prefLabel "Fjelloer"@nn .
 
@@ -3656,6 +3882,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002459> skos:prefLabel "Belegg"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002460> skos:prefLabel "Piplerker"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002461> skos:prefLabel "Kjemiske forsøk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002463> skos:prefLabel "Atomlagsdeponering"@nn .
@@ -3684,6 +3912,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002481> skos:prefLabel "Cytokinin"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002482> skos:prefLabel "Proteinanalyse"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002483> skos:prefLabel "Koherens"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002484> skos:prefLabel "Bokbindarar"@nn .
@@ -3691,6 +3921,9 @@
 <http://data.ub.uio.no/realfagstermer/c002488> skos:prefLabel "Oscillasjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002490> skos:prefLabel "Internasjonal rett"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002493> skos:altLabel "Portable Document Format"@nn ;
+    skos:prefLabel "PDF"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002494> skos:prefLabel "Indeksering"@nn .
 
@@ -3705,6 +3938,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002502> skos:altLabel "Bildekompresjon"@nn ;
     skos:prefLabel "Biletkompresjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002503> skos:prefLabel "Plantebiokjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002506> skos:prefLabel "Elektronpar"@nn .
 
@@ -3765,6 +4000,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002542> skos:prefLabel "Disk operating system"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002543> skos:prefLabel "Plasmaspektroskopi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002544> skos:prefLabel "Lineære regresjonsmodellar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002545> skos:altLabel "Elektronspekter"@nn ;
@@ -3810,6 +4047,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002575> skos:altLabel "Glasialgeologi"@nn ;
     skos:prefLabel "Glasiologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002577> skos:prefLabel "Petrofysikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002580> skos:prefLabel "Antropogeni"@nn .
 
@@ -3924,6 +4163,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002641> skos:prefLabel "Integralgeometri"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002642> skos:prefLabel "Plantevev"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002643> skos:prefLabel "ADHD"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002645> skos:altLabel "Krokodillar"@nn ;
@@ -3981,6 +4222,8 @@
 <http://data.ub.uio.no/realfagstermer/c002672> skos:prefLabel "Josephsoneffekt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002673> skos:prefLabel "Halvmetall"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002674> skos:prefLabel "Prøveinnføring"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002675> skos:prefLabel "Kausalitet"@nn .
 
@@ -4044,9 +4287,16 @@
         "Bølgjepakkar"@nn ;
     skos:prefLabel "Bølgjepakker"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002715> skos:prefLabel "Primtalsfordelingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002716> skos:prefLabel "Kompakte objekt"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002719> skos:altLabel "Programkrav"@nn ;
+    skos:prefLabel "Programspesifikasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002720> skos:prefLabel "Grails"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002721> skos:prefLabel "Politisk overvaking"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002723> skos:prefLabel "Empati"@nn .
 
@@ -4080,6 +4330,8 @@
 <http://data.ub.uio.no/realfagstermer/c002740> skos:altLabel "Elevsamtaler"@nn ;
     skos:prefLabel "Elevsamtalar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002741> skos:prefLabel "Protokollverifikasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002742> skos:prefLabel "Naturstein"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002744> skos:prefLabel "Dipolmoment"@nn .
@@ -4092,6 +4344,8 @@
 <http://data.ub.uio.no/realfagstermer/c002748> skos:prefLabel "Datarepresentasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002750> skos:prefLabel "Bladmosar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002751> skos:prefLabel "Protoplanetariske tåker"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002752> skos:prefLabel "Leppefiskar"@nn .
 
@@ -4160,6 +4414,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002791> skos:prefLabel "Bindingsavstandar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002792> skos:prefLabel "Polarografi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002794> skos:prefLabel "Arealregulering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002795> skos:altLabel "Evolusjonær databehandling"@nn ;
@@ -4177,6 +4433,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c002806> skos:altLabel "Klonal vokster"@nn ;
     skos:prefLabel "Klonal vekst"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002808> skos:altLabel "Portalutforming"@nn ;
+    skos:prefLabel "Portaldesign"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002810> skos:prefLabel "Primatologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002811> skos:prefLabel "Koking"@nn .
 
@@ -4207,6 +4468,8 @@
 <http://data.ub.uio.no/realfagstermer/c002824> skos:prefLabel "Kompilatorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002825> skos:prefLabel "Konveks analyse"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002826> skos:prefLabel "Polyolefin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002827> skos:altLabel "Cam-plantar"@nn ;
     skos:prefLabel "Cam-planter"@nn .
@@ -4251,6 +4514,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c002848> skos:prefLabel "Newtons metode"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002850> skos:altLabel "Potteplantar"@nn ;
+    skos:prefLabel "Potteplanter"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002851> skos:prefLabel "Orkanar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002853> skos:prefLabel "Lågdimensjonale halvleiarar"@nn .
@@ -4260,6 +4526,9 @@
 <http://data.ub.uio.no/realfagstermer/c002855> skos:prefLabel "Landformer"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002857> skos:prefLabel "Berekningsteori"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002858> skos:altLabel "Dataprogrammering"@nn ;
+    skos:prefLabel "Programmering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002860> skos:altLabel "Landbruksplantar"@nn ;
     skos:prefLabel "Landbruksplanter"@nn .
@@ -4295,6 +4564,9 @@
         "Hydrodynamikken i havet"@nn ;
     skos:prefLabel "Marin hydrodynamikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002881> skos:altLabel "Prosjektstyring"@nn ;
+    skos:prefLabel "Prosjektleiing"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002882> skos:prefLabel "Endelege geometriar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002883> skos:altLabel "Mangelekamproblemet"@nn ;
@@ -4310,6 +4582,8 @@
 <http://data.ub.uio.no/realfagstermer/c002891> skos:prefLabel "Grasrotrørsler"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002892> skos:prefLabel "Makrokosmos"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002894> skos:prefLabel "Penicillin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002895> skos:prefLabel "Markov"@nn .
 
@@ -4372,6 +4646,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002937> skos:prefLabel "Hermetisme"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002939> skos:prefLabel "Plater"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002941> skos:altLabel "Knutar"@nn ;
     skos:prefLabel "Knuteteori"@nn .
 
@@ -4424,6 +4700,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002968> skos:prefLabel "Elefantapoteket"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002969> skos:prefLabel "Primtal"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002973> skos:altLabel "Lysleiande metallpolymerar"@nn ;
     skos:prefLabel "Ljosleiande metallpolymerar"@nn .
 
@@ -4452,6 +4730,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c002987> skos:prefLabel "Høgnivåarkitektur"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c002988> skos:prefLabel "Piperidin"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c002989> skos:prefLabel "Diskontinuerlege grupper"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002990> skos:prefLabel "Ferskvassfiske"@nn .
@@ -4459,6 +4739,8 @@
 <http://data.ub.uio.no/realfagstermer/c002991> skos:prefLabel "Logisk algebra"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002993> skos:prefLabel "Oppgradering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c002994> skos:prefLabel "Politisk filosofi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c002996> skos:altLabel "Flatmakkar"@nn,
         "Flatmarkar"@nn ;
@@ -4471,6 +4753,8 @@
 <http://data.ub.uio.no/realfagstermer/c003002> skos:prefLabel "Logiske metodar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003004> skos:prefLabel "Atomabsorpsjonsspektrometri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003005> skos:prefLabel "Plane figurar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003007> skos:prefLabel "Kunststoff"@nn .
 
@@ -4494,7 +4778,11 @@
 <http://data.ub.uio.no/realfagstermer/c003018> skos:altLabel "Kapitalavkastning"@nn ;
     skos:prefLabel "Kapitalavkasting"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003019> skos:prefLabel "Personregister"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003021> skos:prefLabel "Fermiflater"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003022> skos:prefLabel "Polymerisat"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003024> skos:prefLabel "Arbeidskraft"@nn .
 
@@ -4544,7 +4832,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c003052> skos:prefLabel "Forhandlingar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003054> skos:prefLabel "Polymere immunoglobulin"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003056> skos:prefLabel "Internettressursar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003060> skos:prefLabel "Pelagiske reker"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003062> skos:prefLabel "Metagalaksemodellen"@nn .
 
@@ -4559,6 +4851,9 @@
 <http://data.ub.uio.no/realfagstermer/c003067> skos:prefLabel "Fysikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003068> skos:prefLabel "Borat"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003070> skos:altLabel "Programvareinstallering"@nn ;
+    skos:prefLabel "Programvaredistribusjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003071> skos:prefLabel "Gipsførekomstar"@nn .
 
@@ -4633,6 +4928,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003119> skos:prefLabel "Materialkutting"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003120> skos:prefLabel "Prøvesprengingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003121> skos:prefLabel "Kartdata"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003122> skos:prefLabel "ASCII"@nn .
@@ -4664,11 +4961,15 @@
 
 <http://data.ub.uio.no/realfagstermer/c003139> skos:prefLabel "Lågdimensjonale system"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003140> skos:prefLabel "Plantemedisinar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003141> skos:prefLabel "Kompetanse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003142> skos:prefLabel "Normativ lingvistikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003143> skos:prefLabel "Ekstremofilar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003144> skos:prefLabel "Python"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003146> skos:altLabel "Lymfe"@nn ;
     skos:prefLabel "Lymfesystemet"@nn .
@@ -4693,6 +4994,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003160> skos:prefLabel "Marin mikrobiologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003162> skos:prefLabel "Proteinteknikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003163> skos:altLabel "Grenseflatebylgjer"@nn,
         "Grenseflatebølger"@nn ;
     skos:prefLabel "Grenseflatebølgjer"@nn .
@@ -4700,6 +5003,8 @@
 <http://data.ub.uio.no/realfagstermer/c003164> skos:prefLabel "Parallelle system"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003167> skos:prefLabel "Mantelen"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003168> skos:prefLabel "Punktdefektar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003169> skos:prefLabel "Dammar"@nn .
 
@@ -4813,9 +5118,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c003234> skos:prefLabel "Klinisk arbeid"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003235> skos:prefLabel "Plantestoff"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003236> skos:prefLabel "Havert"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003238> skos:prefLabel "Kosmologiske modellar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003239> skos:prefLabel "Protokollanalyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003240> skos:prefLabel "Aluminiumførekomstar"@nn .
 
@@ -4867,6 +5176,8 @@
 <http://data.ub.uio.no/realfagstermer/c003269> skos:prefLabel "Koronitt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003270> skos:prefLabel "Muskelstyrke"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003271> skos:prefLabel "Proteomikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003272> skos:prefLabel "Likskap"@nn .
 
@@ -4923,6 +5234,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003305> skos:prefLabel "Partikkelstorleik"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003306> skos:prefLabel "Produksjonsøkonomi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003307> skos:prefLabel "Fugleegg"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003310> skos:prefLabel "Fysiske eigenskapar"@nn .
@@ -4954,6 +5267,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003328> skos:prefLabel "Integral"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003329> skos:prefLabel "Pelikanar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003332> skos:prefLabel "Muskelvev"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003333> skos:prefLabel "Molekylærastronomi"@nn .
@@ -4971,6 +5286,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003341> skos:altLabel "AMR"@nn ;
     skos:prefLabel "Adaptive mesh refinement"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003342> skos:prefLabel "Pestkontroll"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003344> skos:prefLabel "Genetisk programmering"@nn .
 
@@ -4990,6 +5307,12 @@
         "Elektromagnetisme"@nn,
         "Klassisk elektrodynamikk"@nn ;
     skos:prefLabel "Klassisk elektromagnetisme"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003352> skos:altLabel "Jordskorpebevegelsar"@nn,
+        "Jordskorperørsler"@nn ;
+    skos:prefLabel "Platetektonikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003353> skos:prefLabel "Protolyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003354> skos:prefLabel "Dei fysiske lovene"@nn .
 
@@ -5103,6 +5426,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003435> skos:prefLabel "Boolsk algebra"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003436> skos:prefLabel "Psykoterapi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003439> skos:prefLabel "Fordeling"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003442> skos:prefLabel "High Performance Computing"@nn .
@@ -5113,6 +5438,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003445> skos:altLabel "Livslengde"@nn ;
     skos:prefLabel "Livslengd"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003447> skos:prefLabel "Planteutbreiing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003448> skos:prefLabel "Krabbefiske"@nn .
 
@@ -5190,6 +5517,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003492> skos:prefLabel "Hydrogenion"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003494> skos:prefLabel "Plangeometri"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003496> skos:altLabel "Aspirin"@nn,
         "Dispril"@nn,
         "Globoid"@nn ;
@@ -5223,6 +5552,8 @@
     skos:prefLabel "Brotsverk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003507> skos:prefLabel "Fotokjemisk stabilitet"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003509> skos:prefLabel "Planetoverflater"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003510> skos:prefLabel "Hyenar"@nn .
 
@@ -5300,6 +5631,9 @@
 <http://data.ub.uio.no/realfagstermer/c003564> skos:altLabel "Kongrodyr"@nn ;
     skos:prefLabel "Edderkoppdyr"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003566> skos:altLabel "Plantesjukdommar"@nn ;
+    skos:prefLabel "Plantesjukdomar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003568> skos:altLabel "Øksling"@nn ;
     skos:prefLabel "Formeiring"@nn .
 
@@ -5332,6 +5666,8 @@
         "Mikrobølgeomnsyntese"@nn ;
     skos:prefLabel "Mikrobølgjeomnsyntese"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003590> skos:prefLabel "Pi-kalkyle"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003592> skos:prefLabel "Akasiar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003593> skos:prefLabel "Algebraisk programmering"@nn .
@@ -5359,6 +5695,8 @@
 <http://data.ub.uio.no/realfagstermer/c003609> skos:prefLabel "Asiatiske teiknsett"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003611> skos:prefLabel "Mellomlagring"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003612> skos:prefLabel "Prosessorkommunikasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003613> skos:prefLabel "Partiell evaluering"@nn .
 
@@ -5390,6 +5728,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003634> skos:prefLabel "Inflasjonsteori"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003635> skos:prefLabel "Perkolasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003636> skos:prefLabel "Kontinuumsmekanikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003637> skos:prefLabel "Astronomiutdanning"@nn .
@@ -5407,6 +5747,8 @@
 <http://data.ub.uio.no/realfagstermer/c003642> skos:prefLabel "Millimeterområdet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003644> skos:prefLabel "Elektronkrystallografi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003646> skos:prefLabel "Planetsystem"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003647> skos:prefLabel "Namnetenarar"@nn .
 
@@ -5468,6 +5810,8 @@
 <http://data.ub.uio.no/realfagstermer/c003687> skos:prefLabel "Elektroteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003688> skos:prefLabel "Palmar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003689> skos:prefLabel "Polyvinylalkohol"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003690> skos:prefLabel "Jorderosjon"@nn .
 
@@ -5609,6 +5953,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c003769> skos:prefLabel "Blodplater"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003771> skos:prefLabel "Plantegeografi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003775> skos:prefLabel "Kvalitative modellar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003776> skos:prefLabel "Fiskeparasittar"@nn .
@@ -5658,7 +6004,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c003803> skos:prefLabel "Astrofotografering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003804> skos:prefLabel "Polare vegetasjonssoner"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003805> skos:prefLabel "Kognisjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003806> skos:prefLabel "Plantevern"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003807> skos:prefLabel "Borsambindingar"@nn .
 
@@ -5690,9 +6040,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c003827> skos:prefLabel "Dataskjermar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003828> skos:prefLabel "Planetteoriar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003829> skos:prefLabel "Digital audio tape"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003830> skos:prefLabel "Centrifugal partition chromatography"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003831> skos:prefLabel "Perikum"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003832> skos:prefLabel "Nikotin"@nn .
 
@@ -5772,6 +6126,10 @@
         "Bølgekraft"@nn ;
     skos:prefLabel "Bølgjekraft"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003879> skos:prefLabel "Program"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003880> skos:prefLabel "Protistar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003882> skos:altLabel "PHP5"@nn ;
     skos:prefLabel "PHP"@nn .
 
@@ -5831,6 +6189,8 @@
 <http://data.ub.uio.no/realfagstermer/c003916> skos:prefLabel "Flytting"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003917> skos:prefLabel "Monopol"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003918> skos:prefLabel "Plasmadiagnostikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003919> skos:prefLabel "Geriatri"@nn .
 
@@ -5925,6 +6285,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c003984> skos:prefLabel "Bindevev"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c003987> skos:prefLabel "Plantefossil"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003988> skos:prefLabel "Programmeringslag"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c003989> skos:prefLabel "Evolusjonær programmering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003990> skos:altLabel "Brukarvennlegheit"@nn ;
@@ -5940,6 +6304,8 @@
 <http://data.ub.uio.no/realfagstermer/c003994> skos:prefLabel "Genusteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003997> skos:prefLabel "Beta"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c003998> skos:prefLabel "Positronemisjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c003999> skos:prefLabel "Eigendelar"@nn .
 
@@ -5979,6 +6345,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c004021> skos:prefLabel "Heroin"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004022> skos:altLabel "Plantevokster"@nn ;
+    skos:prefLabel "Plantevekst"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004023> skos:prefLabel "Geokjemisk prospektering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004026> skos:prefLabel "Parallell ruting"@nn .
@@ -5998,6 +6367,9 @@
 <http://data.ub.uio.no/realfagstermer/c004036> skos:prefLabel "Miljøvernpolitikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004038> skos:prefLabel "Kunstteori"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004039> skos:altLabel "Proteinfolding"@nn ;
+    skos:prefLabel "Proteinfalding"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004040> skos:altLabel "Ostracodar"@nn ;
     skos:prefLabel "Muslingkreps"@nn .
@@ -6060,6 +6432,8 @@
 <http://data.ub.uio.no/realfagstermer/c004076> skos:altLabel "Vevsider"@nn,
         "Websider"@nn ;
     skos:prefLabel "Nettsider"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004079> skos:prefLabel "Persepsjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004080> skos:altLabel "Fargemetodar"@nn,
         "Histologiske teknikkar"@nn ;
@@ -6142,6 +6516,8 @@
 <http://data.ub.uio.no/realfagstermer/c004130> skos:altLabel "Emisjonsspekter"@nn ;
     skos:prefLabel "Emisjonsspektrum"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004131> skos:prefLabel "Pelagiske sekkdyr"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004133> skos:prefLabel "Lectin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004134> skos:prefLabel "Administrativ leiing"@nn .
@@ -6222,6 +6598,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c004177> skos:prefLabel "Isoenzym"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004179> skos:prefLabel "Periferutstyr"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004180> skos:altLabel "Lønssystem"@nn ;
+    skos:prefLabel "Personaldatasystem"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004181> skos:prefLabel "Gravitasjonsfysikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004182> skos:prefLabel "Biostratigrafi"@nn .
@@ -6298,6 +6679,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c004231> skos:prefLabel "Halvmikroskala"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004233> skos:altLabel "Programvaresikkerheit"@nn ;
+    skos:prefLabel "Programvaretryggleik"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004234> skos:prefLabel "Deduktive databasar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004236> skos:prefLabel "Metanderivat"@nn .
@@ -6320,6 +6704,8 @@
 <http://data.ub.uio.no/realfagstermer/c004248> skos:prefLabel "Kombinatorisk gruppeteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004249> skos:prefLabel "Mår"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004250> skos:prefLabel "Populasjonsmodellar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004251> skos:prefLabel "Delfinar"@nn .
 
@@ -6425,6 +6811,12 @@
 
 <http://data.ub.uio.no/realfagstermer/c004315> skos:prefLabel "Harr"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004316> skos:prefLabel "Plot"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004317> skos:prefLabel "Pelagisk vegetasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004318> skos:prefLabel "Pektinase"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004319> skos:prefLabel "Lineære grupper"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004320> skos:altLabel "Miljøforandringar"@nn ;
@@ -6462,6 +6854,8 @@
 <http://data.ub.uio.no/realfagstermer/c004342> skos:altLabel "ASN.1"@nn ;
     skos:prefLabel "Abstract syntax notation one"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004343> skos:prefLabel "Prosesskjemi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004344> skos:prefLabel "Analytisk geometri"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004346> skos:prefLabel "Elnesformasjonen"@nn .
@@ -6471,6 +6865,8 @@
 <http://data.ub.uio.no/realfagstermer/c004348> skos:prefLabel "Malaria"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004349> skos:prefLabel "Fenolar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004350> skos:prefLabel "Planteforsvar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004351> skos:prefLabel "Aktive galaksekjernar"@nn .
 
@@ -6656,6 +7052,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c004461> skos:prefLabel "Organisk petroleumsgeologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004462> skos:prefLabel "Prosesskontroll"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004463> skos:prefLabel "Hyaluronan"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004464> skos:prefLabel "Leiingsinformasjonssystem"@nn .
@@ -6681,6 +7079,8 @@
 <http://data.ub.uio.no/realfagstermer/c004484> skos:prefLabel "Middagsproblemet til filosofane"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004487> skos:prefLabel "Nasjonalbibliotek"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004488> skos:prefLabel "Polarforskarar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004489> skos:prefLabel "Elektroniske pengar"@nn .
 
@@ -6710,6 +7110,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c004513> skos:prefLabel "Monolittiske kolonnar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004516> skos:prefLabel "Plasmadynamikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004518> skos:prefLabel "Overbeiting"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004519> skos:altLabel "Skildrande forskingsmetodar"@nn ;
@@ -6722,6 +7124,8 @@
 <http://data.ub.uio.no/realfagstermer/c004522> skos:prefLabel "Hymenoptera"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004523> skos:prefLabel "Feministiske teoriar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004524> skos:prefLabel "Programkonstruksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004525> skos:prefLabel "Middagsblomfamilien"@nn .
 
@@ -6772,9 +7176,15 @@
 
 <http://data.ub.uio.no/realfagstermer/c004551> skos:prefLabel "Kunsthistorie"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004552> skos:prefLabel "Praktisk kjemi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004553> skos:prefLabel "Kvinnelege matematikarar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004554> skos:prefLabel "Deltasekvensar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004555> skos:altLabel "Pc"@nn,
+        "Personlege datamaskinar"@nn ;
+    skos:prefLabel "Personlege datamaskiner"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004556> skos:altLabel "Krystall"@nn ;
     skos:prefLabel "Krystallar"@nn .
@@ -6783,8 +7193,12 @@
 
 <http://data.ub.uio.no/realfagstermer/c004559> skos:prefLabel "Elektrisitet"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004560> skos:prefLabel "Prydtre"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004561> skos:altLabel "Bildekomposisjon"@nn ;
     skos:prefLabel "Biletkomposisjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004562> skos:prefLabel "Praktisk astronomi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004563> skos:prefLabel "Insulinsensitivitet"@nn .
 
@@ -6808,6 +7222,8 @@
     skos:prefLabel "Insektmiddel"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004576> skos:prefLabel "Antropomorfisme"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004578> skos:prefLabel "Plantelære"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004579> skos:prefLabel "Automatisk regulering"@nn .
 
@@ -6863,6 +7279,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c004612> skos:prefLabel "Georadar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004613> skos:prefLabel "Plantehormon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004614> skos:prefLabel "Lokalflora"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004615> skos:prefLabel "Amøbar"@nn .
@@ -6893,6 +7311,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c004632> skos:prefLabel "Jordsig"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004633> skos:prefLabel "Peroksid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004634> skos:prefLabel "Geografisk utbreiing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004635> skos:prefLabel "Hydrotermale malmførekomstar"@nn .
@@ -6914,6 +7334,8 @@
 <http://data.ub.uio.no/realfagstermer/c004646> skos:prefLabel "Biologiske makromolekyl"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004647> skos:prefLabel "Datamodellar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004648> skos:prefLabel "Polymerisasjonskontroll"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004649> skos:prefLabel "Fleirkulturell kommunikasjon"@nn .
 
@@ -6955,6 +7377,8 @@
 <http://data.ub.uio.no/realfagstermer/c004671> skos:prefLabel "Larveproduksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004672> skos:prefLabel "Grådige algoritmar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004673> skos:prefLabel "Petrogenese"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004674> skos:prefLabel "Fluvial facies"@nn .
 
@@ -7039,6 +7463,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c004725> skos:prefLabel "Livsformer"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004726> skos:prefLabel "Polymere blandingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004729> skos:altLabel "Bygnadar"@nn,
         "Bygningar"@nn ;
     skos:prefLabel "Bygnader"@nn .
@@ -7057,6 +7483,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c004736> skos:altLabel "Nitrogenomsetning"@nn ;
     skos:prefLabel "Nitrogenomsetnad"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004737> skos:prefLabel "Permutasjonstestar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004740> skos:prefLabel "Glaskunst"@nn .
 
@@ -7081,6 +7509,8 @@
 <http://data.ub.uio.no/realfagstermer/c004754> skos:prefLabel "Bioastronomi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004755> skos:prefLabel "Hoer"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004756> skos:prefLabel "Proteinseparasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004757> skos:altLabel "Emisjonslinespekter"@nn,
         "Emisjonslinespektrum"@nn,
@@ -7111,6 +7541,8 @@
 <http://data.ub.uio.no/realfagstermer/c004771> skos:prefLabel "Molekylmekanikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004772> skos:prefLabel "Brevariasjonar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004773> skos:prefLabel "Preparativ syntese"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004774> skos:prefLabel "Grafalgoritmar"@nn .
 
@@ -7218,6 +7650,8 @@
 <http://data.ub.uio.no/realfagstermer/c004845> skos:altLabel "Kolinesterasehemjarar"@nn ;
     skos:prefLabel "Kolinesterasehemmarar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004846> skos:prefLabel "Prosessalgebraer"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004847> skos:prefLabel "Kål"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004848> skos:prefLabel "Mallefiskar"@nn .
@@ -7229,6 +7663,8 @@
     skos:prefLabel "Hubble-teleskopet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004853> skos:prefLabel "Nasespray"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004854> skos:prefLabel "Produksjonsleiing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004855> skos:altLabel "Arktisk forvaltningsbiologi"@nn ;
     skos:prefLabel "Arktisk forvaltingsbiologi"@nn .
@@ -7299,6 +7735,8 @@
 <http://data.ub.uio.no/realfagstermer/c004888> skos:prefLabel "Operatorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004889> skos:prefLabel "Gynekologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004890> skos:prefLabel "Petrokjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004891> skos:altLabel "Mnas"@nn ;
     skos:prefLabel "Manganarsenid"@nn .
@@ -7401,6 +7839,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c004959> skos:prefLabel "Nashornfuglar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c004960> skos:prefLabel "Polymere eigenskapar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004962> skos:prefLabel "Populasjonsstruktur"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c004964> skos:prefLabel "Miljørestaurering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004966> skos:altLabel "Holband"@nn ;
@@ -7409,6 +7851,8 @@
 <http://data.ub.uio.no/realfagstermer/c004968> skos:prefLabel "Faunistikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004969> skos:prefLabel "Optiske teleskop"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c004971> skos:prefLabel "Primat"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c004973> skos:prefLabel "Kryssidentifikasjonstabellar"@nn .
 
@@ -7458,6 +7902,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005003> skos:prefLabel "Bomull"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005004> skos:prefLabel "Peptidasar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005005> skos:prefLabel "Fotokjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005007> skos:prefLabel "Kvalar"@nn .
@@ -7468,6 +7914,8 @@
 <http://data.ub.uio.no/realfagstermer/c005009> skos:prefLabel "Overflateanalyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005010> skos:prefLabel "Avbildingar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005012> skos:prefLabel "Plastiske omarbeidingsprosessar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005014> skos:prefLabel "Hyperlipidemi"@nn .
 
@@ -7526,6 +7974,8 @@
     skos:prefLabel "Fotometrisk raudforskyving"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005043> skos:prefLabel "Emisjonsliner"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005044> skos:prefLabel "Produktutvikling"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005046> skos:altLabel "Endoparasittar"@nn,
         "Endozoa"@nn ;
@@ -7618,6 +8068,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c005102> skos:prefLabel "Calixaren"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005103> skos:altLabel "Pollenbiologi"@nn ;
+    skos:prefLabel "Pollen"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005105> skos:altLabel "Gorillaar"@nn ;
     skos:prefLabel "Gorillaer"@nn .
 
@@ -7629,6 +8082,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005109> skos:prefLabel "Dokumentdatabasar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005110> skos:prefLabel "Prekvartær geologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005111> skos:prefLabel "Fenologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005112> skos:prefLabel "Fotomikrografi"@nn .
@@ -7638,8 +8093,12 @@
 
 <http://data.ub.uio.no/realfagstermer/c005114> skos:prefLabel "Evershed-effekten"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005115> skos:prefLabel "Praktiske metodar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005116> skos:altLabel "Nattlysfamilien"@nn ;
     skos:prefLabel "Nattljosfamilien"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005118> skos:prefLabel "Predatorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005119> skos:altLabel "Lydsignal"@nn ;
     skos:prefLabel "Ljodsignal"@nn .
@@ -7737,6 +8196,8 @@
 <http://data.ub.uio.no/realfagstermer/c005179> skos:altLabel "Barn"@nn ;
     skos:prefLabel "Born"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005180> skos:prefLabel "Programmeringspsykologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005181> skos:prefLabel "Bork"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005182> skos:prefLabel "Buskar"@nn .
@@ -7790,6 +8251,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005207> skos:prefLabel "Cytokrom"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005211> skos:prefLabel "Predasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005212> skos:altLabel "Datapålitelegheit"@nn,
         "Datapålitelegskap"@nn,
         "Datasikkerheit"@nn ;
@@ -7800,9 +8263,15 @@
 
 <http://data.ub.uio.no/realfagstermer/c005214> skos:prefLabel "Bash"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005215> skos:prefLabel "Polarstraumar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005216> skos:prefLabel "Parallellitet"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005217> skos:prefLabel "Polymere materiale"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005219> skos:prefLabel "Næringsmiddelkjemi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005220> skos:prefLabel "Prosjektadministrasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005223> skos:prefLabel "Flygeleiarar"@nn .
 
@@ -7813,6 +8282,8 @@
 <http://data.ub.uio.no/realfagstermer/c005227> skos:prefLabel "Kohomologiteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005228> skos:prefLabel "Amatørar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005231> skos:prefLabel "Programeffektivitet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005232> skos:prefLabel "Glukoseopptak"@nn .
 
@@ -7838,6 +8309,8 @@
     skos:prefLabel "Datastøtta omsetjing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005251> skos:prefLabel "Diltiazem"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005252> skos:prefLabel "Planteanatomi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005253> skos:prefLabel "Kunstmotiv"@nn .
 
@@ -7924,6 +8397,8 @@
     skos:prefLabel "Analog maskinvare"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005302> skos:prefLabel "Eggekvite"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005303> skos:prefLabel "Perseptron"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005305> skos:prefLabel "Logisk analyse"@nn .
 
@@ -8105,6 +8580,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005408> skos:prefLabel "Kulturarv"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005409> skos:prefLabel "Platinasambindingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005410> skos:prefLabel "Einhyrning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005411> skos:prefLabel "Benzenderivat"@nn .
@@ -8129,6 +8606,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005419> skos:prefLabel "Fargereaksjonar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005420> skos:prefLabel "Purin"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005421> skos:altLabel "High level architecture"@nn ;
     skos:prefLabel "HLA"@nn .
 
@@ -8140,6 +8619,8 @@
 <http://data.ub.uio.no/realfagstermer/c005426> skos:altLabel "Elding"@nn ;
     skos:prefLabel "Aldring"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005427> skos:prefLabel "Protoplastar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005432> skos:prefLabel "Kvalitativ analyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005433> skos:prefLabel "Iphone"@nn .
@@ -8148,13 +8629,19 @@
 
 <http://data.ub.uio.no/realfagstermer/c005435> skos:prefLabel "Asters"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005436> skos:prefLabel "Prosesstyring"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005437> skos:prefLabel "Global økologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005441> skos:prefLabel "Planteutvikling"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005442> skos:prefLabel "Kjemiske prosessar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005443> skos:prefLabel "Ender"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005444> skos:prefLabel "Betongkonstruksjonar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005446> skos:prefLabel "Pelagisk fangst"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005448> skos:prefLabel "Komplikasjonar"@nn .
 
@@ -8265,6 +8752,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005515> skos:prefLabel "Meiose"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005516> skos:prefLabel "Protokollmaskin"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005517> skos:prefLabel "Dødsårsaker"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005518> skos:prefLabel "Borekjernar"@nn .
@@ -8287,6 +8776,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005531> skos:prefLabel "Dermatologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005532> skos:prefLabel "Polymere kolloid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005534> skos:prefLabel "Kinetisk gassteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005536> skos:prefLabel "Dorgefiske"@nn .
@@ -8294,6 +8785,8 @@
 <http://data.ub.uio.no/realfagstermer/c005537> skos:prefLabel "Hår"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005538> skos:prefLabel "Graphical kernel system"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005539> skos:prefLabel "Pelikanfuglar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005540> skos:prefLabel "Lin"@nn .
 
@@ -8339,9 +8832,14 @@
 
 <http://data.ub.uio.no/realfagstermer/c005565> skos:prefLabel "Dopplereffekten"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005566> skos:prefLabel "Petroleum"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005568> skos:prefLabel "Irrigasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005569> skos:prefLabel "Mad (programmeringsspråk)"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005571> skos:altLabel "Private nøklar"@nn ;
+    skos:prefLabel "Private nyklar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005574> skos:prefLabel "Dissosiasjon"@nn .
 
@@ -8445,6 +8943,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005638> skos:prefLabel "Aldersbestemming"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005639> skos:prefLabel "Permeabilitet"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005641> skos:prefLabel "Landskapsarkitektur"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005643> skos:prefLabel "Fleirbruk"@nn .
@@ -8476,6 +8976,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005662> skos:prefLabel "Avstriping"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005664> skos:prefLabel "Populærfysikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005665> skos:prefLabel "Aneuploidi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005666> skos:prefLabel "Hashing"@nn .
@@ -8500,9 +9002,14 @@
 
 <http://data.ub.uio.no/realfagstermer/c005680> skos:prefLabel "Cysteinprotease"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005682> skos:altLabel "Programstruktur"@nn ;
+    skos:prefLabel "Programarkitektur"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005683> skos:prefLabel "Dataoverføring"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005687> skos:prefLabel "Invariantar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005690> skos:prefLabel "Polymerar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005691> skos:prefLabel "Hydrogenperoksid"@nn .
 
@@ -8530,6 +9037,8 @@
     skos:prefLabel "Kjøtmeiser"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005702> skos:prefLabel "Atomkollisjonar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005704> skos:prefLabel "Planetar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005706> skos:prefLabel "European Incoherent SCATter"@nn .
 
@@ -8588,6 +9097,8 @@
 <http://data.ub.uio.no/realfagstermer/c005740> skos:prefLabel "Halvleiarar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005741> skos:prefLabel "Lauvtre"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005743> skos:prefLabel "Primærproduksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005744> skos:prefLabel "Gassteori"@nn .
 
@@ -8666,6 +9177,8 @@
         "Mikrobølgeomnar"@nn ;
     skos:prefLabel "Mikrobølgjeomnar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005795> skos:prefLabel "Projeksjonsteikning"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005797> skos:prefLabel "Konkurransar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005800> skos:prefLabel "Byråkrati"@nn .
@@ -8702,6 +9215,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c005819> skos:altLabel "Kontinentale bergarter"@nn ;
     skos:prefLabel "Kontinentale bergartar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005821> skos:prefLabel "Programvarekostnad"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005822> skos:prefLabel "Forskarrekruttering"@nn .
 
@@ -8778,6 +9293,8 @@
 <http://data.ub.uio.no/realfagstermer/c005865> skos:altLabel "Klinisk legevitskap"@nn ;
     skos:prefLabel "Klinisk lækjevitskap"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005866> skos:prefLabel "Prevalens"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005867> skos:prefLabel "Epifyttar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005868> skos:altLabel "Numerisk databehandling"@nn ;
@@ -8816,6 +9333,8 @@
 <http://data.ub.uio.no/realfagstermer/c005891> skos:prefLabel "Fjørmygg"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005892> skos:prefLabel "P-adiske tal"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005900> skos:prefLabel "Planteøkologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005901> skos:prefLabel "Kvadrat"@nn .
 
@@ -8860,6 +9379,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c005929> skos:prefLabel "Monokotyledonar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005930> skos:altLabel "Planetbevegelsar"@nn ;
+    skos:prefLabel "Planetrørsler"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005931> skos:altLabel "Matproduksjonar"@nn,
         "Matvareproduksjon"@nn ;
     skos:prefLabel "Matproduksjon"@nn .
@@ -8892,7 +9414,11 @@
 <http://data.ub.uio.no/realfagstermer/c005947> skos:altLabel "Faksimilar"@nn ;
     skos:prefLabel "Faksimile"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005949> skos:prefLabel "Plasmapolymerisasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005950> skos:prefLabel "Bibliotekhistorie"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005951> skos:prefLabel "Positron"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005952> skos:altLabel "Cluster"@nn,
         "Klyngjer"@nn ;
@@ -8935,7 +9461,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c005975> skos:prefLabel "Numeriske algoritmar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c005977> skos:prefLabel "Potensialflater"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c005978> skos:prefLabel "Langtidsovervaking"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005980> skos:prefLabel "Polyploidi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005981> skos:altLabel "Forplantningsøkologi"@nn,
         "Økslingsøkologi"@nn ;
@@ -8946,6 +9476,8 @@
 <http://data.ub.uio.no/realfagstermer/c005984> skos:altLabel "Fototerapi"@nn,
         "Lysbehandling"@nn ;
     skos:prefLabel "Ljosbehandling"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c005985> skos:prefLabel "Pilormar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c005986> skos:prefLabel "Kondensat"@nn .
 
@@ -9008,6 +9540,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006019> skos:altLabel "Førstehjelp"@nn ;
     skos:prefLabel "Fyrstehjelp"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006020> skos:prefLabel "Polymerisering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006021> skos:prefLabel "Handlingsval"@nn .
 
@@ -9077,6 +9611,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006058> skos:prefLabel "Helsestatistikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006060> skos:prefLabel "Prospektering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006061> skos:prefLabel "Fjellsikringsteneste"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006062> skos:prefLabel "Industriell biologi"@nn .
@@ -9132,6 +9668,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006096> skos:prefLabel "Mineralførekomstar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006097> skos:prefLabel "Plantebiologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006098> skos:prefLabel "Klinisk onkologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006100> skos:prefLabel "Metalloksid"@nn .
@@ -9174,6 +9712,8 @@
 <http://data.ub.uio.no/realfagstermer/c006121> skos:prefLabel "Messierobjekt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006122> skos:prefLabel "Mikroprosessorar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006124> skos:prefLabel "Proteinstrukturar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006126> skos:prefLabel "Materialanalyse"@nn .
 
@@ -9233,9 +9773,13 @@
 <http://data.ub.uio.no/realfagstermer/c006165> skos:altLabel "Xantofyttar"@nn ;
     skos:prefLabel "Gulgrønalgar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006166> skos:prefLabel "Produksjonsplanlegging"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006168> skos:prefLabel "Masselager"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006169> skos:prefLabel "Optisk spektroskopi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006170> skos:prefLabel "Primitive fiskar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006173> skos:prefLabel "Aminosyrer"@nn .
 
@@ -9360,6 +9904,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c006254> skos:prefLabel "Fysikalsk geografi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006255> skos:altLabel "Prosjektprosessar"@nn ;
+    skos:prefLabel "Prosjektarbeid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006257> skos:prefLabel "Numerisk meteorologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006258> skos:prefLabel "Maskinskriving"@nn .
@@ -9368,6 +9915,9 @@
     skos:prefLabel "Fastjordsfysikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006263> skos:prefLabel "Hard X-Ray Burst Spectrometer (HXRBS)"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006264> skos:altLabel "Farsi"@nn ;
+    skos:prefLabel "Persisk språk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006265> skos:altLabel "Ocaml"@nn ;
     skos:prefLabel "Caml"@nn .
@@ -9402,7 +9952,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c006287> skos:prefLabel "Hageroser"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006290> skos:prefLabel "Polymerfysikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006292> skos:prefLabel "Isotopgeologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006294> skos:prefLabel "Pyrolyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006295> skos:prefLabel "Finansar"@nn .
 
@@ -9414,6 +9968,8 @@
     skos:prefLabel "Kontrollert frisetjing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006301> skos:prefLabel "Nomadar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006302> skos:prefLabel "Plankton"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006304> skos:prefLabel "Maskindelar"@nn .
 
@@ -9467,6 +10023,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006342> skos:prefLabel "Informasjonslagring"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006343> skos:prefLabel "Polare organometall"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006344> skos:prefLabel "Overvintring"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006345> skos:prefLabel "Hyperflater"@nn .
@@ -9517,6 +10075,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006370> skos:prefLabel "Gammastråleastronomi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006371> skos:prefLabel "Planktoniske mikrofossil"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006372> skos:prefLabel "Nakenfrøa plantefossil"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006375> skos:prefLabel "Komponentanalyse"@nn .
@@ -9529,6 +10089,8 @@
     skos:prefLabel "Informasjonsgjenfinning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006382> skos:prefLabel "Kjemiske sensorar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006383> skos:prefLabel "Pomeron"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006384> skos:prefLabel "Ballett"@nn .
 
@@ -9582,6 +10144,8 @@
     skos:prefLabel "Geometriske metodar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006429> skos:prefLabel "Epistase"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006430> skos:prefLabel "Petroleumsførekomstar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006433> skos:prefLabel "Enrico fermi"@nn .
 
@@ -9666,6 +10230,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006489> skos:prefLabel "Nukleosid"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006490> skos:prefLabel "Preservering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006491> skos:prefLabel "Dissosiasjonsenergiar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006492> skos:altLabel "Fedrift"@nn,
@@ -9694,6 +10260,8 @@
 <http://data.ub.uio.no/realfagstermer/c006505> skos:prefLabel "Geologisk kartlegging"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006507> skos:prefLabel "Mikroemulsjonar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006509> skos:prefLabel "Pelagisk fauna"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006510> skos:prefLabel "Fosfatførekomstar"@nn .
 
@@ -9759,6 +10327,8 @@
         "Overflatebølger"@nn ;
     skos:prefLabel "Overflatebølgjer"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006549> skos:prefLabel "Pensjonsforsikring"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006552> skos:altLabel "Bayesiansk læring"@nn,
         "Bayesisk læring"@nn ;
     skos:prefLabel "Bayeslæring"@nn .
@@ -9796,6 +10366,8 @@
 <http://data.ub.uio.no/realfagstermer/c006575> skos:prefLabel "Materie"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006576> skos:prefLabel "Klimatologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006577> skos:prefLabel "Populærkjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006578> skos:prefLabel "Fedme"@nn .
 
@@ -9879,6 +10451,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006632> skos:prefLabel "Algol"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006633> skos:prefLabel "Politisk innverknad"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006635> skos:altLabel "Mud object oriented"@nn ;
     skos:prefLabel "MOO"@nn .
 
@@ -9925,6 +10499,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006661> skos:prefLabel "Atomstrukturar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006662> skos:prefLabel "Plasmateoriar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006663> skos:prefLabel "Elektrokjemisk analyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006666> skos:prefLabel "Denitrifikasjon"@nn .
@@ -9944,6 +10520,9 @@
     skos:prefLabel "Gjenfinningssystem"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006674> skos:prefLabel "Navigasjonsradarar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006675> skos:altLabel "Prototyping"@nn ;
+    skos:prefLabel "Grunnforming"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006677> skos:prefLabel "Biogeografi"@nn .
 
@@ -9970,6 +10549,8 @@
     skos:prefLabel "Havplanter"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006693> skos:prefLabel "Marine makroalgar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006694> skos:prefLabel "Petroleumsgeologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006695> skos:prefLabel "Lemen"@nn .
 
@@ -10056,6 +10637,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006746> skos:prefLabel "Funksjonalintegral"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006747> skos:prefLabel "Presisjonsmålingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006750> skos:prefLabel "Kinesisk teiknsett"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006751> skos:prefLabel "Katalysatorbilar"@nn .
@@ -10119,6 +10702,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006785> skos:prefLabel "Densities"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006787> skos:prefLabel "Plastisitetsteori"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006788> skos:prefLabel "Halekreps"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006789> skos:prefLabel "Elektrisk stimulering"@nn .
@@ -10138,6 +10723,8 @@
 <http://data.ub.uio.no/realfagstermer/c006798> skos:prefLabel "Kombinatoriske krinsar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006799> skos:prefLabel "Mangrovar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006800> skos:prefLabel "Polymerkjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006801> skos:prefLabel "Hjerneskadar"@nn .
 
@@ -10174,6 +10761,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006827> skos:prefLabel "Konveksjon"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006828> skos:prefLabel "Planteforedling"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006832> skos:prefLabel "Interplanetarisk rom"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006833> skos:prefLabel "Partielle grenseverdiproblem"@nn .
@@ -10203,6 +10792,8 @@
     skos:prefLabel "Fleirbørstemakkar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006840> skos:prefLabel "Miljøleiing"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006843> skos:prefLabel "Prosessorarkitektur"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006844> skos:prefLabel "Communication with Extraterrestrial Intelligence"@nn .
 
@@ -10254,6 +10845,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006872> skos:prefLabel "Kapitalinvesteringar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006874> skos:prefLabel "Periodiske koeffisientar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006876> skos:prefLabel "Onkogen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006877> skos:prefLabel "Mineralnæring"@nn .
@@ -10265,6 +10858,8 @@
 <http://data.ub.uio.no/realfagstermer/c006882> skos:prefLabel "Geometriske eigenskapar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006884> skos:prefLabel "Fluid"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006885> skos:prefLabel "Preferansar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006886> skos:prefLabel "Erythrocytar"@nn .
 
@@ -10379,6 +10974,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006959> skos:prefLabel "Marint dyreliv"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006960> skos:prefLabel "Programmeringsuttrykk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006962> skos:altLabel "Andletsgjenkjenning"@nn,
         "Ansiktattkjenning"@nn,
         "Ansiktgjenkjenning"@nn,
@@ -10397,6 +10994,8 @@
     skos:prefLabel "Omsut"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006969> skos:prefLabel "Lorentzgrupper"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c006970> skos:prefLabel "Planteprotein"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006971> skos:prefLabel "Feittsyrer"@nn .
 
@@ -10428,6 +11027,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c006991> skos:prefLabel "Havrett"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c006993> skos:prefLabel "Proteinforsking"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c006994> skos:prefLabel "Hypergrupper"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c006996> skos:prefLabel "Elektrokardiogram"@nn .
@@ -10454,10 +11055,14 @@
 
 <http://data.ub.uio.no/realfagstermer/c007010> skos:prefLabel "Oksygensambindingar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007011> skos:prefLabel "Plantesugarar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007013> skos:prefLabel "Cellekinetikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007014> skos:altLabel "Medusermaneter"@nn ;
     skos:prefLabel "Meduser"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007015> skos:prefLabel "Populasjonsvekst"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007016> skos:prefLabel "Arktisk vegetasjon"@nn .
 
@@ -10480,6 +11085,8 @@
 <http://data.ub.uio.no/realfagstermer/c007027> skos:prefLabel "Diamantfilmar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007029> skos:prefLabel "Indianarar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007030> skos:prefLabel "Proteinsyntese"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007031> skos:prefLabel "Dyresamfunn"@nn .
 
@@ -10513,7 +11120,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c007046> skos:prefLabel "Mikroøkonomisk teori"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007048> skos:prefLabel "Positivisme"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007051> skos:prefLabel "Ferskvassniglar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007052> skos:prefLabel "Produktivitet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007053> skos:prefLabel "Kunstige rev"@nn .
 
@@ -10522,6 +11133,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007056> skos:altLabel "Olympiadar"@nn ;
     skos:prefLabel "Olympiske leikar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007058> skos:prefLabel "Pulver"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007059> skos:prefLabel "Alunskifer"@nn .
 
@@ -10540,6 +11153,8 @@
 <http://data.ub.uio.no/realfagstermer/c007068> skos:altLabel "Aukeglas"@nn,
         "Luper"@nn ;
     skos:prefLabel "Forstørringsglas"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007071> skos:prefLabel "Plast"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007072> skos:prefLabel "Molekylær evolusjon"@nn .
 
@@ -10614,6 +11229,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007121> skos:prefLabel "Kablar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007122> skos:prefLabel "Prevensjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007123> skos:prefLabel "Humlefluger"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007124> skos:prefLabel "Landheving"@nn .
@@ -10631,6 +11248,8 @@
     skos:prefLabel "Laksebestandar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007130> skos:prefLabel "Elektrokjemiske reaksjonar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007132> skos:prefLabel "Politiet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007133> skos:prefLabel "Marine skadedyr"@nn .
 
@@ -10718,6 +11337,10 @@
         "Electronic data interchange"@nn ;
     skos:prefLabel "Elektronisk datautveksling"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007177> skos:altLabel "Jboss"@nn,
+        "Programeditorar"@nn ;
+    skos:prefLabel "Programmeringsverktøy"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007178> skos:prefLabel "Hjernesvulstar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007179> skos:prefLabel "Frykt"@nn .
@@ -10744,16 +11367,25 @@
 
 <http://data.ub.uio.no/realfagstermer/c007193> skos:prefLabel "Funksjonelle grupper"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007194> skos:prefLabel "Preparering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007195> skos:prefLabel "Buling"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007196> skos:prefLabel "Polarisasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007198> skos:altLabel "Gjentatte målingar"@nn ;
     skos:prefLabel "Gjentekne målingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007199> skos:prefLabel "Elektriske koplingar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007201> skos:prefLabel "Plz/sys"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007202> skos:prefLabel "Parallellprosessering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007205> skos:prefLabel "Biom"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007206> skos:altLabel "Opossum"@nn ;
+    skos:prefLabel "Pungrotte"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007207> skos:prefLabel "Geokjemisk modellering"@nn .
 
@@ -10783,6 +11415,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007225> skos:prefLabel "Organisk strukturkjemi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007226> skos:prefLabel "Periodiske system"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007227> skos:altLabel "Omega"@nn,
         "Proarc"@nn ;
     skos:prefLabel "Arkivsystem"@nn .
@@ -10793,6 +11427,8 @@
 <http://data.ub.uio.no/realfagstermer/c007230> skos:prefLabel "Brødristarar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007231> skos:prefLabel "Ekskrement"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007232> skos:prefLabel "Propan"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007236> skos:prefLabel "Gravitasjon"@nn .
 
@@ -10844,11 +11480,19 @@
 
 <http://data.ub.uio.no/realfagstermer/c007268> skos:prefLabel "Bestandsutvikling"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007269> skos:prefLabel "Pektin"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007270> skos:prefLabel "Pelslus"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007271> skos:prefLabel "Månefasane"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007272> skos:prefLabel "Motivasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007273> skos:prefLabel "Materialmekanikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007274> skos:altLabel "Porøse materiale"@nn,
+        "Porøse stoff"@nn ;
+    skos:prefLabel "Porøse medium"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007275> skos:prefLabel "Drikkevatn"@nn .
 
@@ -10885,6 +11529,8 @@
 <http://data.ub.uio.no/realfagstermer/c007295> skos:altLabel "Lydkoding"@nn ;
     skos:prefLabel "Ljodkoding"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007296> skos:prefLabel "Fotoemisjonsspektrometri"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007297> skos:prefLabel "Elektrisk leidning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007298> skos:prefLabel "Bioakkumulering"@nn .
@@ -10892,6 +11538,8 @@
 <http://data.ub.uio.no/realfagstermer/c007299> skos:prefLabel "Matematiske algoritmar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007300> skos:prefLabel "Abiotiske faktorar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007302> skos:prefLabel "Politiske parti"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007303> skos:prefLabel "Fuglehundar"@nn .
 
@@ -10961,6 +11609,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007349> skos:prefLabel "Magnetometri"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007350> skos:prefLabel "Primitive insekt"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007351> skos:prefLabel "Leseteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007352> skos:prefLabel "Feltemisjon"@nn .
@@ -10976,6 +11626,8 @@
 <http://data.ub.uio.no/realfagstermer/c007357> skos:prefLabel "Malmmineral"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007358> skos:prefLabel "Arktisk geologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007359> skos:prefLabel "Plantefysiologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007360> skos:prefLabel "Astroseismologi"@nn .
 
@@ -10997,6 +11649,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c007369> skos:prefLabel "Sjiraffar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007371> skos:altLabel "Pulskodemodulasjon"@nn ;
+    skos:prefLabel "Pulskodemodulering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007372> skos:prefLabel "Genressursar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007376> skos:altLabel "E-handel"@nn,
@@ -11004,6 +11659,8 @@
     skos:prefLabel "Elektronisk handel"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007377> skos:prefLabel "Djupvatn"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007380> skos:prefLabel "Planteparasittar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007381> skos:prefLabel "Ferskvassoppdrett"@nn .
 
@@ -11056,6 +11713,10 @@
 <http://data.ub.uio.no/realfagstermer/c007414> skos:prefLabel "Magi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007415> skos:prefLabel "Alpin forsking"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007416> skos:prefLabel "Polarimetri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007417> skos:prefLabel "Prostaglandin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007419> skos:prefLabel "Friluftsområde"@nn .
 
@@ -11144,6 +11805,8 @@
 <http://data.ub.uio.no/realfagstermer/c007473> skos:prefLabel "Geografisk geologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007474> skos:prefLabel "Levande fossil"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007475> skos:prefLabel "Pulverdiffraksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007476> skos:prefLabel "Mikrobiell transport"@nn .
 
@@ -11391,6 +12054,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007627> skos:prefLabel "Etnologisk feltarbeid"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007628> skos:prefLabel "Peonar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007629> skos:prefLabel "Blodsmitte"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007630> skos:prefLabel "Hjartemedisin"@nn .
@@ -11480,6 +12145,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007679> skos:prefLabel "Fluorescensspektroskopi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007681> skos:prefLabel "Plasmainstabilitetar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007682> skos:prefLabel "Memex"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007684> skos:altLabel "Næringskjede"@nn ;
@@ -11513,6 +12180,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007698> skos:prefLabel "Ekskresjon"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007699> skos:prefLabel "Programverifikasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007700> skos:prefLabel "Comal"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007701> skos:prefLabel "Anion"@nn .
@@ -11536,6 +12205,11 @@
 <http://data.ub.uio.no/realfagstermer/c007711> skos:prefLabel "Frobeniusalgebraer"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007713> skos:prefLabel "Almetre"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007715> skos:prefLabel "Projektiv geometri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007716> skos:altLabel "Plagiat"@nn ;
+    skos:prefLabel "Plagiering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007719> skos:prefLabel "Numerisk matematikk"@nn .
 
@@ -11570,6 +12244,8 @@
 <http://data.ub.uio.no/realfagstermer/c007736> skos:prefLabel "Brystkreft"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007737> skos:prefLabel "Medvit"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007738> skos:prefLabel "Portalar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007739> skos:prefLabel "Analytisk knuteteori"@nn .
 
@@ -11645,12 +12321,18 @@
         "Halvvengjer"@nn ;
     skos:prefLabel "Halvvenger"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007791> skos:altLabel "Postmaskinar"@nn ;
+    skos:prefLabel "Postmaskiner"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007794> skos:prefLabel "Namnereaksjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007795> skos:prefLabel "Marin paleoøkologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007796> skos:altLabel "Elgforvaltning"@nn ;
     skos:prefLabel "Elgforvalting"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007798> skos:altLabel "Eggekvitestoff"@nn ;
+    skos:prefLabel "Protein"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007799> skos:prefLabel "Frøspreiing"@nn .
 
@@ -11660,6 +12342,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007804> skos:prefLabel "Amming"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007807> skos:prefLabel "Produksjonsdatabasar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007808> skos:prefLabel "Lagerstyring"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007810> skos:prefLabel "Kalkylar"@nn .
@@ -11668,6 +12352,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007812> skos:altLabel "Blomstring"@nn ;
     skos:prefLabel "Bløming"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007815> skos:prefLabel "Proteinkjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007817> skos:prefLabel "Kontinentalsokkelen"@nn .
 
@@ -11747,6 +12433,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007865> skos:prefLabel "Lokalmeteorologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007866> skos:prefLabel "Programeksekvering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007867> skos:prefLabel "Arealbruk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007869> skos:prefLabel "Former"@nn .
@@ -11816,6 +12504,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c007913> skos:prefLabel "Brennstoff"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007914> skos:prefLabel "Protostjerner"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007915> skos:prefLabel "Husfluge"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007916> skos:altLabel "Biogeokjemiske krinslaup"@nn,
@@ -11826,6 +12516,8 @@
 <http://data.ub.uio.no/realfagstermer/c007917> skos:prefLabel "Klasseromspedagogikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007918> skos:prefLabel "Mineralutvinning"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007919> skos:prefLabel "Piggsvin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007923> skos:prefLabel "Nikkelførekomstar"@nn .
 
@@ -11898,13 +12590,19 @@
 
 <http://data.ub.uio.no/realfagstermer/c007977> skos:prefLabel "Antibakterielle peptid"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007979> skos:prefLabel "Polyppar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007980> skos:prefLabel "Automatisk læring"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007981> skos:prefLabel "Peikarteori"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c007982> skos:prefLabel "Pungbjørnar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c007987> skos:prefLabel "Organisk kjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007988> skos:prefLabel "Matematiske problem"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c007989> skos:prefLabel "Plantevernmiddel"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c007990> skos:altLabel "Berekraftig forvaltning"@nn ;
     skos:prefLabel "Berekraftig forvalting"@nn .
@@ -11944,6 +12642,8 @@
 <http://data.ub.uio.no/realfagstermer/c008009> skos:prefLabel "Biofotonikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008011> skos:prefLabel "Humantoksikologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008013> skos:prefLabel "Plantedelar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008014> skos:prefLabel "Ikkje-lineær fysikk"@nn .
 
@@ -12027,6 +12727,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008066> skos:prefLabel "Gitterdynamikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008067> skos:prefLabel "Protistologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008069> skos:prefLabel "Hydrogenkjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008070> skos:altLabel "Multi protocol label switching"@nn ;
@@ -12058,6 +12760,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c008093> skos:prefLabel "Endogene prosessar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008094> skos:altLabel "Poteter"@nn ;
+    skos:prefLabel "Potetar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008095> skos:prefLabel "Dingoar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008096> skos:altLabel "Havlære"@nn,
@@ -12071,6 +12776,8 @@
 <http://data.ub.uio.no/realfagstermer/c008102> skos:prefLabel "Degenerasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008103> skos:prefLabel "Mangfald"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008104> skos:prefLabel "Populasjonstettleik"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008105> skos:prefLabel "Dryppsteinsgrotter"@nn .
 
@@ -12102,6 +12809,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008122> skos:altLabel "Datastøtta utforming"@nn ;
     skos:prefLabel "Datastøtta design"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008123> skos:prefLabel "Proteintransport"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008124> skos:prefLabel "Fordelingsalgoritmar"@nn .
 
@@ -12170,6 +12879,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008167> skos:prefLabel "Galle"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008168> skos:prefLabel "Pepar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008169> skos:prefLabel "Integritet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008170> skos:prefLabel "Brukaropplæring"@nn .
@@ -12196,6 +12907,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008188> skos:prefLabel "Organiske reaksjonar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008190> skos:prefLabel "Plantepatogen"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008192> skos:prefLabel "Marin flora"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008193> skos:prefLabel "Bydelar"@nn .
@@ -12212,6 +12925,8 @@
 <http://data.ub.uio.no/realfagstermer/c008198> skos:prefLabel "Dekonstruksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008199> skos:prefLabel "Ikkje-lineær mekanikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008204> skos:prefLabel "Prosessutvikling"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008205> skos:prefLabel "Ferritin"@nn .
 
@@ -12231,6 +12946,10 @@
 <http://data.ub.uio.no/realfagstermer/c008215> skos:prefLabel "Forlag"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008216> skos:prefLabel "Emulsjonar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008218> skos:prefLabel "Protuberansar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008219> skos:prefLabel "Produksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008221> skos:prefLabel "Kronobiologi"@nn .
 
@@ -12281,6 +13000,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008250> skos:altLabel "Boktrykkarar"@nn ;
     skos:prefLabel "Boktrykkjarar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008251> skos:prefLabel "Preparativ kjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008252> skos:prefLabel "Amineringsreaksjonar"@nn .
 
@@ -12393,6 +13114,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008334> skos:prefLabel "Kontrollsystem"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008335> skos:prefLabel "Plantedyrking"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008336> skos:prefLabel "Fuglejakt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008337> skos:prefLabel "Bruksretta optikk"@nn .
@@ -12409,6 +13132,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c008348> skos:prefLabel "Elektrisitetslære"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008349> skos:altLabel "Politisk rådgiving"@nn ;
+    skos:prefLabel "Politisk rådgjeving"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008353> skos:prefLabel "Diazosambindingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008354> skos:prefLabel "Grafiske modellar"@nn .
@@ -12419,9 +13145,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c008359> skos:prefLabel "Etterforsking"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008361> skos:prefLabel "Profesjonskultur"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008362> skos:prefLabel "Immunoblot"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008363> skos:prefLabel "Kronologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008365> skos:prefLabel "Placebo"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008366> skos:altLabel "Stellar utvikling"@nn,
         "Stellarisk utvikling"@nn,
@@ -12479,6 +13209,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c008400> skos:prefLabel "Fluktuasjonsteori"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008401> skos:prefLabel "Prosessering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008403> skos:prefLabel "Primula"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008404> skos:prefLabel "Maksimal"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008405> skos:prefLabel "Konserveringsmiddel"@nn .
@@ -12504,6 +13238,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008417> skos:prefLabel "Geologiske sjåverde"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008418> skos:prefLabel "Programbibliotek"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008419> skos:prefLabel "Muskelsystemet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008420> skos:prefLabel "Halvleiarmateriale"@nn .
@@ -12522,6 +13258,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008427> skos:altLabel "Livsstilssjukdommar"@nn ;
     skos:prefLabel "Livsstilssjukdomar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008429> skos:prefLabel "Pupper"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008430> skos:prefLabel "Mekaniske system"@nn .
 
@@ -12542,11 +13280,17 @@
 
 <http://data.ub.uio.no/realfagstermer/c008441> skos:prefLabel "Numerisk taksonomi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008443> skos:altLabel "Problemformulering"@nn,
+        "Problemløysing"@nn ;
+    skos:prefLabel "Problemanalyse"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008444> skos:prefLabel "Klorbutadien"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008445> skos:prefLabel "Metanol"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008447> skos:prefLabel "Berekningsorientert geometri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008448> skos:prefLabel "Pelsselar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008449> skos:prefLabel "Blautbotn"@nn .
 
@@ -12555,6 +13299,8 @@
 <http://data.ub.uio.no/realfagstermer/c008453> skos:prefLabel "Nervar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008456> skos:prefLabel "Paralysegifter"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008457> skos:prefLabel "PostgreSQL"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008458> skos:altLabel "Elver"@nn,
         "Floder"@nn ;
@@ -12623,6 +13369,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008488> skos:prefLabel "Energitransport"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008489> skos:prefLabel "Programmeringsteori"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008490> skos:prefLabel "Kompleks funksjonsteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008491> skos:prefLabel "Opphavsrett"@nn .
@@ -12666,6 +13414,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008517> skos:prefLabel "Bootstrap"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008518> skos:prefLabel "Primærsuksesjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008519> skos:prefLabel "Matressursar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008521> skos:prefLabel "Diabetikarkost"@nn .
@@ -12703,6 +13453,8 @@
 <http://data.ub.uio.no/realfagstermer/c008541> skos:prefLabel "Okkultasjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008542> skos:prefLabel "Kompleksitetsteori"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008543> skos:prefLabel "Plasma 78"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008544> skos:prefLabel "Førebygging"@nn .
 
@@ -12792,6 +13544,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008595> skos:prefLabel "Heile funksjonar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008596> skos:prefLabel "Prosessutstyr"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008597> skos:prefLabel "Gauge-symmetri"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008598> skos:prefLabel "Molekylær elektronikk"@nn .
@@ -12815,6 +13569,8 @@
 <http://data.ub.uio.no/realfagstermer/c008608> skos:prefLabel "Fossile dinoflagellatcystar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008609> skos:prefLabel "Kjertlar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008610> skos:prefLabel "Plantecytologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008611> skos:prefLabel "Naturlover"@nn .
 
@@ -12873,6 +13629,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008648> skos:prefLabel "Fytogeografi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008649> skos:prefLabel "Polare oxid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008650> skos:prefLabel "Komplekse fenomen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008652> skos:prefLabel "Ionebytekromatografi"@nn .
@@ -12882,6 +13640,8 @@
 <http://data.ub.uio.no/realfagstermer/c008654> skos:prefLabel "Klinisk kjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008656> skos:prefLabel "Mekanikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008657> skos:prefLabel "Psykofysikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008658> skos:prefLabel "Metallurgi"@nn .
 
@@ -12924,6 +13684,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008679> skos:prefLabel "Havforsking"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008681> skos:prefLabel "Promillekøyring"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008682> skos:prefLabel "Epifysen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008684> skos:prefLabel "Meteosat"@nn .
@@ -12932,12 +13694,19 @@
 
 <http://data.ub.uio.no/realfagstermer/c008686> skos:prefLabel "Kriminaletterforsking"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008687> skos:prefLabel "Prokaryote membranar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008688> skos:prefLabel "Oljeforsyning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008689> skos:altLabel "Jerper"@nn ;
     skos:prefLabel "Jerpar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008690> skos:prefLabel "Molekylteori"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008691> skos:altLabel "Programpakkar"@nn ;
+    skos:prefLabel "Programpakker"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008693> skos:prefLabel "Polyakrylamid"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008695> skos:prefLabel "Informasjonstenester"@nn .
 
@@ -13053,6 +13822,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008771> skos:prefLabel "Flytande helium"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008772> skos:prefLabel "Prosessfordeling"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008773> skos:altLabel "Forkastingsblokkar"@nn ;
     skos:prefLabel "Forkastingsblokker"@nn .
 
@@ -13106,6 +13877,8 @@
 <http://data.ub.uio.no/realfagstermer/c008804> skos:altLabel "Grannematriser"@nn ;
     skos:prefLabel "Naboskapsmatriser"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008806> skos:prefLabel "Prydbuskar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008807> skos:prefLabel "Fiolfamilien"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008808> skos:altLabel "Bevegelsesorientert interaksjon"@nn ;
@@ -13118,6 +13891,8 @@
 <http://data.ub.uio.no/realfagstermer/c008811> skos:prefLabel "Magnetiske stormar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008813> skos:prefLabel "Numerisk geometri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008814> skos:prefLabel "Pop-2"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008816> skos:prefLabel "Gödel"@nn .
 
@@ -13146,6 +13921,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008835> skos:prefLabel "Analytisk geomekanikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008836> skos:prefLabel "Perl"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008837> skos:prefLabel "Fangstmetodar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008839> skos:altLabel "Metallklyngjer"@nn ;
@@ -13172,6 +13949,12 @@
 
 <http://data.ub.uio.no/realfagstermer/c008854> skos:prefLabel "Humle"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008855> skos:prefLabel "Planaritet"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008856> skos:prefLabel "Pungdyr"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008857> skos:prefLabel "Plasmafysikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008858> skos:prefLabel "Afrodisiakum"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008860> skos:prefLabel "Oljeteknologi"@nn .
@@ -13197,6 +13980,13 @@
 <http://data.ub.uio.no/realfagstermer/c008871> skos:prefLabel "Makrosykliske molekyl"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008872> skos:prefLabel "Lakk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008873> skos:altLabel "Pl/1"@nn,
+        "Pl/c"@nn,
+        "Pl/cv"@nn,
+        "Pl/i"@nn,
+        "Pl1"@nn ;
+    skos:prefLabel "Programming language one"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008875> skos:prefLabel "Automorfe former"@nn .
 
@@ -13240,6 +14030,8 @@
         "Brundtlandkommisjonen"@nn ;
     skos:prefLabel "Brundtlandrapporten"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008904> skos:prefLabel "Produktmerking"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008906> skos:altLabel "Funksjonell programmering"@nn ;
     skos:prefLabel "Funksjonsprogrammering"@nn .
 
@@ -13267,6 +14059,8 @@
 <http://data.ub.uio.no/realfagstermer/c008920> skos:prefLabel "Damp"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008921> skos:prefLabel "Karakterar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008922> skos:prefLabel "Populasjonsstudiar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008923> skos:prefLabel "Omleiringsreaksjonar"@nn .
 
@@ -13315,6 +14109,12 @@
 
 <http://data.ub.uio.no/realfagstermer/c008954> skos:prefLabel "Humus"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008955> skos:prefLabel "Petrologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008956> skos:prefLabel "Polymerasar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008958> skos:prefLabel "Protonisering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008959> skos:prefLabel "Datasyn"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008961> skos:prefLabel "Lågenergi elektrondiffraksjon"@nn .
@@ -13342,9 +14142,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c008975> skos:prefLabel "Diodar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008976> skos:prefLabel "Potensiometri"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c008977> skos:prefLabel "Homobasidiomycetes"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008978> skos:prefLabel "Passive marginar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c008979> skos:prefLabel "Pest"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c008982> skos:prefLabel "Deskriptiv analyse"@nn .
 
@@ -13372,6 +14176,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c008996> skos:prefLabel "Fotosfærar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c008999> skos:prefLabel "Programkvalitet"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009000> skos:prefLabel "Fusjonsenergi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009003> skos:prefLabel "Digitalteknikk"@nn .
@@ -13382,6 +14188,8 @@
     skos:prefLabel "Navigasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009006> skos:prefLabel "Nebulosar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009010> skos:prefLabel "Pulsa feltgradient kjernemagnetisk resonans"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009011> skos:prefLabel "Kjemisk embryologi"@nn .
 
@@ -13405,6 +14213,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009026> skos:prefLabel "Elektronoverførarar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009027> skos:prefLabel "Protokollkonstruksjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009028> skos:prefLabel "Kvantitativ genetikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009029> skos:prefLabel "Ekstragalaktiske radiokjelder"@nn .
@@ -13416,6 +14226,8 @@
 <http://data.ub.uio.no/realfagstermer/c009033> skos:prefLabel "Elektrokinetikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009034> skos:prefLabel "Immunofarmakologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009037> skos:prefLabel "Poredannande protein"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009039> skos:prefLabel "Pedologi"@nn .
 
@@ -13454,6 +14266,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009067> skos:prefLabel "Kopivern"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009068> skos:prefLabel "Portable simula"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009071> skos:altLabel "Hjarteinfarkt"@nn ;
     skos:prefLabel "Infarkt"@nn .
 
@@ -13464,11 +14278,17 @@
 
 <http://data.ub.uio.no/realfagstermer/c009075> skos:prefLabel "Atmosfærisk dispersjon"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009076> skos:prefLabel "Pigment"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009077> skos:prefLabel "Karbonylsambindingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009080> skos:prefLabel "Grad"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009081> skos:prefLabel "Polyfarmasi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009082> skos:prefLabel "Myrkonglefamilien"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009083> skos:prefLabel "Populærastronomi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009084> skos:prefLabel "Essensielle aromastoff"@nn .
 
@@ -13504,6 +14324,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009110> skos:prefLabel "Optiske filter"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009111> skos:prefLabel "Permafrost"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009113> skos:prefLabel "Algebraiske kroppar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009114> skos:prefLabel "Elvemekanikk"@nn .
@@ -13517,6 +14339,8 @@
 <http://data.ub.uio.no/realfagstermer/c009120> skos:altLabel "File transfer protocol"@nn ;
     skos:prefLabel "FTP"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009121> skos:prefLabel "Programmodular"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009122> skos:altLabel "Genetisk fingeravtrykk"@nn ;
     skos:prefLabel "Dna-fingerprinting"@nn .
 
@@ -13527,6 +14351,8 @@
 <http://data.ub.uio.no/realfagstermer/c009127> skos:altLabel "Kvile"@nn ;
     skos:prefLabel "Dvale"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009129> skos:prefLabel "Pyrimidin"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009132> skos:prefLabel "Maskintolking"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009133> skos:prefLabel "Overflater"@nn .
@@ -13534,6 +14360,11 @@
 <http://data.ub.uio.no/realfagstermer/c009135> skos:prefLabel "Kolonnar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009136> skos:prefLabel "Fastleikslære"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009137> skos:altLabel "Programplanlegging"@nn,
+        "Programvareutvikling"@nn,
+        "Scrum"@nn ;
+    skos:prefLabel "Programutvikling"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009139> skos:altLabel "Saksbehandlingssystem"@nn,
         "Sakshandsamingssystem"@nn ;
@@ -13638,7 +14469,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c009195> skos:prefLabel "Kompleksitet"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009199> skos:prefLabel "Periodisitet"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009203> skos:prefLabel "Muskelarbeid"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009204> skos:prefLabel "Programevaluering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009205> skos:prefLabel "Multicast"@nn .
 
@@ -13649,6 +14484,8 @@
 <http://data.ub.uio.no/realfagstermer/c009209> skos:prefLabel "Naturlege satellittar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009210> skos:prefLabel "Modifikatorar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009212> skos:prefLabel "Plantesuksesjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009213> skos:altLabel "Endosytose"@nn ;
     skos:prefLabel "Endocytose"@nn .
@@ -13665,6 +14502,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c009223> skos:prefLabel "Dissidentar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009226> skos:altLabel "Powerpoint"@nn,
+        "Presentasjonsprogram"@nn ;
+    skos:prefLabel "Presentasjonsverktøy"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009227> skos:prefLabel "Nitrogenfiksering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009228> skos:prefLabel "Fletting"@nn .
@@ -13672,6 +14513,8 @@
 <http://data.ub.uio.no/realfagstermer/c009229> skos:prefLabel "Frysing"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009230> skos:prefLabel "Hummarfiske"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009231> skos:prefLabel "Planteceller"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009234> skos:prefLabel "Mikrorobotar"@nn .
 
@@ -13703,6 +14546,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c009250> skos:prefLabel "Kunstgjødsel"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009251> skos:altLabel "Planteskolar"@nn ;
+    skos:prefLabel "Planteskular"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009252> skos:prefLabel "Kalibreringar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009253> skos:prefLabel "Geoide"@nn .
@@ -13714,6 +14560,8 @@
 <http://data.ub.uio.no/realfagstermer/c009258> skos:prefLabel "Elektrokjemiske grenseflater"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009259> skos:prefLabel "Antimikrobielle behandlingar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009260> skos:prefLabel "Populasjonsbiologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009261> skos:altLabel "Feltmetodikk"@nn ;
     skos:prefLabel "Feltmetodar"@nn .
@@ -13767,6 +14615,8 @@
 <http://data.ub.uio.no/realfagstermer/c009290> skos:prefLabel "Kvinnelege kjønnsorgan"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009291> skos:prefLabel "Elgtrekk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009292> skos:prefLabel "Prosjektevaluering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009293> skos:altLabel "Bambusbjørn"@nn,
         "Pandaar"@nn ;
@@ -13828,6 +14678,8 @@
 <http://data.ub.uio.no/realfagstermer/c009328> skos:altLabel "Amiga animation format"@nn ;
     skos:prefLabel "Animasjonsformat"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009329> skos:prefLabel "Polaritet"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009331> skos:prefLabel "Einingsteoriar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009332> skos:altLabel "Java server pages"@nn ;
@@ -13857,6 +14709,8 @@
 <http://data.ub.uio.no/realfagstermer/c009348> skos:prefLabel "Væskekromatografi utluting kjernemagnetisk resonans"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009350> skos:prefLabel "Megalittar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009352> skos:prefLabel "Pigghudar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009353> skos:prefLabel "Patogene tarmbakteriar"@nn .
 
@@ -13907,6 +14761,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009385> skos:prefLabel "Basalmedisin"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009387> skos:prefLabel "Polysykliske sambindingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009389> skos:prefLabel "Dynamisk hydrodynamikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009390> skos:prefLabel "Kjemisk vasskvalitet"@nn .
@@ -13942,6 +14798,8 @@
     skos:prefLabel "Nevrofysiologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009416> skos:prefLabel "Klassiske konstruksjonsproblem"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009417> skos:prefLabel "Preparativ polymerkjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009418> skos:prefLabel "Mmix"@nn .
 
@@ -14007,6 +14865,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009463> skos:prefLabel "Fiskeanatomi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009464> skos:prefLabel "Peptid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009465> skos:prefLabel "Glykosaminoglykan"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009466> skos:prefLabel "Klippestrender"@nn .
@@ -14035,6 +14895,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009480> skos:prefLabel "Astma"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009483> skos:prefLabel "Protokollar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009485> skos:prefLabel "Materialprøving"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009486> skos:prefLabel "Mellomvare"@nn .
@@ -14043,6 +14905,8 @@
     skos:prefLabel "Biobrensel"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009489> skos:prefLabel "Molekylær bioteknologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009490> skos:prefLabel "Pumper"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009491> skos:altLabel "Bygningslære"@nn ;
     skos:prefLabel "Bygnadslære"@nn .
@@ -14098,6 +14962,8 @@
     skos:prefLabel "Industrielle bruksmåtar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009527> skos:prefLabel "Etylen"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009528> skos:prefLabel "Planare grafar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009530> skos:prefLabel "Gnagarar"@nn .
 
@@ -14157,6 +15023,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009569> skos:prefLabel "Koplingsmetodar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009570> skos:prefLabel "Pesticid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009572> skos:prefLabel "Backus-naur-form"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009574> skos:prefLabel "Dyreteikningar"@nn .
@@ -14185,6 +15053,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c009592> skos:prefLabel "LaTeX"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009593> skos:altLabel "PCR"@nn ;
+    skos:prefLabel "Polymerasekjedereaksjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009594> skos:prefLabel "Gitter"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009595> skos:altLabel "Bergarter"@nn ;
@@ -14194,6 +15065,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009597> skos:altLabel "Geomorfologiske prosessar"@nn ;
     skos:prefLabel "Geomorfologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009598> skos:prefLabel "Populasjonsviabilitetsanalyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009599> skos:altLabel "Marinteknologi"@nn ;
     skos:prefLabel "Marin teknologi"@nn .
@@ -14284,6 +15157,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009651> skos:prefLabel "Grafisk simulering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009653> skos:prefLabel "Preparativ kromatografi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009654> skos:prefLabel "Granulittar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009655> skos:prefLabel "Lokal tilpassing"@nn .
@@ -14294,6 +15169,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009661> skos:altLabel "Vassforvaltning"@nn ;
     skos:prefLabel "Vassforvalting"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009662> skos:prefLabel "Portar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009665> skos:prefLabel "Eksos"@nn .
 
@@ -14382,6 +15259,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009726> skos:prefLabel "Magnesiumsulfat"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009727> skos:prefLabel "Planetpassasjar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009730> skos:prefLabel "Bifenyl"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009731> skos:prefLabel "Fotoemisjon"@nn .
@@ -14447,6 +15326,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009769> skos:prefLabel "Foucaults pendel"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009770> skos:prefLabel "Plantevirus"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009771> skos:prefLabel "Drivjakt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009772> skos:prefLabel "Makroorganismar"@nn .
@@ -14460,6 +15341,8 @@
         "Isabelle"@nn,
         "Provsføring"@nn ;
     skos:prefLabel "Bevisføring"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009782> skos:prefLabel "Pollinatorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009783> skos:prefLabel "Cobol"@nn .
 
@@ -14501,6 +15384,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009808> skos:prefLabel "Klinisk farmasi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009809> skos:prefLabel "Planar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009810> skos:prefLabel "Kurverepresentasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009811> skos:altLabel "Large Earth-based Solar Telescope"@nn ;
@@ -14514,6 +15399,8 @@
 <http://data.ub.uio.no/realfagstermer/c009815> skos:altLabel "CO2"@nn,
         "Koldioksid"@nn ;
     skos:prefLabel "Karbondioksid"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009816> skos:prefLabel "Plasmid"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009817> skos:prefLabel "Faserom"@nn .
 
@@ -14533,6 +15420,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009825> skos:prefLabel "Co2-lagring"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009826> skos:prefLabel "Portrett"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009827> skos:prefLabel "Arbeidsmedisin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009828> skos:prefLabel "Oljeleiting"@nn .
@@ -14546,6 +15435,8 @@
 <http://data.ub.uio.no/realfagstermer/c009834> skos:prefLabel "Fagmetodikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009835> skos:prefLabel "Luftspeglingar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009836> skos:prefLabel "Plantepatologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009837> skos:prefLabel "Motiv"@nn .
 
@@ -14635,6 +15526,8 @@
 <http://data.ub.uio.no/realfagstermer/c009882> skos:altLabel "Lyngheier"@nn ;
     skos:prefLabel "Lyngheiar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009883> skos:prefLabel "Proteinfunksjonar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009884> skos:altLabel "Bildetolking"@nn ;
     skos:prefLabel "Bilettolking"@nn .
 
@@ -14646,6 +15539,8 @@
     skos:prefLabel "Gjetteleikar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009888> skos:prefLabel "Livsgrunnlag"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009889> skos:prefLabel "Prototypar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009890> skos:prefLabel "Leppeblomfamilien"@nn .
 
@@ -14698,6 +15593,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c009913> skos:prefLabel "Fleirbrukarkontroll"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009914> skos:prefLabel "Pyridinsambindingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009915> skos:altLabel "Førsteordens logikk"@nn ;
     skos:prefLabel "Fyrsteordens logikk"@nn .
 
@@ -14712,6 +15609,9 @@
 <http://data.ub.uio.no/realfagstermer/c009921> skos:prefLabel "Cyberspace"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009923> skos:prefLabel "Modernisme"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c009926> skos:altLabel "Praktiske ferdigheiter"@nn ;
+    skos:prefLabel "Praktiske dugleikar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009927> skos:prefLabel "Kreps"@nn .
 
@@ -14835,6 +15735,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c009990> skos:prefLabel "Fysiologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c009991> skos:altLabel "Gjenbruk"@nn ;
+    skos:prefLabel "Programvaregjenbruk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c009992> skos:prefLabel "Menneske-maskin-relasjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c009995> skos:altLabel "Databasemodellar"@nn ;
@@ -14856,6 +15759,8 @@
     skos:prefLabel "Livssyklusar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010005> skos:prefLabel "Grunnlagsproblem"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010007> skos:prefLabel "Pi-ressursar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010008> skos:altLabel "Beredskapsplanar"@nn ;
     skos:prefLabel "Vernebuingsplanar"@nn .
@@ -14950,6 +15855,8 @@
 <http://data.ub.uio.no/realfagstermer/c010058> skos:altLabel "Holkort"@nn ;
     skos:prefLabel "Hòlkort"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010061> skos:prefLabel "Psykiatri"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010062> skos:prefLabel "Fotoreseptorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010063> skos:prefLabel "Geologar"@nn .
@@ -14988,7 +15895,14 @@
 <http://data.ub.uio.no/realfagstermer/c010085> skos:altLabel "Attgroing"@nn ;
     skos:prefLabel "Gjengroing"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010086> skos:prefLabel "Polarforsking"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010087> skos:prefLabel "Calabi-yau"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010089> skos:altLabel "Programmeringsomgjevnadar"@nn,
+        "Programmeringsomgjevnader"@nn,
+        "Programmeringsstøtte"@nn ;
+    skos:prefLabel "Programmeringsmiljø"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010090> skos:prefLabel "Fjører"@nn .
 
@@ -15017,6 +15931,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010110> skos:prefLabel "Homogene rom"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010111> skos:prefLabel "Polymersyntese"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010112> skos:prefLabel "Bustadområde"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010114> skos:prefLabel "Digitale byar"@nn .
@@ -15040,6 +15956,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010122> skos:prefLabel "Forretningsmatematikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010123> skos:prefLabel "Faseoverføringskatalyse"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010124> skos:altLabel "Offentlege nøklar"@nn ;
     skos:prefLabel "Offentlege nyklar"@nn .
 
@@ -15059,6 +15977,8 @@
 <http://data.ub.uio.no/realfagstermer/c010132> skos:prefLabel "AIX"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010134> skos:prefLabel "Parsering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010135> skos:prefLabel "Programmeringsteknikkar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010136> skos:prefLabel "Modulære representasjonar"@nn .
 
@@ -15105,6 +16025,8 @@
 <http://data.ub.uio.no/realfagstermer/c010167> skos:altLabel "Sideelver"@nn ;
     skos:prefLabel "Sideelvar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010169> skos:prefLabel "Programkopiering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010171> skos:prefLabel "Motorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010173> skos:prefLabel "Nevrologar"@nn .
@@ -15131,6 +16053,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010185> skos:altLabel "Byggeskikk"@nn ;
     skos:prefLabel "Byggjeskikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010187> skos:prefLabel "Petroleumsdanning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010191> skos:prefLabel "Organiske peroksid"@nn .
 
@@ -15162,6 +16086,8 @@
 <http://data.ub.uio.no/realfagstermer/c010208> skos:prefLabel "Astronomisk spektroskopi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010210> skos:prefLabel "Inferens"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010212> skos:prefLabel "Projeksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010214> skos:prefLabel "Logplan '88"@nn .
 
@@ -15203,6 +16129,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010233> skos:prefLabel "Deweys desimalklassifikasjon"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010236> skos:prefLabel "Planetdanning"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010237> skos:prefLabel "Høgtemperaturmateriale"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010238> skos:altLabel "Forhistoriske plantar"@nn,
@@ -15228,6 +16156,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010252> skos:prefLabel "Bioanalyse"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010253> skos:prefLabel "Programsemantikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010254> skos:altLabel "Lyseffektar"@nn ;
     skos:prefLabel "Ljoseffektar"@nn .
 
@@ -15251,9 +16181,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c010260> skos:prefLabel "Montagues semantikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010261> skos:prefLabel "Plasmasfære"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010262> skos:prefLabel "Omgrepsskjema"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010263> skos:prefLabel "Fysikalsk kjemi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010264> skos:prefLabel "Prosessar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010265> skos:prefLabel "Baobab"@nn .
 
@@ -15428,11 +16362,15 @@
 
 <http://data.ub.uio.no/realfagstermer/c010375> skos:prefLabel "Halogenid"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010376> skos:prefLabel "Pelsdyr"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010377> skos:prefLabel "Amidin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010378> skos:prefLabel "Datakonferansar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010379> skos:prefLabel "Ingrediensar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010380> skos:prefLabel "Pyrrolar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010381> skos:prefLabel "Legat"@nn .
 
@@ -15443,6 +16381,9 @@
 <http://data.ub.uio.no/realfagstermer/c010385> skos:prefLabel "Kreftceller"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010386> skos:prefLabel "Fulbright-stipend"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010387> skos:altLabel "Personleg digital assistent"@nn ;
+    skos:prefLabel "PDA"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010388> skos:prefLabel "EUV imaging spectrometer"@nn .
 
@@ -15468,6 +16409,8 @@
 <http://data.ub.uio.no/realfagstermer/c010404> skos:prefLabel "Optimale algoritmar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010405> skos:prefLabel "Paleomagnetisme"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010407> skos:prefLabel "Personar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010411> skos:prefLabel "Matematisk tenking"@nn .
 
@@ -15572,6 +16515,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010469> skos:prefLabel "Metallhydrid"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010470> skos:prefLabel "Platinakompleks"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010471> skos:prefLabel "Akkumulasjonsstrender"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010472> skos:prefLabel "Informasjonskompetanse"@nn .
@@ -15669,6 +16614,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010527> skos:prefLabel "Frysetørring"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010529> skos:prefLabel "Planteanalysar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010531> skos:prefLabel "Editering (genetikk)"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010532> skos:altLabel "Leksikografi"@nn ;
@@ -15713,6 +16660,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c010558> skos:altLabel "Genetiske markørar"@nn ;
     skos:prefLabel "Mikrosatellittar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010560> skos:altLabel "Fytoplankton"@nn,
+        "Planktonalgar"@nn ;
+    skos:prefLabel "Planteplankton"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010561> skos:prefLabel "Islamsk vitskapshistorie"@nn .
 
@@ -15763,6 +16714,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c010591> skos:prefLabel "Grenseverdiproblem"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010592> skos:altLabel "Pollenundersøkingar"@nn ;
+    skos:prefLabel "Pollenanalyse"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010593> skos:prefLabel "Ganglag"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010594> skos:prefLabel "Arkivkunnskap"@nn .
@@ -15785,6 +16739,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010609> skos:altLabel "Bassengsimulering"@nn ;
     skos:prefLabel "Bassengmodellering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010611> skos:prefLabel "Petroleumsindustri"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010612> skos:prefLabel "Naturstoffkjemi"@nn .
 
@@ -15863,8 +16819,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c010657> skos:prefLabel "Beresystem"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010658> skos:prefLabel "Profesjonsetikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010659> skos:altLabel "Nasjonale prøvar"@nn ;
     skos:prefLabel "Nasjonale prøver"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010660> skos:altLabel "PCA"@nn ;
+    skos:prefLabel "Prinsipalkomponentanalyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010661> skos:prefLabel "Binærtre"@nn .
 
@@ -15878,6 +16839,9 @@
 <http://data.ub.uio.no/realfagstermer/c010668> skos:prefLabel "Duftkjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010669> skos:prefLabel "Folkebibliotek"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010672> skos:altLabel "pH-bestemming"@nn ;
+    skos:prefLabel "pH-målingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010673> skos:prefLabel "Dynamiske modellar"@nn .
 
@@ -15943,6 +16907,8 @@
 <http://data.ub.uio.no/realfagstermer/c010711> skos:prefLabel "Celleåtferd"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010712> skos:prefLabel "Miljøkvalitet"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010714> skos:prefLabel "Protoplasma"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010715> skos:altLabel "Lysekko"@nn ;
     skos:prefLabel "Ljosekko"@nn .
@@ -16023,6 +16989,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010759> skos:prefLabel "Nukleære metodar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010760> skos:prefLabel "Perisykliske reaksjonar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010761> skos:prefLabel "Fiskeforedling"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010764> skos:prefLabel "Kvarts"@nn .
@@ -16034,6 +17002,8 @@
 <http://data.ub.uio.no/realfagstermer/c010767> skos:prefLabel "Fortidsvern"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010768> skos:prefLabel "Mouse"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010769> skos:prefLabel "Primærhelsetenesta"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010771> skos:prefLabel "Eksponering"@nn .
 
@@ -16127,6 +17097,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010830> skos:prefLabel "Objektorienterte brukargrensesnitt"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010831> skos:prefLabel "Platinakatalysatorar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010833> skos:prefLabel "Anadromi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010834> skos:prefLabel "Mink"@nn .
@@ -16161,6 +17133,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010857> skos:prefLabel "Fiskemetodar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010859> skos:prefLabel "Protonleiingsevne"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010860> skos:altLabel "Offshore"@nn ;
     skos:prefLabel "Utanskjers"@nn .
 
@@ -16177,6 +17151,8 @@
 <http://data.ub.uio.no/realfagstermer/c010865> skos:prefLabel "Mikroprogrammering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010866> skos:prefLabel "Partikkelakselerasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010867> skos:prefLabel "Pinealkjertelen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010868> skos:prefLabel "Mips"@nn .
 
@@ -16223,6 +17199,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010890> skos:prefLabel "Elektrofysikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010891> skos:prefLabel "Pulsarar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010892> skos:prefLabel "Konveksitet"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010893> skos:prefLabel "Fabeldyr"@nn .
@@ -16233,6 +17211,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010902> skos:altLabel "Hydrografiske undersøkingar"@nn ;
     skos:prefLabel "Hydrografi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010903> skos:prefLabel "Polypeptid"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010904> skos:prefLabel "Exiton"@nn .
 
@@ -16266,6 +17246,8 @@
 <http://data.ub.uio.no/realfagstermer/c010927> skos:prefLabel "Dynamitt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010928> skos:prefLabel "Algebraiske tal"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c010929> skos:prefLabel "Prosessindustri"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010935> skos:altLabel "Objektorientert utforming"@nn,
         "Objektorienterte konstruksjonar"@nn ;
@@ -16332,6 +17314,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c010975> skos:prefLabel "Kulturpolitikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c010980> skos:prefLabel "Produktvurdering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c010982> skos:prefLabel "Dihydrogenbindingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c010983> skos:prefLabel "Dreiemoment"@nn .
@@ -16362,12 +17346,16 @@
 
 <http://data.ub.uio.no/realfagstermer/c011002> skos:prefLabel "Enumerativ geometri"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011004> skos:prefLabel "Programmeringsmetodikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011006> skos:altLabel "Jernbanesystem"@nn ;
     skos:prefLabel "Jarnbanesystem"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011007> skos:prefLabel "Næringsøkologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011008> skos:prefLabel "Klematis"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011009> skos:prefLabel "Personrett"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011010> skos:prefLabel "Feittstoff"@nn .
 
@@ -16508,6 +17496,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011108> skos:prefLabel "Kattar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011109> skos:prefLabel "Proteolyse"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011110> skos:prefLabel "Endofyttar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011111> skos:prefLabel "Medisinsk biologi"@nn .
@@ -16518,6 +17508,8 @@
     skos:prefLabel "Finansielle krisar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011118> skos:prefLabel "Epitaksi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011119> skos:prefLabel "Protonoverføring"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011120> skos:prefLabel "Domenenamnstenar"@nn .
 
@@ -16543,11 +17535,15 @@
         "Mikrobølgeområdet"@nn ;
     skos:prefLabel "Mikrobølgjeområdet"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011135> skos:prefLabel "Prøvemetodar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011136> skos:prefLabel "Marine installasjonar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011137> skos:prefLabel "Ilmenitt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011139> skos:prefLabel "Kalenderhistorie"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011140> skos:prefLabel "Predikatlogikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011141> skos:altLabel "Bildedatabasar"@nn ;
     skos:prefLabel "Biletdatabasar"@nn .
@@ -16555,6 +17551,8 @@
 <http://data.ub.uio.no/realfagstermer/c011143> skos:prefLabel "Hypotetisk-deduktiv metode"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011145> skos:prefLabel "Huntingtons sjukdom"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011146> skos:prefLabel "Programmetrikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011147> skos:prefLabel "Atomoptikk"@nn .
 
@@ -16567,6 +17565,8 @@
 <http://data.ub.uio.no/realfagstermer/c011155> skos:prefLabel "Museumspedagogikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011156> skos:prefLabel "Insektsamfunn"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011157> skos:prefLabel "Punkt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011158> skos:prefLabel "Akselererande univers"@nn .
 
@@ -16639,6 +17639,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011207> skos:prefLabel "Organellar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011208> skos:prefLabel "Polhøgdevariasjonar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011210> skos:prefLabel "Elektriske dipolmoment"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011211> skos:prefLabel "Kimberlittar"@nn .
@@ -16649,6 +17651,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011216> skos:altLabel "K-stjerner"@nn ;
     skos:prefLabel "K-type"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011217> skos:prefLabel "Porfyrin"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011220> skos:prefLabel "Parasittiske krepsdyr"@nn .
 
@@ -16700,6 +17704,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011260> skos:prefLabel "Oppvekst"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011261> skos:prefLabel "Preparat"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011262> skos:prefLabel "Industriproduksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011263> skos:prefLabel "Jordbrukskjemi"@nn .
@@ -16746,9 +17752,13 @@
         "Molekylære krafter"@nn,
         "Molekylære krefter"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011288> skos:prefLabel "Populasjonsgenetikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011289> skos:prefLabel "Oksidasar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011290> skos:prefLabel "Bruksretta økonomi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011292> skos:prefLabel "Polyetylen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011293> skos:prefLabel "Manteldynamikk"@nn .
 
@@ -16774,6 +17784,8 @@
 <http://data.ub.uio.no/realfagstermer/c011305> skos:prefLabel "Insektøkologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011306> skos:prefLabel "Kjøling"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011308> skos:prefLabel "Prognosar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011310> skos:prefLabel "Kitin"@nn .
 
@@ -16839,6 +17851,8 @@
 <http://data.ub.uio.no/realfagstermer/c011348> skos:prefLabel "Organonitrogen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011350> skos:prefLabel "AspectJ"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011351> skos:prefLabel "Praktisk biokjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011355> skos:prefLabel "Analytiske funksjonar"@nn .
 
@@ -16959,6 +17973,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c011421> skos:prefLabel "Kompleksometrisk titrering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011423> skos:altLabel "Polymorfe krystall"@nn ;
+    skos:prefLabel "Polymorfe krystallar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011425> skos:prefLabel "Overflatetemperatur"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011426> skos:prefLabel "Fjellklatring"@nn .
@@ -17051,9 +18068,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c011481> skos:prefLabel "Fosfatsyklus"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011483> skos:prefLabel "Prolog"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011485> skos:prefLabel "Cytokjemi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011486> skos:prefLabel "Ikkje-verbal kommunikasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011487> skos:prefLabel "Prisar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011489> skos:prefLabel "Leptin"@nn .
 
@@ -17063,12 +18084,16 @@
 
 <http://data.ub.uio.no/realfagstermer/c011493> skos:prefLabel "Meteorstormar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011494> skos:prefLabel "Petroleumsverksemd"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011496> skos:prefLabel "Anaerobe soppar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011497> skos:altLabel "Kompleks"@nn ;
     skos:prefLabel "Komplekssambindingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011498> skos:prefLabel "Datatypar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011501> skos:prefLabel "Petroleumsteknologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011502> skos:prefLabel "Komplettheitsproblem"@nn .
 
@@ -17095,6 +18120,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c011516> skos:prefLabel "Metalliske elektrodeoverflater"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011517> skos:prefLabel "Prediksjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011519> skos:prefLabel "Plantegenetikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011520> skos:prefLabel "Global marine distress and safety system"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011521> skos:prefLabel "Fleirfasemedium"@nn .
@@ -17106,6 +18135,8 @@
 <http://data.ub.uio.no/realfagstermer/c011527> skos:prefLabel "Forgreining"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011528> skos:prefLabel "Faselova"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011529> skos:prefLabel "Primitive amfibium"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011530> skos:prefLabel "Hudpleie"@nn .
 
@@ -17191,6 +18222,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011574> skos:prefLabel "Nakenrotter"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011575> skos:prefLabel "Programmeringsspråk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011576> skos:prefLabel "Miljøvilkår"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011578> skos:prefLabel "Overflatestruktur"@nn .
@@ -17251,6 +18284,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011612> skos:prefLabel "Fureflagellatar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011615> skos:prefLabel "Planteliv"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011616> skos:prefLabel "Biobankar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011617> skos:prefLabel "Akvateknikk"@nn .
@@ -17265,6 +18300,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011623> skos:altLabel "Nakengjellesniglar"@nn ;
     skos:prefLabel "Nakensniglar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011624> skos:prefLabel "Pulverteknologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011625> skos:prefLabel "Fluoridering"@nn .
 
@@ -17402,6 +18439,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011712> skos:prefLabel "Grunnforureining"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011713> skos:prefLabel "Pressing"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011714> skos:prefLabel "Nanonivå"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011715> skos:altLabel "Exocytose"@nn ;
@@ -17469,6 +18508,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011755> skos:prefLabel "Ae-type"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011756> skos:prefLabel "Plastteknikkar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011758> skos:prefLabel "Kjemiske reseptorar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011759> skos:altLabel "Ionselektive elektrodar"@nn ;
@@ -17512,6 +18553,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011786> skos:prefLabel "Jordas gravitasjonsfelt"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011788> skos:prefLabel "Polyklorerte bifenyl"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011789> skos:prefLabel "Formell programutvikling"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011790> skos:prefLabel "Grunnforsking"@nn .
@@ -17528,6 +18571,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011799> skos:prefLabel "LVSEM"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011801> skos:prefLabel "Plastid"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011802> skos:prefLabel "Kontinentalskråning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011803> skos:prefLabel "Mikrobiell immunitet"@nn .
@@ -17539,6 +18584,8 @@
     skos:prefLabel "Komplekse variablar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011807> skos:prefLabel "Biotelemetri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011808> skos:prefLabel "Polymere halvleiarar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011809> skos:prefLabel "Glasitektonikk"@nn .
 
@@ -17715,6 +18762,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011915> skos:prefLabel "Modernisering"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011917> skos:prefLabel "Problembasert læring"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011918> skos:prefLabel "Dokumentanalyse"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011919> skos:altLabel "Light Emitting Diode"@nn,
@@ -17832,6 +18881,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c011984> skos:prefLabel "Massive stjerner"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c011986> skos:prefLabel "Platonske lekamar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c011987> skos:prefLabel "Ekstrasolare planetsystem"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011989> skos:altLabel "Bose-Einstein condensates"@nn ;
@@ -17842,6 +18893,8 @@
 <http://data.ub.uio.no/realfagstermer/c011991> skos:prefLabel "Koronaen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011994> skos:prefLabel "DNA-addukt"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c011997> skos:prefLabel "Prøvetilarbeiding"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c011998> skos:prefLabel "Delay- and disruption-tolerant networking"@nn .
 
@@ -17881,6 +18934,9 @@
         "Månebusetting"@nn ;
     skos:prefLabel "Månebusetnad"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012022> skos:altLabel "Planetbanar"@nn ;
+    skos:prefLabel "Planetbaner"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012024> skos:prefLabel "Intelligente system"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012025> skos:prefLabel "Månebasar"@nn .
@@ -17890,6 +18946,8 @@
 <http://data.ub.uio.no/realfagstermer/c012027> skos:prefLabel "Forskingsinfrastruktur"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012028> skos:prefLabel "Magnettomografi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012029> skos:prefLabel "Prøvekonstruksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012031> skos:prefLabel "NK-celler"@nn .
 
@@ -17920,6 +18978,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c012054> skos:prefLabel "Clojure"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012055> skos:prefLabel "Planteprodukt"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012056> skos:prefLabel "Fornybare kjelder"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012057> skos:prefLabel "Paramagnetisk resonans"@nn .
@@ -17944,13 +19004,21 @@
 
 <http://data.ub.uio.no/realfagstermer/c012074> skos:prefLabel "Geofysiske prosessar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012077> skos:prefLabel "Predisponering"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012078> skos:prefLabel "Fluorometri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012080> skos:prefLabel "Persistente organiske sambindingar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012081> skos:prefLabel "Proteinfosfatasar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012082> skos:prefLabel "Gullkompleks"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012083> skos:prefLabel "Miljøstatistikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012085> skos:prefLabel "Brunsniglar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012086> skos:prefLabel "Pteridophyta"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012087> skos:prefLabel "Dspråk"@nn .
 
@@ -17963,6 +19031,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c012092> skos:prefLabel "Nukleotidsekvensar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012093> skos:prefLabel "Plasmaastrofysikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012094> skos:prefLabel "Mitokondriell funksjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012095> skos:prefLabel "Case"@nn .
@@ -17973,6 +19043,8 @@
     skos:prefLabel "Bayesiansk modellering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012100> skos:prefLabel "Cellulær kontroll"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012101> skos:prefLabel "Proteinkinasar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012102> skos:prefLabel "Arisaema"@nn .
 
@@ -17987,7 +19059,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c012114> skos:prefLabel "Humussfæren"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012115> skos:prefLabel "Psykonevroendokrinologi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012116> skos:prefLabel "Dopamin"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012117> skos:prefLabel "Protoceller"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012118> skos:altLabel "Paramecium"@nn ;
     skos:prefLabel "Tøffeldyr"@nn .
@@ -18009,9 +19085,13 @@
 
 <http://data.ub.uio.no/realfagstermer/c012134> skos:prefLabel "Kjønnsratar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012136> skos:prefLabel "Privatliv"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012137> skos:prefLabel "Dinitramid"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012138> skos:prefLabel "Fagocyttar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012139> skos:prefLabel "Planetrotasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012140> skos:prefLabel "Mønstergenerering"@nn .
 
@@ -18104,6 +19184,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c012192> skos:prefLabel "Palladium"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012193> skos:prefLabel "Platina"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012198> skos:prefLabel "Antimon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012205> skos:prefLabel "Geoarkeologi"@nn .
@@ -18146,6 +19228,10 @@
 <http://data.ub.uio.no/realfagstermer/c012220> skos:altLabel "Høgskolar"@nn ;
     skos:prefLabel "Høgskular"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012221> skos:altLabel "Personalarbeid"@nn,
+        "Personalstyring"@nn ;
+    skos:prefLabel "Personaladministrasjon"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012224> skos:altLabel "Modellstøtta signalbehandling"@nn,
         "Modellstøtta signalprosessering"@nn ;
     skos:prefLabel "Modellstøtta signalhandsaming"@nn .
@@ -18156,6 +19242,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c012227> skos:altLabel "Sr-protokoll"@nn ;
     skos:prefLabel "Nettverksprotokollar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012228> skos:altLabel "Phigs"@nn,
+        "Phigs plus"@nn,
+        "SPHIGS"@nn ;
+    skos:prefLabel "Programmer's hierarchical interactive graphics system"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012229> skos:altLabel "Digital bildebehandling"@nn,
         "Digital bildehandsaming"@nn,
@@ -18313,6 +19404,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c012299> skos:prefLabel "Parabolske likningar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012300> skos:prefLabel "Periodiske differensiallikningar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012303> skos:altLabel "K/T-grensa"@nn ;
     skos:prefLabel "Kritt-tertiær-grensa"@nn .
 
@@ -18407,6 +19500,16 @@
 
 <http://data.ub.uio.no/realfagstermer/c012350> skos:prefLabel "Nobelium"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012351> skos:prefLabel "Plutonium"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012352> skos:prefLabel "Polonium"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012353> skos:prefLabel "Praseodym"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012354> skos:prefLabel "Promethium"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012355> skos:prefLabel "Protactinium"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012372> skos:altLabel "F-blokken"@nn ;
     skos:prefLabel "F-blokka"@nn .
 
@@ -18458,11 +19561,22 @@
 
 <http://data.ub.uio.no/realfagstermer/c012390> skos:prefLabel "Kambrium"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012391> skos:altLabel "Urtid"@nn ;
+    skos:prefLabel "Prekambrium"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012392> skos:prefLabel "Oligocen"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012393> skos:prefLabel "Ordovicium"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012394> skos:prefLabel "Paleocen"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012395> skos:prefLabel "Perm"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012396> skos:prefLabel "Pleistocen"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012397> skos:prefLabel "Pliocen"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012398> skos:prefLabel "Proterozoikum"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012400> skos:prefLabel "Arkeikum"@nn .
 
@@ -18605,6 +19719,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c012463> skos:prefLabel "Kroppar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012464> skos:prefLabel "Polynom"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012465> skos:prefLabel "Kommutative assosiative algebraer"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012466> skos:prefLabel "Kommutative assosiative ringar"@nn .
@@ -18633,6 +19749,8 @@
     skos:prefLabel "Gruppeteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012478> skos:prefLabel "Integrasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012480> skos:prefLabel "Potensialteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012481> skos:prefLabel "Harmoniske funksjonar"@nn .
 
@@ -18832,7 +19950,28 @@
         "Patentlovgjeving"@nn ;
     skos:prefLabel "Patentrett"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012575> skos:prefLabel "Periglasial geomorfologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012576> skos:prefLabel "Periglasial permafrost"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012577> skos:altLabel "Perturbasjonsmetodar"@nn ;
+    skos:prefLabel "Perturbasjonsteori"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012578> skos:altLabel "Piezoelektriske materiale"@nn ;
+    skos:prefLabel "Piezoelektrisitet"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012579> skos:altLabel "Planetære ringar"@nn ;
+    skos:prefLabel "Planetringar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012580> skos:prefLabel "Plantefarging"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012581> skos:altLabel "Plantefargar"@nn,
+        "Plantefarger"@nn ;
+    skos:prefLabel "Plantefargestoff"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012582> skos:prefLabel "Fargestoff"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012583> skos:prefLabel "Polarhydrologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012584> skos:altLabel "Fleirårige plantar"@nn ;
     skos:prefLabel "Fleirårige planter"@nn .
@@ -19129,6 +20268,10 @@
         "Menneskelege inngrep"@nn ;
     skos:prefLabel "Menneskeleg påverknad"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012684> skos:altLabel "Programmert celledaude"@nn,
+        "Programmert celledød"@nn ;
+    skos:prefLabel "Apoptose"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012685> skos:altLabel "Fykologi"@nn ;
     skos:prefLabel "Algar"@nn .
 
@@ -19225,6 +20368,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c012722> skos:altLabel "Benthosøkologi"@nn ;
     skos:prefLabel "Bentosøkologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012723> skos:altLabel "Protozoa"@nn,
+        "Urdyr"@nn ;
+    skos:prefLabel "Protozoar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012724> skos:altLabel "Bentiske protozoa"@nn ;
     skos:prefLabel "Bentiske protozoar"@nn .
@@ -19360,12 +20507,33 @@
 
 <http://data.ub.uio.no/realfagstermer/c012776> skos:prefLabel "Bruksretta paleontologi"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012778> skos:prefLabel "Permutasjonsgeneratorar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012779> skos:altLabel "Planetvitskap"@nn ;
+    skos:prefLabel "Planetologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012780> skos:altLabel "Plantenomenklatur"@nn ;
+    skos:prefLabel "Plantenamn"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012781> skos:altLabel "Plastiske formendringar"@nn ;
+    skos:prefLabel "Plastisk deformasjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012782> skos:altLabel "Populasjonskontroll"@nn ;
+    skos:prefLabel "Populasjonsregulering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012783> skos:prefLabel "Posisjoneringssystem"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012784> skos:prefLabel "Positronemisjonstomografi"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012785> skos:prefLabel "Ikkje-lineær potensialteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012786> skos:altLabel "Angrepiller"@nn,
         "Nødprevensjon"@nn,
         "Postkoital antikonsepsjon"@nn ;
     skos:prefLabel "Naudprevensjon"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012787> skos:altLabel "Prisregulering"@nn ;
+    skos:prefLabel "Prispolitikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012788> skos:altLabel "Akronym"@nn ;
     skos:prefLabel "Forkortingar"@nn .
@@ -19552,8 +20720,28 @@
 
 <http://data.ub.uio.no/realfagstermer/c012867> skos:prefLabel "Paramagnetisk spinnresonans"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012868> skos:altLabel "Proteinkrystall"@nn,
+        "Proteinkrystallar"@nn ;
+    skos:prefLabel "Proteinkrystallografi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012869> skos:altLabel "Prydplantar"@nn,
+        "Prydvekstar"@nn,
+        "Prydvokstrar"@nn ;
+    skos:prefLabel "Prydplanter"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012870> skos:altLabel "Prøveevaluering"@nn ;
     skos:prefLabel "Elevvurdering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012873> skos:altLabel "Mentale lidingar"@nn,
+        "Mentale sjukdomar"@nn,
+        "Mentale sjukdommar"@nn,
+        "Psykiske forstyrringar"@nn ;
+    skos:prefLabel "Psykiske lidingar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012874> skos:altLabel "Psykologiske testar"@nn ;
+    skos:prefLabel "Psykometri"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012875> skos:prefLabel "Publikumsakvarium"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012876> skos:prefLabel "Akvarium"@nn .
 
@@ -19613,6 +20801,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c012908> skos:prefLabel "Borkbiller"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c012909> skos:prefLabel "Praktbiller"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c012914> skos:prefLabel "Biologiske klokker"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012915> skos:prefLabel "Døgnrytme"@nn .
@@ -19642,6 +20832,11 @@
     skos:prefLabel "Bladskjerarmaur"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012924> skos:prefLabel "Bladteger"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012925> skos:altLabel "Bladkvefs"@nn,
+        "Bladveps"@nn,
+        "Planteveps"@nn ;
+    skos:prefLabel "Plantekvefs"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012926> skos:prefLabel "Bukkeblad"@nn .
 
@@ -19725,6 +20920,9 @@
 
 <http://data.ub.uio.no/realfagstermer/c012956> skos:altLabel "Java database connectivity"@nn ;
     skos:prefLabel "Jdbc"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c012957> skos:altLabel "Johannesurt"@nn ;
+    skos:prefLabel "Prikkperikum"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c012958> skos:altLabel "Jordbørstemakk"@nn,
         "Jordbørstemark"@nn,
@@ -19866,6 +21064,9 @@
     skos:prefLabel "DNA"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013029> skos:prefLabel "Generell relativitetsteori"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013030> skos:altLabel "Reliabilitet"@nn ;
+    skos:prefLabel "Pålitelegskap"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013038> skos:prefLabel "Dna-reparasjon"@nn .
 
@@ -20099,6 +21300,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c013186> skos:prefLabel "Matematisk genetikk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013187> skos:prefLabel "Populasjonsdynamikk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013188> skos:altLabel "Epidemiar"@nn ;
     skos:prefLabel "Epidemiologi"@nn .
 
@@ -20125,6 +21328,8 @@
 <http://data.ub.uio.no/realfagstermer/c013203> skos:prefLabel "Informasjonsteori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013204> skos:prefLabel "Nettverk og grafar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013205> skos:prefLabel "Probabilistisk automatateori"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013206> skos:altLabel "Formalspråk"@nn ;
     skos:prefLabel "Formelle språk"@nn .
@@ -20167,6 +21372,8 @@
 <http://data.ub.uio.no/realfagstermer/c013222> skos:altLabel "Parasittiske soppar"@nn,
         "Patogene soppar"@nn ;
     skos:prefLabel "Parasittsoppar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013223> skos:prefLabel "Poresoppar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013231> skos:altLabel "Etande soppar"@nn,
         "Etelege soppar"@nn ;
@@ -20235,6 +21442,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c013277> skos:altLabel "Arktiske tundraar"@nn ;
     skos:prefLabel "Arktiske tundraer"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013280> skos:altLabel "Gasståker"@nn,
+        "Planettåker"@nn,
+        "Tåker"@nn ;
+    skos:prefLabel "Planetariske tåker"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013289> skos:altLabel "Colobusaper"@nn ;
     skos:prefLabel "Colobusapar"@nn .
@@ -20432,11 +21644,21 @@
 
 <http://data.ub.uio.no/realfagstermer/c013381> skos:prefLabel "Maskinvaretesting"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013382> skos:altLabel "Programvaretesting"@nn ;
+    skos:prefLabel "Programtesting"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013389> skos:altLabel "Metalloproteinasar"@nn ;
     skos:prefLabel "Metalloproteasar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013391> skos:altLabel "Akritarkar"@nn ;
     skos:prefLabel "Palynologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013392> skos:altLabel "Paleopalynologi"@nn ;
+    skos:prefLabel "Prekvartær palynologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013393> skos:altLabel "Proteinasar"@nn,
+        "Proteolytiske enzym"@nn ;
+    skos:prefLabel "Proteasar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013394> skos:altLabel "Brystmjølk"@nn ;
     skos:prefLabel "Morsmjølk"@nn .
@@ -20565,6 +21787,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c013446> skos:prefLabel "Finsk språk"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013447> skos:prefLabel "Polsk språk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013449> skos:prefLabel "Mangeføtingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013452> skos:altLabel "Symfylar"@nn ;
@@ -20621,6 +21845,8 @@
 <http://data.ub.uio.no/realfagstermer/c013475> skos:altLabel "Gras"@nn ;
     skos:prefLabel "Grasfamilien"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013477> skos:prefLabel "Portefølje"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013478> skos:prefLabel "Fréchet-derivasjon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013479> skos:prefLabel "Gâteaux-derivasjon"@nn .
@@ -20653,6 +21879,16 @@
 <http://data.ub.uio.no/realfagstermer/c013492> skos:prefLabel "Naturvitskap"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013493> skos:prefLabel "Pedagogikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013494> skos:prefLabel "Polemikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013495> skos:prefLabel "Politikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013496> skos:prefLabel "Popularisering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013497> skos:prefLabel "Populærmatematikk"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013498> skos:prefLabel "Psykologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013509> skos:altLabel "Lister"@nn ;
     skos:prefLabel "Listestrukturar"@nn .
@@ -20743,6 +21979,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c013570> skos:prefLabel "Elastisitet"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013571> skos:prefLabel "Plastisitet"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013572> skos:prefLabel "Akustikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013573> skos:altLabel "Dirikletformer"@nn ;
@@ -20769,6 +22007,8 @@
 <http://data.ub.uio.no/realfagstermer/c013583> skos:altLabel "Kjernemagnetisk resonans-spektroskopi"@nn,
         "NMR-spektroskopi"@nn ;
     skos:prefLabel "Kjernemagnetisk resonans"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013584> skos:prefLabel "Portugisisk språk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013588> skos:prefLabel "Irsk språk"@nn .
 
@@ -21011,8 +22251,26 @@
 <http://data.ub.uio.no/realfagstermer/c013691> skos:altLabel "Algetoksin"@nn ;
     skos:prefLabel "Algegifter"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013692> skos:altLabel "Plantetoksin"@nn ;
+    skos:prefLabel "Plantegifter"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013694> skos:altLabel "Detoksikering"@nn ;
     skos:prefLabel "Detoksifisering"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013695> skos:altLabel "Foredragsteknikk"@nn,
+        "Forelesingar"@nn,
+        "Forelesingsteknikk"@nn,
+        "Forelesningar"@nn,
+        "Forelesningsteknikk"@nn,
+        "Føredragsteknikk"@nn,
+        "Førelesingar"@nn,
+        "Førelesingsteknikk"@nn,
+        "Førelesningar"@nn,
+        "Førelesningsteknikk"@nn,
+        "Munnleg formidling"@nn,
+        "Munnleg kommunikasjon"@nn,
+        "Munnlege presentasjonar"@nn ;
+    skos:prefLabel "Presentasjonsteknikk"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013696> skos:altLabel "Grøbnerbasar"@nn ;
     skos:prefLabel "Gröbner-basisar"@nn .
@@ -21048,6 +22306,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c013704> skos:prefLabel "Haber-Bosch-prosessen"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013705> skos:prefLabel "Poisson-prosessar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013707> skos:altLabel "Jordbotn"@nn,
         "Jordbotnlære"@nn ;
     skos:prefLabel "Jordbotnsystem"@nn .
@@ -21076,9 +22336,17 @@
         "Miljørisiko"@nn ;
     skos:prefLabel "Miljøeffektar"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013724> skos:altLabel "Proteinligand"@nn,
+        "Proteinreseptorar"@nn ;
+    skos:prefLabel "Proteinbindingar"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013725> skos:prefLabel "Tyning"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013726> skos:prefLabel "Ammoniumderivat"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013727> skos:altLabel "Polyaromatiske hydrokarbon"@nn,
+        "Polyaromatiske sambindingar"@nn ;
+    skos:prefLabel "Polysykliske aromatiske hydrokarbon"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013728> skos:altLabel "Heteroaromatiske hydrokarbon"@nn,
         "Heteroaromatiske sambindingar"@nn ;
@@ -21102,6 +22370,11 @@
 <http://data.ub.uio.no/realfagstermer/c013737> skos:prefLabel "Nitroorganiske sambindingar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013738> skos:prefLabel "Kalsiumkanalar"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013739> skos:altLabel "Mjøling"@nn,
+        "Pollineringsbiologi"@nn,
+        "Pollineringsøkologi"@nn ;
+    skos:prefLabel "Pollinering"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013743> skos:altLabel "Væskemekanikk"@nn ;
     skos:prefLabel "Fluidmekanikk"@nn .
@@ -21152,6 +22425,10 @@
 <http://data.ub.uio.no/realfagstermer/c013765> skos:prefLabel "Kystmorfologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013766> skos:prefLabel "Mekanisk stress"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013767> skos:altLabel "Massekultur"@nn,
+        "Popkultur"@nn ;
+    skos:prefLabel "Populærkultur"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013769> skos:altLabel "Darwins utviklingslære"@nn,
         "Evolusjonslæra"@nn,
@@ -21281,6 +22558,15 @@
         "Fleircella dyr"@nn ;
     skos:prefLabel "Dyr"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013826> skos:altLabel "Grøne plantar"@nn,
+        "Grøne planter"@nn,
+        "Høgare plantar"@nn,
+        "Høgare planter"@nn,
+        "Høgre plantar"@nn,
+        "Høgre planter"@nn,
+        "Plantar"@nn ;
+    skos:prefLabel "Planter"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013827> skos:altLabel "Fisk"@nn,
         "Ichtyologi"@nn ;
     skos:prefLabel "Fiskar"@nn .
@@ -21347,6 +22633,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c013858> skos:prefLabel "Kambriske eksplosjon"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013859> skos:prefLabel "Psykofarmaka"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013860> skos:prefLabel "Antidepressiva"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013861> skos:altLabel "Lykkepiller"@nn ;
@@ -21354,11 +22642,18 @@
 
 <http://data.ub.uio.no/realfagstermer/c013862> skos:prefLabel "Nøytron"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013863> skos:altLabel "Pythagoras læresetning"@nn ;
+    skos:prefLabel "Pythagoras setning"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013864> skos:altLabel "Cachelager"@nn,
         "Hurtiglager"@nn,
         "Hurtigminne"@nn,
         "Snøgglager"@nn ;
     skos:prefLabel "Snøggminne"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013865> skos:altLabel "Internminne"@nn,
+        "Primærlager"@nn ;
+    skos:prefLabel "Primærminne"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013867> skos:altLabel "Fornminne"@nn ;
     skos:prefLabel "Fortidsminne"@nn .
@@ -21448,6 +22743,8 @@
         "Kromosomkartlegging"@nn ;
     skos:prefLabel "Genetisk kartlegging"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c013902> skos:prefLabel "Polyeder"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c013904> skos:prefLabel "Måneferder"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013905> skos:prefLabel "Minimalmodellprogram"@nn .
@@ -21498,6 +22795,9 @@
         "Forstoff"@nn,
         "Fôr"@nn ;
     skos:prefLabel "Fôrstoff"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013923> skos:altLabel "Planteernæring"@nn ;
+    skos:prefLabel "Plantenæring"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013924> skos:altLabel "Underernæring"@nn ;
     skos:prefLabel "Feilernæring"@nn .
@@ -21559,6 +22859,10 @@
 
 <http://data.ub.uio.no/realfagstermer/c013951> skos:altLabel "Evolusjonær psykologi"@nn ;
     skos:prefLabel "Evolusjonspsykologi"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c013952> skos:altLabel "Biologisk psykologi"@nn,
+        "Biopsykologi"@nn ;
+    skos:prefLabel "Psykobiologi"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c013953> skos:altLabel "Dyrepsykologi"@nn ;
     skos:prefLabel "Etologi"@nn .
@@ -21684,6 +22988,8 @@
     skos:prefLabel "Byar"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c014003> skos:prefLabel "Kulturelle aspekt"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c014004> skos:prefLabel "Politiske aspekt"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c014007> skos:altLabel "Grunnstoffgruppe 14"@nn ;
     skos:prefLabel "Karbongruppa"@nn .
@@ -21878,9 +23184,14 @@
 <http://data.ub.uio.no/realfagstermer/c031309> skos:altLabel "Generell likevekt (økonomi)"@nn ;
     skos:prefLabel "Generell jamvekt (økonomi)"@nn .
 
+<http://data.ub.uio.no/realfagstermer/c031320> skos:prefLabel "Polare lågtrykk"@nn .
+
 <http://data.ub.uio.no/realfagstermer/c031322> skos:altLabel "Darwinistisk medisin"@nn,
         "Darwinsk medisin"@nn ;
     skos:prefLabel "Evolusjonær medisin"@nn .
+
+<http://data.ub.uio.no/realfagstermer/c031324> skos:altLabel "Coyote"@nn ;
+    skos:prefLabel "Prærieulv"@nn .
 
 <http://data.ub.uio.no/realfagstermer/c031327> skos:altLabel "Energidispersiv røntgenanalyse"@nn,
         "Energidispersiv røntgenmikroanalyse"@nn ;
