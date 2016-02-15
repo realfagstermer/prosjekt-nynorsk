@@ -14,6 +14,4 @@ Dataa frå prosjektet er frigjord for fri bruk under CC0-lisensen, førebels i R
 SKOS-XL og SKOS. Etter kvart kjem vi óg til å publisere dei i fleire format – til dømes CSV.
 
 Omsetjinga nyttast allereie i [emnesøket vårt](https://github.com/scriptotek/emnesok),
-der du no til dømes kan søke etter litteratur om [ævelengdsma
-skinar](https://app.uio.no/ub/emnesok/realfagstermer/search?term=Ævelengdsma
-skinar). Vi arbeidar med å få synt fram omsatte termar i katalogpostane.
+der du no til dømes kan søke etter litteratur om [ævelengdsmaskinar](https://app.uio.no/ub/emnesok/realfagstermer/search?term=Ævelengdsmaskinar). Vi arbeidar med å få synt fram omsatte termar i katalogpostane.
