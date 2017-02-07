@@ -10,8 +10,5 @@ Arbeidet vart leda av [UBB](http://www.uib.no/ub) og utført av
 [Jørgen Eriksson Midtbø](https://github.com/jorgenem) (fysikk/matte m.m.)
 og [Vebjørn Sture](https://github.com/totlevase) (korrektur).
 
-Dataa frå prosjektet er frigjord for fri bruk under CC0-lisensen, førebels i RDF basert på
-SKOS-XL og SKOS. Etter kvart kjem vi óg til å publisere dei i fleire format – til dømes CSV.
-
-Omsetjinga nyttast allereie i [emnesøket vårt](https://github.com/scriptotek/emnesok),
-der du no til dømes kan søke etter litteratur om [ævelengdsmaskinar](https://app.uio.no/ub/emnesok/realfagstermer/search?term=Ævelengdsmaskinar). Vi arbeidar med å få synt fram omsatte termar i katalogpostane.
+No som prosjektet er avslutta har dataa frå prosjektet blitt tatt inn i [Realfagstermer-repoet](https://github.com/realfagstermer/realfagstermer), der dei verdt oppdatert videre. Dette repoet
+bevarast kun av historiske omsyn.
